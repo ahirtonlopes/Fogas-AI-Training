@@ -1,0 +1,56 @@
+ID_Botijao,Data_Reclamacao,Tipo_Reclamacao,Status,Tempo_Resolucao,Produto_Reclamado,Setor_Responsavel,Impacto_Financeiro,Canal_Reclamacao,Prioridade,Acao_Corretiva,Satisfacao_Pos_Resolucao,Reincidencia,Custo_Resolucao
+F3892,2025-01-06,Produto Defeituoso,Em Análise,4.0,GLP Granel,Qualidade,448.01,E-mail,Alta,Realizado reembolso,2.0,True,93.21
+F7349,2025-01-04,Cobrança Incorreta,Resolvida,3.0,GLP Granel,Atendimento,61.07,Site,Alta,Realizado treinamento,,False,51.22
+F2974,2025-01-06,Atraso na Entrega,Em Análise,3.0,GLP Residencial,Qualidade,196.18,WhatsApp,Baixa,Realizado treinamento,5.0,False,181.9
+F9224,2025-01-08,Vazamento,Em Análise,6.0,GLP Granel,Vendas,41.76,WhatsApp,Baixa,Realizado substituição,2.0,False,174.45
+F4730,2025-01-08,Vazamento,Encerrada,2.0,GLP Granel,Vendas,433.71,Site,Média,Realizado substituição,,False,15.96
+F3462,2025-01-06,Atraso na Entrega,Aberta,2.0,GLP Comercial,Qualidade,355.79,E-mail,Média,Realizado reembolso,3.0,False,0.0
+F7614,2025-01-11,Vazamento,Em Análise,3.0,GLP Residencial,Vendas,0.0,Site,Baixa,Realizado treinamento,4.0,False,37.66
+F1997,2025-01-07,Atendimento Insatisfatório,Em Análise,,GLP Granel,Vendas,146.17,Site,Alta,Realizado reembolso,,False,65.52
+F4105,2025-01-09,Qualidade do Produto,Resolvida,6.0,GLP Comercial,Logística,237.99,Site,Baixa,Realizado reparo,4.0,False,90.33
+F6358,2025-01-10,Qualidade do Produto,Resolvida,3.0,GLP Granel,Logística,0.0,WhatsApp,Média,Realizado treinamento,,False,28.97
+F8499,2025-01-15,Atraso na Entrega,Em Análise,3.0,GLP Industrial,Atendimento,0.0,Redes Sociais,Baixa,Realizado treinamento,,False,0.0
+F2576,2025-01-10,Qualidade do Produto,Aberta,,GLP Residencial,Vendas,0.0,Site,Alta,Realizado treinamento,4.0,False,164.42
+F2671,2025-01-16,Atraso na Entrega,Em Análise,,GLP Comercial,Logística,408.9,Site,Alta,Realizado reparo,5.0,False,134.51
+F5642,2025-01-19,Cobrança Incorreta,Aberta,5.0,GLP Residencial,Vendas,284.88,Redes Sociais,Baixa,Realizado treinamento,,False,190.84
+F1450,2025-01-17,Atraso na Entrega,Encerrada,5.0,GLP Granel,Logística,0.0,Site,Alta,Realizado reparo,3.0,False,0.0
+F8289,2025-01-15,Atendimento Insatisfatório,Encerrada,2.0,GLP Residencial,Atendimento,0.0,Telefone,Média,Realizado substituição,4.0,False,142.29
+F7330,2025-01-17,Atendimento Insatisfatório,Encerrada,,GLP Residencial,Atendimento,335.93,Site,Média,Realizado reembolso,1.0,True,0.0
+F2910,2025-01-19,Atendimento Insatisfatório,Em Análise,,GLP Industrial,Logística,0.0,WhatsApp,Baixa,Realizado substituição,,True,0.0
+F2280,2025-01-22,Cobrança Incorreta,Aberta,,GLP Residencial,Vendas,422.71,WhatsApp,Média,Realizado reembolso,3.0,False,0.0
+F2430,2025-01-19,Atendimento Insatisfatório,Resolvida,9.0,GLP Industrial,Qualidade,398.47,Redes Sociais,Alta,Realizado reembolso,1.0,False,71.04
+F4814,2025-01-19,Cobrança Incorreta,Resolvida,7.0,GLP Industrial,Logística,225.2,Telefone,Média,Realizado reparo,4.0,False,119.63
+F5307,2025-01-21,Vazamento,Encerrada,,GLP Comercial,Qualidade,0.0,E-mail,Média,Realizado reparo,2.0,False,0.0
+F8022,2025-01-20,Atraso na Entrega,Encerrada,,GLP Residencial,Logística,0.0,Site,Baixa,Realizado reparo,3.0,False,0.0
+F6987,2025-01-24,Atendimento Insatisfatório,Resolvida,1.0,GLP Industrial,Vendas,20.82,Telefone,Média,Realizado reparo,2.0,False,0.0
+F5449,2025-01-21,Vazamento,Resolvida,6.0,GLP Residencial,Logística,0.0,E-mail,Baixa,Realizado reparo,3.0,True,16.13
+F2290,2025-01-24,Cobrança Incorreta,Em Análise,9.0,GLP Granel,Atendimento,0.0,WhatsApp,Média,Realizado reparo,,False,4.4
+F3091,2025-01-21,Produto Defeituoso,Resolvida,,GLP Industrial,Atendimento,0.0,Telefone,Média,Realizado reparo,3.0,False,26.93
+F5227,2025-01-25,Atraso na Entrega,Resolvida,6.0,GLP Granel,Qualidade,15.86,Telefone,Média,Realizado reparo,,False,11.79
+F9508,2025-01-20,Atendimento Insatisfatório,Encerrada,6.0,GLP Industrial,Qualidade,0.0,E-mail,Alta,Realizado treinamento,4.0,False,0.0
+F9544,2025-01-25,Cobrança Incorreta,Resolvida,8.0,GLP Granel,Atendimento,233.51,WhatsApp,Alta,Realizado treinamento,1.0,False,0.0
+F8195,2025-01-25,Atraso na Entrega,Resolvida,5.0,GLP Industrial,Logística,0.0,Site,Alta,Realizado reparo,4.0,False,4.51
+F3240,2025-01-22,Atendimento Insatisfatório,Resolvida,7.0,GLP Industrial,Atendimento,167.05,WhatsApp,Alta,Realizado reparo,4.0,False,0.0
+F5178,2025-01-27,Produto Defeituoso,Em Análise,5.0,GLP Granel,Logística,0.0,WhatsApp,Baixa,Realizado treinamento,5.0,False,139.74
+F5726,2025-01-27,Atendimento Insatisfatório,Resolvida,5.0,GLP Granel,Logística,425.86,Redes Sociais,Média,Realizado treinamento,3.0,False,0.0
+F1605,2025-01-27,Vazamento,Resolvida,3.0,GLP Granel,Logística,0.0,WhatsApp,Média,Realizado substituição,1.0,False,0.0
+F4494,2025-01-26,Vazamento,Resolvida,1.0,GLP Industrial,Qualidade,230.02,Redes Sociais,Média,Realizado reembolso,1.0,False,54.05
+F3747,2025-01-26,Atendimento Insatisfatório,Em Análise,4.0,GLP Granel,Atendimento,147.66,E-mail,Média,Realizado substituição,,False,110.45
+F4208,2025-01-24,Cobrança Incorreta,Resolvida,,GLP Granel,Vendas,0.0,Site,Média,Realizado reparo,3.0,False,135.88
+F9734,2025-01-27,Atraso na Entrega,Em Análise,7.0,GLP Granel,Logística,29.53,Redes Sociais,Baixa,Realizado reparo,4.0,True,0.0
+F6008,2025-01-27,Cobrança Incorreta,Aberta,,GLP Residencial,Logística,0.0,Telefone,Alta,Realizado reparo,2.0,False,58.09
+F9727,2025-01-23,Vazamento,Em Análise,7.0,GLP Industrial,Atendimento,216.33,Telefone,Média,Realizado substituição,5.0,False,0.0
+F3184,2025-01-25,Qualidade do Produto,Aberta,,GLP Industrial,Qualidade,5.2,Site,Média,Realizado reparo,,False,29.96
+F3243,2025-01-26,Vazamento,Em Análise,,GLP Industrial,Logística,0.0,WhatsApp,Média,Realizado treinamento,3.0,True,181.82
+F2978,2025-01-26,Vazamento,Aberta,8.0,GLP Industrial,Vendas,0.0,WhatsApp,Média,Realizado reembolso,4.0,True,159.48
+F5285,2025-01-28,Cobrança Incorreta,Resolvida,5.0,GLP Granel,Atendimento,0.0,Site,Média,Realizado substituição,2.0,False,0.0
+F7328,2025-01-26,Qualidade do Produto,Resolvida,,GLP Industrial,Vendas,0.0,E-mail,Alta,Realizado substituição,4.0,False,0.0
+F5063,2025-01-26,Vazamento,Em Análise,6.0,GLP Granel,Vendas,0.0,Redes Sociais,Baixa,Realizado reparo,1.0,False,0.0
+F7801,2025-01-27,Atraso na Entrega,Resolvida,4.0,GLP Granel,Qualidade,0.0,E-mail,Baixa,Realizado treinamento,3.0,False,0.0
+F8577,2025-01-25,Vazamento,Aberta,,GLP Residencial,Vendas,65.09,Site,Média,Realizado reembolso,1.0,False,64.29
+F2891,2025-01-29,Atraso na Entrega,Resolvida,9.0,GLP Industrial,Logística,0.0,Redes Sociais,Média,Realizado reparo,3.0,False,166.33
+F8019,2025-02-03,Cobrança Incorreta,Resolvida,,GLP Granel,Vendas,342.5,Redes Sociais,Média,Realizado substituição,1.0,False,0.0
+F1943,2025-01-29,Produto Defeituoso,Resolvida,,GLP Granel,Vendas,0.0,Redes Sociais,Média,Realizado reparo,5.0,False,0.0
+F2985,2025-01-31,Vazamento,Em Análise,,GLP Industrial,Qualidade,200.02,WhatsApp,Baixa,Realizado reembolso,5.0,False,191.57
+F4812,2025-02-05,Cobrança Incorreta,Encerrada,3.0,GLP Industrial,Atendimento,0.0,E-mail,Baixa,Realizado reembolso,3.0,False,0.0
+F4045,2025-02-01,Atendimento Insatisfatório,Aberta,9.0,GLP Industrial,Vendas,434.68,Telefone,Alta,Realizado reparo,,False,19.55

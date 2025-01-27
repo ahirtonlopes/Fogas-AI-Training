@@ -1,0 +1,916 @@
+ID_Botijao,Data,Hora,Estoque_Atual,Total_Distribuido,Distribuicao_Diaria,Limite_Reposicao,Capacidade_Botijao,Taxa_Uso_Diario,Previsao_Esgotamento_Dias,Tipo_Cliente,Custo_Reposicao,Preco_Venda,Margem_Lucro,Rota_Entrega,Tempo_Entrega,Distancia_Percorrida,Tipo_Produto,Marca_Produto,Região_Atendimento,Canal_Venda,Programa_Fidelidade,Temperatura,Satisfacao_Cliente,Tempo_Espera,Metodo_Pagamento
+F2630,2025-01-01,07:12,58,741,40,117,20kg,0.54,1.2,Residencial,127.47,174.86,39.56,Rondônia-Rota-08,99,20.4,GLP Comercial,Fogás,Rondônia,Revenda,513,30.4,3,34.5,Dinheiro
+F9655,2025-01-01,09:03,411,309,60,274,20kg,0.36,5.0,Residencial,109.9,149.49,21.81,Acre-Rota-08,48,33.2,GLP Residencial,Ultragaz,Acre,Revenda,827,32.8,1,43.5,Cartão
+F4609,2025-01-01,18:45,234,748,77,204,190kg,0.1,3.6,Comercial,81.17,151.78,28.49,Amazonas-Rota-09,66,50.3,GLP Industrial,Fogás,Amazonas,Revenda,590,33.4,4,47.0,Cartão
+F3022,2025-01-01,12:01,164,767,23,294,13kg,0.26,9.6,Industrial,125.77,124.96,43.27,Acre-Rota-08,61,55.2,GLP Granel,Fogás,Acre,E-commerce,44,33.8,1,35.6,Cartão
+F3892,2025-01-01,10:33,179,319,23,219,45kg,0.38,3.5,Residencial,118.08,183.25,24.49,Amapá-Rota-08,69,90.1,GLP Granel,Ultragaz,Amapá,Revenda,205,33.3,3,6.5,PIX
+F2082,2025-01-01,09:40,388,661,74,264,20kg,0.12,8.5,Industrial,133.25,195.81,39.61,Amapá-Rota-03,62,73.2,GLP Industrial,Fogás,Amapá,Revenda,832,32.9,5,37.0,Boleto
+F1353,2025-01-01,15:22,397,361,24,225,45kg,0.55,7.1,Condomínio,97.99,90.32,34.74,Amazonas-Rota-04,46,68.4,GLP Residencial,Fogás,Amazonas,Revenda,153,32.8,2,22.9,PIX
+F2628,2025-01-01,20:31,150,630,77,221,13kg,0.38,6.2,Residencial,114.53,106.43,11.44,Amazonas-Rota-07,37,26.1,GLP Industrial,Fogás,Amazonas,E-commerce,328,32.4,2,15.6,Dinheiro
+F1507,2025-01-01,13:30,439,555,97,134,13kg,0.16,8.2,Condomínio,148.74,114.42,37.81,Amazonas-Rota-03,86,84.8,GLP Residencial,Fogás,Amazonas,Venda Direta,861,32.2,2,7.9,Cartão
+F4411,2025-01-01,07:43,454,984,76,250,13kg,0.4,1.8,Residencial,122.23,120.39,18.84,Amazonas-Rota-09,116,98.7,GLP Residencial,Ultragaz,Amazonas,Venda Direta,668,32.3,2,12.2,PIX
+F5290,2025-01-01,10:03,332,536,71,138,190kg,0.33,1.7,Residencial,122.54,197.42,36.16,Roraima-Rota-03,70,64.5,GLP Comercial,Fogás,Roraima,Revenda,68,33.4,2,47.7,Dinheiro
+F6991,2025-01-01,19:25,124,591,89,249,45kg,0.42,7.3,Comercial,141.3,183.68,46.77,Acre-Rota-04,47,56.5,GLP Residencial,Fogás,Acre,Venda Direta,86,30.9,5,32.1,Boleto
+F5424,2025-01-01,14:00,395,345,81,269,45kg,0.33,1.9,Residencial,104.14,171.88,48.98,Acre-Rota-05,77,63.0,GLP Residencial,Fogás,Acre,Venda Direta,74,30.7,2,26.3,PIX
+F7211,2025-01-01,14:25,375,708,93,166,20kg,0.47,8.1,Residencial,115.68,145.68,13.5,Amazonas-Rota-08,104,73.3,GLP Comercial,Fogás,Amazonas,Venda Direta,917,33.0,5,9.3,Boleto
+F2231,2025-01-01,12:40,375,780,43,241,20kg,0.2,4.6,Condomínio,77.13,152.3,46.07,Amapá-Rota-05,62,63.2,GLP Comercial,Fogás,Amapá,Venda Direta,356,30.4,4,33.3,Cartão
+F3646,2025-01-01,09:05,116,296,32,270,190kg,0.53,3.3,Comercial,97.83,132.8,12.19,Roraima-Rota-06,115,91.9,GLP Granel,Fogás,Roraima,Venda Direta,303,30.8,3,28.8,Cartão
+F2319,2025-01-01,09:22,427,210,50,145,20kg,0.11,7.4,Condomínio,86.35,98.1,31.09,Acre-Rota-04,79,26.8,GLP Residencial,Ultragaz,Acre,Revenda,920,31.3,3,32.6,Cartão
+F9693,2025-01-01,20:32,56,529,71,236,13kg,0.37,3.6,Comercial,99.74,147.1,20.81,Amapá-Rota-04,116,77.6,GLP Granel,Ultragaz,Amapá,Revenda,625,30.1,5,38.9,PIX
+F9297,2025-01-01,07:04,415,471,93,248,190kg,0.41,2.4,Industrial,131.47,120.58,15.41,Acre-Rota-03,112,74.0,GLP Industrial,Fogás,Acre,Revenda,528,30.4,1,11.8,Boleto
+F1153,2025-01-01,13:32,54,849,61,104,45kg,0.39,1.5,Industrial,117.52,102.9,20.71,Amapá-Rota-05,77,23.6,GLP Residencial,Fogás,Amapá,Venda Direta,953,31.1,2,24.6,Dinheiro
+F6472,2025-01-01,06:56,327,865,24,129,190kg,0.15,7.4,Comercial,142.99,156.7,12.49,Amazonas-Rota-08,23,84.6,GLP Residencial,Fogás,Amazonas,E-commerce,367,32.2,4,43.1,Dinheiro
+F7812,2025-01-01,09:58,175,410,36,194,13kg,0.22,9.0,Condomínio,102.76,153.64,44.96,Rondônia-Rota-04,107,40.3,GLP Residencial,Fogás,Rondônia,Revenda,995,32.3,3,3.6,Dinheiro
+F6421,2025-01-01,07:13,415,446,22,100,20kg,0.56,8.1,Industrial,81.6,92.3,41.11,Acre-Rota-09,66,71.1,GLP Granel,Fogás,Acre,Venda Direta,521,31.9,2,33.0,Cartão
+F7077,2025-01-01,17:22,112,287,46,221,45kg,0.4,5.6,Industrial,85.18,183.7,39.67,Acre-Rota-01,22,31.4,GLP Comercial,Fogás,Acre,Venda Direta,419,30.5,3,15.7,PIX
+F3418,2025-01-01,21:28,204,389,72,114,13kg,0.17,8.9,Comercial,90.45,126.85,17.46,Rondônia-Rota-04,20,70.3,GLP Industrial,Ultragaz,Rondônia,Revenda,25,31.0,2,33.2,Cartão
+F9591,2025-01-01,11:06,324,329,69,224,20kg,0.32,1.4,Residencial,92.74,143.13,18.67,Acre-Rota-05,20,21.7,GLP Comercial,Fogás,Acre,Venda Direta,316,33.0,1,6.2,PIX
+F4343,2025-01-01,14:30,187,733,89,189,45kg,0.54,7.0,Residencial,96.13,164.93,29.72,Acre-Rota-02,118,18.9,GLP Industrial,Fogás,Acre,Revenda,386,31.5,1,2.0,Dinheiro
+F3688,2025-01-01,20:00,282,681,26,281,13kg,0.53,1.8,Industrial,91.06,136.94,32.43,Rondônia-Rota-09,41,99.8,GLP Granel,Fogás,Rondônia,Venda Direta,318,32.0,2,18.1,Cartão
+F3913,2025-01-01,12:02,426,508,90,103,190kg,0.27,3.1,Residencial,138.79,187.33,27.84,Rondônia-Rota-01,97,58.1,GLP Industrial,Fogás,Rondônia,Venda Direta,989,33.9,2,6.0,PIX
+F7349,2025-01-01,15:14,477,257,79,268,45kg,0.25,5.2,Comercial,95.74,197.33,27.99,Amapá-Rota-04,112,85.1,GLP Granel,Fogás,Amapá,Revenda,279,30.5,4,46.2,Cartão
+F2254,2025-01-01,08:05,453,267,64,297,45kg,0.3,1.3,Industrial,84.57,139.5,21.98,Roraima-Rota-01,58,99.3,GLP Comercial,Fogás,Roraima,Revenda,776,32.2,5,44.3,Boleto
+F3813,2025-01-02,10:02,256,857,37,141,45kg,0.24,8.0,Residencial,141.5,119.3,40.07,Amapá-Rota-01,95,66.8,GLP Comercial,Fogás,Amapá,Revenda,445,23.4,5,12.5,Cartão
+F2586,2025-01-02,16:11,490,718,92,144,13kg,0.14,5.7,Residencial,92.34,181.01,41.85,Amapá-Rota-08,118,98.8,GLP Residencial,Fogás,Amapá,E-commerce,209,23.4,3,32.4,PIX
+F9091,2025-01-02,13:30,437,437,55,233,190kg,0.27,8.0,Residencial,125.07,116.73,49.51,Amazonas-Rota-05,26,7.3,GLP Comercial,Fogás,Amazonas,Venda Direta,752,25.2,3,26.7,Cartão
+F6916,2025-01-02,17:14,337,484,46,102,13kg,0.28,1.7,Comercial,94.54,140.49,46.76,Rondônia-Rota-06,71,44.1,GLP Industrial,Fogás,Rondônia,Venda Direta,384,23.4,3,14.6,Boleto
+F6267,2025-01-02,20:53,499,732,50,274,20kg,0.53,8.2,Industrial,116.5,142.19,14.24,Acre-Rota-09,112,20.7,GLP Industrial,Ultragaz,Acre,Revenda,631,26.6,2,10.2,Dinheiro
+F4366,2025-01-02,08:15,330,912,75,219,20kg,0.55,5.3,Residencial,79.48,175.95,33.35,Roraima-Rota-06,106,40.1,GLP Comercial,Fogás,Roraima,Revenda,714,26.5,5,27.0,PIX
+F3838,2025-01-02,09:12,489,628,43,256,190kg,0.5,1.8,Industrial,130.45,126.3,42.99,Rondônia-Rota-02,113,61.6,GLP Comercial,Fogás,Rondônia,Venda Direta,445,23.3,4,14.8,Cartão
+F1585,2025-01-02,20:21,132,854,24,123,20kg,0.19,3.1,Comercial,117.97,119.84,16.87,Acre-Rota-08,117,91.4,GLP Industrial,Fogás,Acre,E-commerce,13,25.1,1,3.4,PIX
+F7203,2025-01-02,12:57,415,220,94,134,45kg,0.45,6.5,Industrial,109.62,191.24,23.0,Amazonas-Rota-02,101,66.7,GLP Comercial,Fogás,Amazonas,Revenda,179,23.8,3,23.5,Dinheiro
+F1033,2025-01-02,06:39,292,972,77,173,13kg,0.14,2.8,Condomínio,85.53,177.32,43.12,Amazonas-Rota-05,21,38.7,GLP Granel,Fogás,Amazonas,Venda Direta,822,26.2,3,18.3,Boleto
+F3886,2025-01-02,08:10,246,292,40,115,45kg,0.34,8.1,Industrial,76.83,129.71,12.27,Amazonas-Rota-06,110,89.8,GLP Industrial,Fogás,Amazonas,Revenda,231,25.7,1,23.4,PIX
+F9954,2025-01-02,15:53,289,805,58,287,20kg,0.25,7.5,Residencial,102.6,165.93,22.29,Rondônia-Rota-09,108,82.6,GLP Granel,Fogás,Rondônia,Revenda,401,26.6,2,40.3,Cartão
+F6912,2025-01-02,16:52,226,995,77,277,45kg,0.39,9.6,Residencial,138.47,160.68,23.79,Amapá-Rota-02,104,71.0,GLP Granel,Fogás,Amapá,Venda Direta,209,26.9,4,16.2,Cartão
+F2974,2025-01-02,16:20,435,471,84,128,20kg,0.19,7.9,Condomínio,78.96,190.0,39.84,Amapá-Rota-03,107,86.2,GLP Residencial,Fogás,Amapá,Venda Direta,257,24.9,1,1.8,Cartão
+F7634,2025-01-02,21:59,416,996,75,186,45kg,0.5,3.9,Residencial,126.94,125.8,13.33,Amazonas-Rota-03,86,76.8,GLP Comercial,Fogás,Amazonas,E-commerce,65,24.0,4,1.5,Cartão
+F1055,2025-01-02,20:21,391,301,89,132,13kg,0.3,1.7,Industrial,110.61,91.65,22.45,Roraima-Rota-09,111,14.8,GLP Residencial,Ultragaz,Roraima,Revenda,213,25.9,3,36.0,PIX
+F3847,2025-01-02,07:07,156,329,90,198,190kg,0.28,6.1,Residencial,87.93,176.87,31.02,Rondônia-Rota-08,30,72.4,GLP Comercial,Fogás,Rondônia,Revenda,81,25.9,3,42.2,Dinheiro
+F5991,2025-01-02,07:54,304,509,62,280,20kg,0.52,2.3,Condomínio,75.73,156.9,44.4,Acre-Rota-07,117,29.9,GLP Granel,Fogás,Acre,Revenda,17,26.1,1,45.2,Cartão
+F3575,2025-01-02,09:34,105,721,81,284,13kg,0.32,2.5,Industrial,92.01,191.34,48.03,Roraima-Rota-04,67,27.0,GLP Granel,Ultragaz,Roraima,Revenda,687,24.2,3,29.9,PIX
+F1679,2025-01-02,18:30,306,648,97,164,45kg,0.46,9.1,Residencial,73.92,179.41,41.86,Amazonas-Rota-04,31,64.7,GLP Residencial,Fogás,Amazonas,Venda Direta,844,24.8,5,5.2,Boleto
+F3068,2025-01-02,06:39,227,723,46,151,13kg,0.38,7.7,Condomínio,141.36,98.8,14.76,Roraima-Rota-04,40,65.6,GLP Granel,Fogás,Roraima,Venda Direta,566,26.1,3,15.3,Cartão
+F3078,2025-01-02,10:40,145,318,66,238,190kg,0.41,2.4,Residencial,85.06,185.82,18.31,Amazonas-Rota-03,85,97.3,GLP Granel,Ultragaz,Amazonas,Revenda,906,24.7,1,35.2,Boleto
+F3724,2025-01-02,12:48,209,451,91,215,20kg,0.59,5.7,Residencial,132.15,94.51,14.29,Acre-Rota-05,34,24.2,GLP Granel,Fogás,Acre,Revenda,152,26.2,1,16.4,PIX
+F3177,2025-01-02,13:55,440,488,80,166,13kg,0.32,5.4,Industrial,136.22,114.54,32.35,Rondônia-Rota-03,110,98.5,GLP Industrial,Fogás,Rondônia,Revenda,406,24.7,1,39.0,Boleto
+F9773,2025-01-02,14:08,377,872,88,205,13kg,0.46,6.1,Comercial,85.0,154.98,34.48,Amazonas-Rota-02,15,80.3,GLP Granel,Fogás,Amazonas,Revenda,754,25.8,5,36.7,Dinheiro
+F2949,2025-01-02,20:04,134,636,91,291,45kg,0.31,7.3,Residencial,141.2,186.25,24.24,Amapá-Rota-06,71,17.9,GLP Comercial,Fogás,Amapá,Venda Direta,990,23.7,1,23.9,Boleto
+F5523,2025-01-02,19:55,466,629,27,220,20kg,0.37,9.8,Comercial,127.97,170.3,13.76,Amazonas-Rota-04,48,15.0,GLP Granel,Fogás,Amazonas,Venda Direta,452,25.7,2,22.8,Boleto
+F9224,2025-01-02,07:13,130,741,59,285,20kg,0.2,1.8,Residencial,86.62,187.08,24.15,Acre-Rota-06,19,34.9,GLP Granel,Fogás,Acre,E-commerce,964,24.1,4,29.7,Cartão
+F1246,2025-01-02,12:59,224,570,25,294,20kg,0.16,10.0,Residencial,124.72,99.13,12.83,Rondônia-Rota-02,23,58.7,GLP Comercial,Fogás,Rondônia,Venda Direta,318,24.5,1,15.2,Cartão
+F7726,2025-01-02,15:58,280,341,69,212,45kg,0.58,3.4,Comercial,94.73,192.16,34.59,Rondônia-Rota-05,111,13.5,GLP Granel,Fogás,Rondônia,Revenda,179,23.5,5,14.7,Cartão
+F8415,2025-01-02,16:52,217,340,66,201,13kg,0.58,8.7,Residencial,123.86,110.27,37.34,Amapá-Rota-06,104,6.6,GLP Residencial,Fogás,Amapá,Revenda,770,24.3,1,10.1,Cartão
+F4105,2025-01-02,13:24,211,661,49,280,45kg,0.49,2.5,Condomínio,83.71,112.83,32.27,Acre-Rota-05,85,99.7,GLP Industrial,Fogás,Acre,Venda Direta,458,25.8,3,26.1,PIX
+F2669,2025-01-02,21:14,284,282,82,206,190kg,0.33,6.9,Residencial,76.88,123.86,30.91,Amapá-Rota-08,117,83.4,GLP Residencial,Fogás,Amapá,Revenda,972,25.9,1,3.7,Boleto
+F5638,2025-01-02,21:52,57,985,39,295,190kg,0.12,5.4,Industrial,80.32,147.05,47.24,Acre-Rota-04,61,48.1,GLP Granel,Fogás,Acre,Revenda,83,26.9,2,28.9,Dinheiro
+F7630,2025-01-02,07:25,372,763,66,158,20kg,0.21,9.1,Industrial,76.73,105.66,16.57,Rondônia-Rota-08,67,65.1,GLP Residencial,Fogás,Rondônia,Venda Direta,84,24.2,5,26.2,Boleto
+F5757,2025-01-02,08:09,137,302,46,158,13kg,0.32,2.5,Residencial,121.33,181.87,42.38,Rondônia-Rota-02,114,40.3,GLP Industrial,Fogás,Rondônia,Venda Direta,475,23.5,3,14.1,Dinheiro
+F5178,2025-01-02,06:42,298,654,48,126,190kg,0.32,8.6,Residencial,92.01,108.78,16.94,Amapá-Rota-08,112,83.4,GLP Comercial,Fogás,Amapá,E-commerce,347,24.2,4,29.8,Boleto
+F5859,2025-01-02,17:31,328,785,78,179,190kg,0.49,7.5,Comercial,143.68,158.5,18.88,Rondônia-Rota-02,68,55.2,GLP Comercial,Fogás,Rondônia,Venda Direta,732,23.9,5,42.8,Boleto
+F9866,2025-01-02,16:28,441,851,85,143,20kg,0.47,3.4,Comercial,77.97,160.88,18.5,Rondônia-Rota-09,66,15.3,GLP Industrial,Fogás,Rondônia,Revenda,296,26.1,5,2.8,Boleto
+F4730,2025-01-03,11:40,170,801,31,144,190kg,0.46,3.5,Residencial,134.23,125.42,46.8,Amapá-Rota-01,26,16.1,GLP Granel,Fogás,Amapá,Revenda,103,20.9,4,45.3,Boleto
+F3204,2025-01-03,08:49,414,987,42,298,20kg,0.24,1.5,Residencial,126.29,106.7,29.07,Roraima-Rota-07,17,41.9,GLP Residencial,Ultragaz,Roraima,Revenda,151,21.2,4,42.4,Boleto
+F2488,2025-01-03,21:31,415,597,35,240,13kg,0.37,4.6,Residencial,137.0,180.07,23.24,Amazonas-Rota-08,18,58.3,GLP Residencial,Fogás,Amazonas,Venda Direta,384,20.8,4,24.5,PIX
+F5707,2025-01-03,19:07,284,846,68,231,190kg,0.38,4.8,Industrial,74.31,166.89,36.67,Amazonas-Rota-04,39,93.2,GLP Residencial,Fogás,Amazonas,Revenda,88,18.6,3,6.3,PIX
+F8848,2025-01-03,08:11,100,990,64,108,45kg,0.24,3.1,Residencial,79.31,195.13,30.29,Amapá-Rota-07,49,83.5,GLP Industrial,Fogás,Amapá,Venda Direta,721,19.2,2,28.5,Dinheiro
+F1329,2025-01-03,12:51,226,297,90,198,20kg,0.41,1.5,Residencial,128.98,192.23,10.22,Acre-Rota-09,101,16.2,GLP Comercial,Fogás,Acre,Revenda,505,20.6,4,33.3,Dinheiro
+F8403,2025-01-03,06:55,189,976,79,246,20kg,0.5,9.8,Comercial,105.33,190.96,44.75,Amapá-Rota-03,41,8.5,GLP Comercial,Fogás,Amapá,Revenda,713,20.3,4,4.2,Boleto
+F4555,2025-01-03,12:28,76,211,56,245,190kg,0.28,4.5,Industrial,77.17,187.24,33.43,Rondônia-Rota-02,19,84.2,GLP Granel,Fogás,Rondônia,E-commerce,297,22.5,2,43.0,Boleto
+F8377,2025-01-03,07:15,107,944,77,141,45kg,0.13,6.3,Condomínio,119.27,122.44,39.37,Rondônia-Rota-02,93,98.8,GLP Granel,Fogás,Rondônia,Revenda,910,19.6,5,7.8,Cartão
+F6753,2025-01-03,07:33,92,961,52,225,45kg,0.55,2.0,Comercial,139.21,127.62,16.97,Amapá-Rota-05,117,15.5,GLP Comercial,Ultragaz,Amapá,Revenda,611,19.9,2,19.0,Cartão
+F6906,2025-01-03,10:26,96,410,91,151,190kg,0.21,8.7,Residencial,128.23,199.97,29.87,Amazonas-Rota-01,46,88.0,GLP Industrial,Fogás,Amazonas,Revenda,276,20.8,1,18.7,PIX
+F5107,2025-01-03,21:40,201,762,84,101,45kg,0.44,5.8,Industrial,136.42,105.0,31.5,Amapá-Rota-01,39,16.4,GLP Industrial,Fogás,Amapá,Revenda,576,21.9,3,23.5,Boleto
+F4182,2025-01-03,13:46,61,293,78,124,13kg,0.46,1.9,Residencial,111.56,117.4,41.53,Roraima-Rota-03,105,50.1,GLP Comercial,Fogás,Roraima,Venda Direta,71,20.3,5,23.5,Boleto
+F3385,2025-01-03,20:22,70,380,20,291,45kg,0.37,5.4,Comercial,124.1,92.24,12.96,Roraima-Rota-01,67,92.3,GLP Industrial,Fogás,Roraima,Revenda,561,19.7,1,18.5,Dinheiro
+F5892,2025-01-03,10:14,182,326,52,213,190kg,0.29,7.0,Comercial,83.37,191.0,26.14,Roraima-Rota-02,33,14.7,GLP Industrial,Fogás,Roraima,Venda Direta,595,21.7,1,30.0,PIX
+F2095,2025-01-03,18:33,475,702,35,201,45kg,0.3,3.8,Industrial,77.34,92.89,43.12,Amazonas-Rota-04,28,22.9,GLP Residencial,Fogás,Amazonas,Revenda,366,19.5,2,24.3,PIX
+F1991,2025-01-03,08:13,122,780,50,188,190kg,0.33,3.0,Condomínio,77.8,179.22,45.8,Rondônia-Rota-06,86,63.1,GLP Residencial,Fogás,Rondônia,Venda Direta,74,20.9,5,22.3,PIX
+F6585,2025-01-03,12:36,344,561,58,239,13kg,0.2,9.2,Comercial,112.07,172.45,19.12,Rondônia-Rota-06,49,19.9,GLP Granel,Fogás,Rondônia,Revenda,804,19.9,5,2.1,Dinheiro
+F4868,2025-01-03,15:22,162,789,98,209,13kg,0.38,5.8,Residencial,89.47,141.76,25.93,Amapá-Rota-03,15,70.7,GLP Granel,Fogás,Amapá,Revenda,684,21.0,4,22.0,Dinheiro
+F5460,2025-01-03,11:50,366,348,38,173,190kg,0.13,9.5,Residencial,143.83,139.85,26.26,Acre-Rota-08,119,43.3,GLP Granel,Fogás,Acre,Venda Direta,60,21.9,1,47.1,Dinheiro
+F5275,2025-01-03,20:24,333,875,77,213,190kg,0.46,9.9,Residencial,83.79,110.14,21.87,Amapá-Rota-05,17,82.2,GLP Comercial,Fogás,Amapá,Venda Direta,976,22.6,3,9.3,Dinheiro
+F6689,2025-01-03,14:55,205,840,34,110,45kg,0.14,1.0,Residencial,90.12,153.34,29.05,Acre-Rota-04,85,6.4,GLP Industrial,Fogás,Acre,E-commerce,552,21.3,3,30.1,Dinheiro
+F3567,2025-01-03,07:45,398,928,96,164,45kg,0.56,7.8,Residencial,111.98,148.18,34.71,Acre-Rota-05,68,54.7,GLP Industrial,Fogás,Acre,Venda Direta,507,22.3,2,35.0,Cartão
+F7009,2025-01-03,08:29,281,474,77,197,45kg,0.51,3.7,Residencial,85.89,166.68,16.32,Rondônia-Rota-03,103,46.4,GLP Industrial,Fogás,Rondônia,Revenda,245,19.0,5,31.9,Dinheiro
+F5781,2025-01-03,17:27,477,765,82,182,20kg,0.13,6.8,Condomínio,104.24,158.07,38.8,Acre-Rota-09,69,22.5,GLP Granel,Fogás,Acre,Revenda,100,20.0,4,16.6,Cartão
+F4259,2025-01-03,11:19,99,687,62,237,20kg,0.35,3.4,Residencial,100.75,169.82,17.74,Rondônia-Rota-02,119,41.7,GLP Residencial,Fogás,Rondônia,Venda Direta,419,20.2,1,7.9,Boleto
+F9559,2025-01-03,14:52,415,699,67,121,20kg,0.15,7.7,Comercial,108.42,107.39,46.87,Amazonas-Rota-06,42,79.5,GLP Industrial,Fogás,Amazonas,E-commerce,675,18.7,3,27.5,Boleto
+F5285,2025-01-03,19:05,374,533,56,228,190kg,0.39,6.3,Residencial,114.65,162.99,33.9,Roraima-Rota-06,98,98.9,GLP Residencial,Fogás,Roraima,Revenda,780,19.4,1,31.7,Dinheiro
+F8116,2025-01-03,21:19,390,637,83,106,13kg,0.12,8.8,Industrial,77.67,175.35,49.39,Amapá-Rota-07,113,16.5,GLP Granel,Fogás,Amapá,E-commerce,232,20.9,2,3.5,Dinheiro
+F3212,2025-01-03,19:56,160,245,23,231,13kg,0.34,7.1,Residencial,72.1,113.64,20.2,Amazonas-Rota-07,35,58.6,GLP Industrial,Fogás,Amazonas,E-commerce,288,21.9,3,30.4,Boleto
+F2462,2025-01-04,20:41,248,228,22,170,45kg,0.18,7.0,Industrial,108.43,178.47,42.4,Amapá-Rota-02,110,91.6,GLP Granel,Fogás,Amapá,Revenda,555,33.1,5,10.0,Dinheiro
+F1201,2025-01-04,14:34,276,527,54,201,20kg,0.17,1.5,Residencial,71.14,115.03,15.52,Amazonas-Rota-05,15,69.2,GLP Comercial,Fogás,Amazonas,Venda Direta,688,34.7,5,25.3,PIX
+F1815,2025-01-04,13:30,151,489,70,154,190kg,0.42,6.6,Industrial,92.21,158.09,19.33,Roraima-Rota-05,67,80.4,GLP Granel,Fogás,Roraima,Venda Direta,813,33.6,2,5.1,PIX
+F1716,2025-01-04,16:39,391,980,39,120,45kg,0.15,1.3,Residencial,88.35,164.13,13.36,Amazonas-Rota-07,54,62.3,GLP Granel,Fogás,Amazonas,Venda Direta,720,34.4,3,7.6,PIX
+F7536,2025-01-04,19:20,124,789,42,205,190kg,0.12,6.2,Industrial,144.75,113.16,31.37,Rondônia-Rota-02,49,99.1,GLP Comercial,Fogás,Rondônia,Revenda,652,33.1,1,5.1,Boleto
+F3832,2025-01-04,13:56,372,499,92,157,13kg,0.47,5.3,Residencial,83.04,107.58,22.07,Roraima-Rota-06,71,23.7,GLP Comercial,Ultragaz,Roraima,E-commerce,907,32.6,4,15.1,Dinheiro
+F4739,2025-01-04,17:23,393,753,34,197,190kg,0.51,1.1,Residencial,109.97,128.44,21.37,Rondônia-Rota-04,109,16.3,GLP Residencial,Fogás,Rondônia,Revenda,21,31.4,2,39.9,Dinheiro
+F6962,2025-01-04,16:27,160,822,92,252,20kg,0.16,2.3,Residencial,117.33,103.47,10.21,Amapá-Rota-02,82,9.4,GLP Industrial,Fogás,Amapá,Venda Direta,841,33.6,4,42.6,Cartão
+F5734,2025-01-04,08:04,132,488,64,273,190kg,0.27,3.5,Comercial,102.15,138.63,43.84,Roraima-Rota-09,82,52.8,GLP Industrial,Fogás,Roraima,Venda Direta,329,33.2,1,34.8,PIX
+F2199,2025-01-04,14:58,121,284,82,131,13kg,0.53,5.3,Condomínio,93.26,183.4,11.79,Amazonas-Rota-01,110,18.4,GLP Industrial,Fogás,Amazonas,Revenda,361,32.9,3,35.7,Cartão
+F4651,2025-01-04,10:09,435,988,23,124,190kg,0.11,2.2,Residencial,123.09,162.42,25.74,Acre-Rota-03,108,10.6,GLP Granel,Fogás,Acre,Venda Direta,539,32.0,3,38.4,Dinheiro
+F7797,2025-01-04,14:56,143,402,92,221,20kg,0.49,6.5,Industrial,120.86,144.83,22.62,Rondônia-Rota-06,32,39.7,GLP Comercial,Fogás,Rondônia,Revenda,800,32.6,1,12.3,Boleto
+F7118,2025-01-04,11:47,361,444,22,115,13kg,0.31,8.8,Residencial,74.24,114.18,41.58,Amapá-Rota-02,87,56.3,GLP Comercial,Fogás,Amapá,Revenda,977,31.8,2,22.2,Boleto
+F6095,2025-01-04,17:25,257,337,47,256,45kg,0.13,7.4,Condomínio,114.68,193.66,12.04,Rondônia-Rota-02,110,32.8,GLP Granel,Ultragaz,Rondônia,Revenda,54,33.3,4,22.8,PIX
+F6707,2025-01-04,12:58,112,292,90,145,45kg,0.56,5.1,Residencial,92.43,113.67,13.12,Acre-Rota-06,36,22.7,GLP Comercial,Fogás,Acre,Revenda,163,32.1,5,22.2,Cartão
+F4943,2025-01-04,10:20,415,517,96,203,190kg,0.21,9.3,Condomínio,116.75,197.75,20.91,Amapá-Rota-04,30,79.0,GLP Granel,Fogás,Amapá,Venda Direta,233,34.6,4,0.4,PIX
+F4284,2025-01-04,15:59,86,363,30,135,45kg,0.27,6.0,Industrial,130.1,113.47,20.84,Amapá-Rota-09,109,27.7,GLP Industrial,Ultragaz,Amapá,Revenda,99,32.3,5,32.3,Cartão
+F4444,2025-01-04,19:48,393,364,62,264,190kg,0.29,2.2,Residencial,72.15,128.88,15.57,Acre-Rota-07,48,7.6,GLP Industrial,Fogás,Acre,Revenda,624,31.6,2,2.5,Cartão
+F5759,2025-01-04,15:28,163,456,63,191,13kg,0.13,9.4,Industrial,139.5,109.4,20.22,Rondônia-Rota-06,80,45.5,GLP Residencial,Fogás,Rondônia,Revenda,470,32.5,2,35.2,Cartão
+F3810,2025-01-04,13:48,448,700,33,180,190kg,0.28,6.0,Residencial,132.44,138.56,35.1,Amapá-Rota-04,95,99.2,GLP Industrial,Fogás,Amapá,Venda Direta,460,34.0,1,20.1,Boleto
+F6594,2025-01-04,20:23,86,401,28,214,45kg,0.15,6.3,Industrial,86.5,162.43,21.63,Rondônia-Rota-07,27,80.6,GLP Granel,Fogás,Rondônia,Revenda,395,35.3,5,20.1,PIX
+F5601,2025-01-05,11:00,261,202,61,103,45kg,0.24,9.2,Residencial,121.32,141.01,26.86,Amazonas-Rota-03,20,83.5,GLP Granel,Fogás,Amazonas,Revenda,206,30.0,5,1.2,Boleto
+F8090,2025-01-05,06:37,102,482,86,108,20kg,0.14,4.3,Residencial,74.98,109.7,41.72,Amazonas-Rota-06,69,91.6,GLP Residencial,Fogás,Amazonas,Revenda,75,32.9,1,37.6,Dinheiro
+F6571,2025-01-05,08:50,108,513,64,240,190kg,0.1,5.4,Residencial,104.51,146.81,33.36,Roraima-Rota-05,52,36.9,GLP Residencial,Fogás,Roraima,Revenda,832,29.9,4,20.6,Cartão
+F1810,2025-01-05,10:36,219,555,99,112,20kg,0.28,6.2,Residencial,124.61,133.77,12.24,Acre-Rota-09,59,29.6,GLP Residencial,Fogás,Acre,E-commerce,498,32.9,1,39.1,Dinheiro
+F7211,2025-01-05,15:23,401,515,70,252,45kg,0.53,6.9,Comercial,103.97,146.3,31.62,Amapá-Rota-05,53,11.7,GLP Industrial,Fogás,Amapá,E-commerce,698,30.9,4,42.9,Cartão
+F1025,2025-01-05,11:19,475,518,25,254,190kg,0.55,7.8,Residencial,115.79,195.34,49.83,Rondônia-Rota-05,76,32.1,GLP Granel,Fogás,Rondônia,Venda Direta,200,32.3,3,5.6,Cartão
+F8647,2025-01-05,18:47,151,984,71,189,190kg,0.52,4.2,Comercial,117.8,137.9,31.7,Amapá-Rota-02,18,97.6,GLP Comercial,Fogás,Amapá,Revenda,566,30.5,3,43.6,PIX
+F2944,2025-01-05,12:09,480,243,35,176,45kg,0.54,6.1,Comercial,75.01,149.57,41.81,Amapá-Rota-08,23,99.4,GLP Granel,Fogás,Amapá,Revenda,682,31.5,1,43.3,Dinheiro
+F6994,2025-01-05,06:18,459,648,80,221,20kg,0.27,2.7,Comercial,116.64,106.87,17.96,Acre-Rota-04,52,70.9,GLP Industrial,Fogás,Acre,E-commerce,37,32.8,4,46.3,Boleto
+F5076,2025-01-05,17:20,484,325,57,158,190kg,0.43,5.5,Comercial,80.96,107.7,48.19,Roraima-Rota-09,108,74.1,GLP Industrial,Fogás,Roraima,Venda Direta,925,29.0,1,18.7,Dinheiro
+F7624,2025-01-05,12:12,230,710,48,147,45kg,0.34,8.4,Industrial,132.58,112.14,40.96,Acre-Rota-05,63,52.8,GLP Granel,Fogás,Acre,Venda Direta,868,29.0,4,2.0,PIX
+F7067,2025-01-05,12:20,181,503,48,117,20kg,0.34,1.3,Residencial,118.87,134.55,44.62,Acre-Rota-03,83,22.5,GLP Industrial,Fogás,Acre,Revenda,982,30.0,5,9.5,Boleto
+F9307,2025-01-05,20:01,74,664,26,207,45kg,0.24,8.6,Residencial,91.94,145.5,26.95,Amapá-Rota-08,56,28.7,GLP Industrial,Fogás,Amapá,Venda Direta,455,30.9,2,23.3,Boleto
+F4413,2025-01-05,09:03,148,406,47,268,20kg,0.43,2.0,Condomínio,146.38,117.9,40.47,Amapá-Rota-07,70,43.6,GLP Residencial,Fogás,Amapá,Revenda,752,29.8,4,31.4,Dinheiro
+F9112,2025-01-05,16:05,250,556,28,276,20kg,0.21,1.6,Residencial,96.48,108.21,22.63,Roraima-Rota-07,86,17.1,GLP Industrial,Fogás,Roraima,Revenda,171,29.8,1,8.3,Boleto
+F9269,2025-01-05,10:59,294,804,65,287,190kg,0.25,8.7,Residencial,95.73,104.06,39.91,Amapá-Rota-01,114,54.2,GLP Comercial,Fogás,Amapá,Revenda,2,31.4,5,3.7,PIX
+F8743,2025-01-05,18:10,58,968,87,296,190kg,0.47,9.8,Residencial,74.14,116.47,12.18,Rondônia-Rota-02,108,94.9,GLP Residencial,Fogás,Rondônia,Revenda,49,31.4,4,36.7,PIX
+F9030,2025-01-05,21:30,306,772,40,139,13kg,0.59,7.2,Residencial,136.7,120.5,38.51,Rondônia-Rota-01,94,6.6,GLP Industrial,Ultragaz,Rondônia,Venda Direta,581,32.1,5,34.3,Boleto
+F3462,2025-01-05,14:12,243,689,62,160,45kg,0.28,8.0,Condomínio,133.78,199.43,29.63,Acre-Rota-03,105,80.7,GLP Comercial,Fogás,Acre,Revenda,213,31.0,4,41.7,Cartão
+F2254,2025-01-05,11:32,304,824,30,175,20kg,0.21,2.4,Condomínio,139.17,106.83,14.25,Amapá-Rota-04,105,44.8,GLP Granel,Fogás,Amapá,Revenda,258,30.1,1,12.9,Cartão
+F1298,2025-01-05,16:44,239,676,79,242,45kg,0.43,1.4,Residencial,106.75,188.89,12.38,Rondônia-Rota-07,65,91.8,GLP Residencial,Fogás,Rondônia,Venda Direta,695,29.8,5,36.7,Dinheiro
+F8459,2025-01-05,20:35,228,648,92,158,13kg,0.59,4.9,Industrial,81.45,163.08,48.51,Amapá-Rota-04,33,67.3,GLP Industrial,Fogás,Amapá,Revenda,950,32.2,4,23.1,PIX
+F7627,2025-01-05,13:30,455,992,67,153,190kg,0.23,1.8,Industrial,84.14,125.54,24.13,Roraima-Rota-02,70,24.7,GLP Comercial,Fogás,Roraima,E-commerce,77,29.3,5,39.8,Boleto
+F5139,2025-01-05,16:29,336,624,57,230,20kg,0.18,3.9,Industrial,115.32,167.83,23.13,Amazonas-Rota-06,19,25.7,GLP Residencial,Fogás,Amazonas,Revenda,350,30.6,1,34.0,Dinheiro
+F5574,2025-01-05,18:17,258,398,51,100,13kg,0.4,6.9,Industrial,122.52,158.98,37.14,Acre-Rota-02,38,76.2,GLP Comercial,Fogás,Acre,Revenda,215,30.9,1,27.1,Cartão
+F7043,2025-01-05,06:35,283,298,66,211,190kg,0.32,2.5,Industrial,122.09,167.48,47.96,Roraima-Rota-04,64,23.8,GLP Comercial,Fogás,Roraima,Revenda,59,30.8,4,10.5,Boleto
+F6648,2025-01-05,12:48,414,727,86,150,45kg,0.17,1.8,Residencial,85.25,140.03,25.14,Amapá-Rota-09,112,39.0,GLP Comercial,Fogás,Amapá,Venda Direta,592,31.6,1,42.0,Dinheiro
+F7328,2025-01-05,14:23,248,715,27,181,190kg,0.55,9.6,Industrial,85.76,137.93,10.68,Rondônia-Rota-05,111,5.9,GLP Comercial,Fogás,Rondônia,Venda Direta,240,31.8,5,26.4,Cartão
+F5275,2025-01-05,13:35,219,704,45,146,20kg,0.26,5.1,Comercial,130.0,159.56,48.68,Amazonas-Rota-02,106,53.5,GLP Comercial,Fogás,Amazonas,Venda Direta,559,29.8,1,3.3,PIX
+F5101,2025-01-05,19:06,155,249,77,230,13kg,0.49,7.1,Industrial,133.12,197.34,17.75,Roraima-Rota-01,108,22.2,GLP Granel,Fogás,Roraima,E-commerce,149,31.3,1,13.9,Cartão
+F9120,2025-01-05,08:34,364,667,58,111,190kg,0.14,5.0,Residencial,76.94,169.92,25.4,Acre-Rota-03,85,93.5,GLP Granel,Fogás,Acre,Revenda,761,30.3,3,21.6,Dinheiro
+F6673,2025-01-05,20:06,326,383,57,242,20kg,0.48,5.2,Condomínio,71.65,181.78,45.71,Acre-Rota-03,87,6.6,GLP Comercial,Ultragaz,Acre,Venda Direta,398,32.8,3,33.9,Boleto
+F1475,2025-01-05,07:37,188,830,21,239,20kg,0.47,3.0,Residencial,78.63,100.93,37.98,Amazonas-Rota-02,41,68.6,GLP Residencial,Fogás,Amazonas,Venda Direta,323,32.4,1,16.8,Cartão
+F8306,2025-01-05,20:30,425,862,66,119,190kg,0.4,2.3,Industrial,142.86,98.65,43.47,Roraima-Rota-08,30,20.4,GLP Granel,Fogás,Roraima,Revenda,638,29.3,5,25.8,PIX
+F2968,2025-01-06,19:25,107,894,45,106,13kg,0.16,1.2,Condomínio,132.51,124.24,11.19,Amazonas-Rota-01,76,43.6,GLP Residencial,Fogás,Amazonas,E-commerce,262,22.3,2,2.5,PIX
+F6305,2025-01-06,14:34,349,995,70,139,190kg,0.35,1.1,Comercial,137.87,132.61,16.58,Acre-Rota-08,82,22.0,GLP Industrial,Ultragaz,Acre,Venda Direta,311,24.1,3,33.4,PIX
+F1471,2025-01-06,17:08,242,786,94,139,20kg,0.5,2.3,Industrial,75.29,159.37,17.04,Rondônia-Rota-03,42,38.8,GLP Comercial,Fogás,Rondônia,Revenda,221,20.8,3,6.3,Cartão
+F7614,2025-01-06,13:58,462,767,26,131,20kg,0.51,1.9,Residencial,102.79,167.85,24.42,Roraima-Rota-06,52,32.7,GLP Residencial,Fogás,Roraima,Revenda,771,23.3,5,11.5,Boleto
+F4246,2025-01-06,08:13,277,579,28,165,13kg,0.47,1.7,Residencial,137.59,141.37,39.76,Rondônia-Rota-02,98,86.3,GLP Comercial,Fogás,Rondônia,Revenda,224,22.2,4,3.3,PIX
+F1997,2025-01-06,06:35,279,761,46,178,45kg,0.25,5.1,Industrial,143.87,183.41,41.49,Acre-Rota-05,108,27.7,GLP Granel,Fogás,Acre,Revenda,330,23.1,3,32.0,PIX
+F4434,2025-01-06,14:26,74,703,85,293,13kg,0.35,9.2,Residencial,114.89,138.8,15.92,Amapá-Rota-08,32,51.0,GLP Granel,Fogás,Amapá,Venda Direta,752,21.8,4,26.2,Dinheiro
+F7985,2025-01-06,07:20,346,841,81,223,190kg,0.44,4.4,Residencial,112.22,93.0,33.98,Rondônia-Rota-05,22,48.0,GLP Industrial,Fogás,Rondônia,Revenda,977,23.1,5,16.0,Boleto
+F4048,2025-01-06,20:48,245,277,27,193,190kg,0.12,1.4,Residencial,112.12,136.87,21.36,Acre-Rota-04,35,13.3,GLP Comercial,Fogás,Acre,Revenda,205,21.6,3,19.4,Dinheiro
+F1637,2025-01-06,19:30,415,581,94,168,13kg,0.27,7.5,Residencial,99.97,142.54,30.78,Amapá-Rota-06,53,73.5,GLP Residencial,Fogás,Amapá,E-commerce,966,21.4,1,19.9,Dinheiro
+F2192,2025-01-06,21:11,231,268,48,188,45kg,0.23,4.1,Residencial,100.54,175.02,21.02,Amapá-Rota-01,21,40.9,GLP Granel,Fogás,Amapá,Venda Direta,169,21.1,2,21.6,Dinheiro
+F9396,2025-01-06,10:27,261,886,90,290,13kg,0.58,5.3,Comercial,129.58,127.28,36.93,Acre-Rota-04,84,69.4,GLP Residencial,Fogás,Acre,Revenda,502,22.2,5,0.8,Cartão
+F9182,2025-01-06,07:08,177,782,31,233,190kg,0.49,2.9,Industrial,126.29,153.75,10.14,Amazonas-Rota-04,31,49.6,GLP Granel,Fogás,Amazonas,Venda Direta,826,22.3,5,11.0,Boleto
+F8878,2025-01-06,08:54,351,451,63,172,20kg,0.14,3.6,Residencial,89.61,168.14,33.42,Amapá-Rota-07,19,22.1,GLP Comercial,Fogás,Amapá,Revenda,687,24.4,5,37.9,Boleto
+F4360,2025-01-06,07:22,67,991,52,283,20kg,0.58,4.6,Residencial,107.18,190.23,37.46,Amapá-Rota-05,66,56.0,GLP Industrial,Ultragaz,Amapá,Venda Direta,503,21.9,4,27.6,Cartão
+F4262,2025-01-06,16:42,499,321,20,270,45kg,0.28,9.7,Residencial,82.1,163.95,23.31,Roraima-Rota-05,76,42.6,GLP Residencial,Fogás,Roraima,Venda Direta,629,23.2,1,25.0,Dinheiro
+F2319,2025-01-06,09:43,228,655,99,285,13kg,0.44,7.4,Comercial,101.97,144.96,32.92,Amazonas-Rota-03,88,63.9,GLP Industrial,Fogás,Amazonas,Revenda,324,22.2,2,30.1,Boleto
+F4724,2025-01-06,15:36,84,649,76,289,190kg,0.37,2.8,Condomínio,146.41,181.39,42.82,Rondônia-Rota-07,61,24.7,GLP Comercial,Fogás,Rondônia,Revenda,243,21.3,5,16.1,Cartão
+F8816,2025-01-06,08:47,234,839,38,255,45kg,0.12,2.7,Comercial,116.03,109.86,27.63,Roraima-Rota-07,38,42.8,GLP Granel,Fogás,Roraima,Revenda,795,21.4,1,17.3,Cartão
+F8915,2025-01-06,18:10,189,264,78,153,20kg,0.57,9.8,Comercial,133.6,166.08,33.28,Amazonas-Rota-06,110,33.9,GLP Residencial,Fogás,Amazonas,Venda Direta,583,24.3,3,15.5,PIX
+F1960,2025-01-06,09:30,410,212,44,219,190kg,0.47,8.1,Condomínio,120.4,169.48,34.2,Rondônia-Rota-07,118,62.6,GLP Industrial,Fogás,Rondônia,Venda Direta,197,21.9,5,33.0,Boleto
+F5764,2025-01-06,20:36,61,583,37,245,190kg,0.55,2.0,Condomínio,138.93,183.15,35.3,Amazonas-Rota-01,85,73.5,GLP Comercial,Fogás,Amazonas,Venda Direta,197,22.2,4,30.2,Cartão
+F4533,2025-01-06,16:45,173,986,49,147,45kg,0.46,3.5,Comercial,116.75,180.18,13.98,Amapá-Rota-05,73,30.5,GLP Comercial,Fogás,Amapá,Revenda,284,24.3,5,44.9,PIX
+F4963,2025-01-06,13:15,497,904,82,155,20kg,0.5,7.0,Residencial,120.47,136.24,31.33,Roraima-Rota-04,101,92.8,GLP Comercial,Fogás,Roraima,Venda Direta,38,22.1,3,5.2,Boleto
+F7232,2025-01-06,06:04,499,514,31,296,190kg,0.26,8.9,Condomínio,123.3,163.41,10.19,Roraima-Rota-07,80,6.0,GLP Granel,Fogás,Roraima,Revenda,91,24.3,4,17.0,PIX
+F5712,2025-01-06,06:52,398,951,42,178,20kg,0.4,1.8,Residencial,121.93,186.67,16.27,Acre-Rota-03,67,65.6,GLP Industrial,Fogás,Acre,Venda Direta,486,23.8,3,26.9,Cartão
+F7534,2025-01-06,16:05,101,831,86,235,13kg,0.19,9.6,Industrial,93.09,161.25,49.69,Acre-Rota-09,79,17.5,GLP Granel,Fogás,Acre,Revenda,622,23.0,1,16.8,Boleto
+F9288,2025-01-06,14:27,85,239,49,249,20kg,0.32,7.7,Residencial,133.34,93.23,49.26,Acre-Rota-06,103,81.5,GLP Comercial,Fogás,Acre,Venda Direta,81,23.1,1,35.8,PIX
+F4533,2025-01-07,18:20,61,895,60,211,190kg,0.37,1.2,Industrial,83.2,91.59,29.84,Amapá-Rota-05,115,26.3,GLP Residencial,Ultragaz,Amapá,Revenda,164,28.4,5,21.0,PIX
+F8845,2025-01-07,20:13,267,488,61,299,45kg,0.59,2.4,Residencial,75.35,122.61,45.7,Rondônia-Rota-05,52,92.3,GLP Comercial,Fogás,Rondônia,Revenda,60,28.9,2,28.9,Boleto
+F1159,2025-01-07,14:40,267,452,71,154,20kg,0.31,9.4,Industrial,98.66,183.72,44.7,Acre-Rota-05,15,28.7,GLP Comercial,Fogás,Acre,Venda Direta,82,30.5,4,21.1,Dinheiro
+F3824,2025-01-07,14:05,345,296,67,128,45kg,0.2,1.6,Industrial,144.93,94.72,20.79,Rondônia-Rota-05,82,18.4,GLP Residencial,Fogás,Rondônia,Revenda,531,30.6,1,8.1,Boleto
+F4105,2025-01-07,06:18,183,572,46,220,20kg,0.24,9.4,Industrial,112.78,139.5,45.24,Amazonas-Rota-03,93,83.0,GLP Comercial,Fogás,Amazonas,Revenda,933,29.4,4,0.3,PIX
+F4723,2025-01-07,17:12,83,286,70,222,20kg,0.48,5.2,Comercial,141.91,164.47,33.37,Amazonas-Rota-05,108,88.9,GLP Granel,Fogás,Amazonas,Revenda,169,29.0,2,1.9,Boleto
+F9388,2025-01-07,20:39,165,927,76,100,13kg,0.57,7.6,Residencial,72.21,197.44,22.54,Amazonas-Rota-01,119,67.5,GLP Comercial,Fogás,Amazonas,Revenda,450,30.5,3,44.2,Cartão
+F6633,2025-01-07,13:57,203,335,54,170,20kg,0.48,5.9,Residencial,131.86,126.84,21.29,Rondônia-Rota-04,90,76.7,GLP Residencial,Fogás,Rondônia,Revenda,933,30.9,5,42.8,Boleto
+F1603,2025-01-07,18:09,361,458,27,236,13kg,0.39,3.6,Residencial,132.09,187.55,20.25,Amapá-Rota-08,93,90.3,GLP Residencial,Fogás,Amapá,Revenda,110,29.8,4,29.5,PIX
+F1184,2025-01-07,09:47,483,431,36,123,13kg,0.28,8.3,Condomínio,140.22,169.89,41.45,Amapá-Rota-05,63,5.3,GLP Comercial,Fogás,Amapá,Venda Direta,707,28.5,5,39.8,Dinheiro
+F6799,2025-01-07,06:40,482,326,71,279,20kg,0.41,7.0,Residencial,84.87,155.08,23.44,Rondônia-Rota-06,109,61.5,GLP Industrial,Fogás,Rondônia,Revenda,346,28.9,3,33.6,Boleto
+F9260,2025-01-07,20:00,172,811,67,115,13kg,0.39,7.4,Condomínio,113.59,187.99,46.6,Amazonas-Rota-07,78,73.9,GLP Comercial,Fogás,Amazonas,Revenda,985,29.4,5,29.6,Cartão
+F4493,2025-01-07,16:04,413,359,39,238,190kg,0.31,5.8,Comercial,70.38,106.55,18.34,Amapá-Rota-06,43,87.6,GLP Industrial,Fogás,Amapá,E-commerce,265,29.9,1,12.2,Dinheiro
+F8071,2025-01-07,07:42,249,379,84,160,190kg,0.18,7.1,Industrial,148.6,177.19,15.3,Amapá-Rota-04,73,21.5,GLP Comercial,Fogás,Amapá,Venda Direta,263,28.8,4,5.3,PIX
+F7827,2025-01-07,13:12,232,467,45,141,45kg,0.47,5.4,Residencial,125.75,167.2,13.27,Acre-Rota-06,33,56.7,GLP Comercial,Fogás,Acre,E-commerce,298,29.1,4,47.2,Cartão
+F4901,2025-01-07,16:16,135,968,91,146,45kg,0.15,9.8,Comercial,107.97,146.82,25.53,Rondônia-Rota-09,45,99.8,GLP Granel,Fogás,Rondônia,Venda Direta,969,29.7,4,13.6,Boleto
+F6782,2025-01-07,16:38,373,795,43,268,190kg,0.34,5.4,Condomínio,130.15,137.91,21.06,Amazonas-Rota-06,39,26.9,GLP Granel,Fogás,Amazonas,Venda Direta,731,31.5,3,2.0,PIX
+F3358,2025-01-07,07:01,296,286,53,120,13kg,0.3,3.9,Comercial,121.17,136.82,42.62,Amazonas-Rota-04,103,20.3,GLP Industrial,Fogás,Amazonas,Revenda,324,29.5,1,36.4,Dinheiro
+F5809,2025-01-07,08:44,288,307,78,166,190kg,0.32,4.0,Residencial,72.14,199.7,44.1,Roraima-Rota-05,35,7.1,GLP Industrial,Fogás,Roraima,Revenda,446,30.2,4,11.0,Cartão
+F5880,2025-01-07,11:49,156,710,92,124,45kg,0.57,3.8,Industrial,95.14,103.79,33.79,Rondônia-Rota-06,40,93.9,GLP Comercial,Fogás,Rondônia,E-commerce,800,30.4,3,6.7,Dinheiro
+F6115,2025-01-07,11:35,467,604,55,255,45kg,0.53,7.3,Residencial,110.4,112.17,27.79,Amazonas-Rota-06,32,38.0,GLP Residencial,Ultragaz,Amazonas,Venda Direta,111,30.9,2,19.6,Boleto
+F6124,2025-01-07,07:31,207,446,56,192,190kg,0.24,6.5,Residencial,137.28,171.74,39.3,Acre-Rota-05,18,37.2,GLP Granel,Ultragaz,Acre,Revenda,498,31.9,3,18.4,Dinheiro
+F2857,2025-01-07,12:29,121,429,64,106,190kg,0.3,1.0,Industrial,93.47,101.42,33.03,Roraima-Rota-07,92,80.5,GLP Comercial,Ultragaz,Roraima,Revenda,165,28.5,4,12.7,Cartão
+F9658,2025-01-07,07:30,132,581,94,249,13kg,0.3,3.9,Residencial,71.16,157.16,18.41,Amapá-Rota-02,26,93.0,GLP Industrial,Fogás,Amapá,Revenda,171,30.7,1,2.5,Dinheiro
+F1221,2025-01-07,18:47,134,727,31,223,45kg,0.6,1.7,Residencial,79.92,193.96,11.71,Amazonas-Rota-08,96,28.3,GLP Residencial,Fogás,Amazonas,Venda Direta,160,30.5,2,44.0,Dinheiro
+F6351,2025-01-07,19:42,131,914,79,270,20kg,0.31,3.3,Residencial,110.66,102.87,37.18,Amazonas-Rota-05,89,41.0,GLP Granel,Fogás,Amazonas,Revenda,115,29.6,4,21.3,Boleto
+F4679,2025-01-07,08:06,343,465,71,252,45kg,0.46,4.8,Residencial,127.88,160.05,12.73,Acre-Rota-04,28,18.1,GLP Comercial,Fogás,Acre,Revenda,215,28.7,2,28.5,Dinheiro
+F1634,2025-01-07,06:55,381,486,99,238,190kg,0.25,3.8,Residencial,148.21,164.24,12.79,Acre-Rota-09,53,56.8,GLP Residencial,Fogás,Acre,Revenda,802,31.9,3,47.9,Dinheiro
+F8948,2025-01-07,20:30,336,444,55,182,45kg,0.41,4.7,Industrial,116.61,193.46,30.79,Amazonas-Rota-06,37,46.8,GLP Granel,Fogás,Amazonas,Venda Direta,833,29.3,1,32.7,Cartão
+F3886,2025-01-07,18:44,257,996,35,181,13kg,0.38,7.7,Residencial,140.49,189.54,46.03,Roraima-Rota-04,75,92.3,GLP Industrial,Fogás,Roraima,Revenda,775,29.0,2,10.5,PIX
+F2709,2025-01-07,21:11,80,473,78,140,190kg,0.31,4.3,Residencial,100.52,139.27,36.79,Acre-Rota-04,74,42.0,GLP Comercial,Fogás,Acre,Venda Direta,641,32.3,3,7.2,Cartão
+F4036,2025-01-07,19:07,428,695,59,201,45kg,0.19,4.8,Comercial,84.09,180.34,34.77,Amapá-Rota-09,113,43.9,GLP Industrial,Ultragaz,Amapá,E-commerce,40,28.6,2,35.8,Dinheiro
+F3564,2025-01-07,15:40,106,268,34,259,190kg,0.38,8.8,Industrial,111.47,111.79,41.85,Acre-Rota-03,112,13.4,GLP Comercial,Fogás,Acre,E-commerce,291,30.4,4,29.5,Dinheiro
+F6390,2025-01-07,17:48,415,638,70,218,190kg,0.21,2.6,Industrial,136.38,186.33,29.72,Roraima-Rota-01,118,51.2,GLP Granel,Fogás,Roraima,Venda Direta,103,29.4,2,18.7,Boleto
+F5491,2025-01-07,19:07,378,629,23,259,190kg,0.26,9.2,Residencial,126.81,158.1,46.12,Acre-Rota-05,109,77.3,GLP Industrial,Fogás,Acre,Revenda,597,31.2,3,2.5,Cartão
+F5471,2025-01-08,17:52,319,687,59,200,13kg,0.17,4.5,Industrial,81.62,169.89,10.32,Roraima-Rota-01,86,89.1,GLP Comercial,Ultragaz,Roraima,Venda Direta,629,23.6,2,34.4,PIX
+F1618,2025-01-08,12:20,234,259,23,120,20kg,0.38,9.8,Industrial,132.99,102.62,23.84,Amapá-Rota-04,35,33.7,GLP Residencial,Fogás,Amapá,Revenda,1,23.3,4,22.4,PIX
+F4895,2025-01-08,21:44,284,826,75,264,13kg,0.33,6.0,Industrial,117.2,184.48,31.68,Rondônia-Rota-07,34,23.6,GLP Comercial,Fogás,Rondônia,Revenda,524,22.3,1,30.1,PIX
+F6465,2025-01-08,09:53,480,846,71,278,45kg,0.36,4.5,Condomínio,99.87,141.94,33.59,Amazonas-Rota-02,69,28.3,GLP Comercial,Fogás,Amazonas,Revenda,947,21.0,5,2.8,Cartão
+F2510,2025-01-08,11:14,267,424,74,179,190kg,0.57,4.9,Residencial,85.34,121.43,23.56,Amazonas-Rota-06,26,96.6,GLP Comercial,Fogás,Amazonas,Revenda,74,21.5,3,12.8,PIX
+F6305,2025-01-08,15:53,345,837,62,159,20kg,0.3,1.6,Residencial,127.74,181.78,23.98,Acre-Rota-06,116,77.1,GLP Industrial,Fogás,Acre,Venda Direta,691,21.4,5,34.3,PIX
+F9145,2025-01-08,20:20,391,353,34,259,45kg,0.56,6.2,Comercial,112.23,106.26,24.6,Acre-Rota-04,117,19.6,GLP Residencial,Fogás,Acre,Venda Direta,7,20.5,2,26.0,Cartão
+F6246,2025-01-08,08:28,121,852,29,140,20kg,0.32,1.7,Residencial,108.4,171.04,10.41,Amapá-Rota-04,94,61.3,GLP Industrial,Ultragaz,Amapá,E-commerce,290,21.8,2,4.0,Dinheiro
+F6619,2025-01-08,12:29,387,660,55,233,45kg,0.56,3.9,Industrial,106.4,158.26,27.68,Rondônia-Rota-02,56,59.5,GLP Granel,Fogás,Rondônia,Venda Direta,651,22.2,2,7.6,Dinheiro
+F8532,2025-01-08,10:17,188,549,23,223,190kg,0.45,1.2,Comercial,146.47,139.24,42.5,Rondônia-Rota-05,89,63.4,GLP Comercial,Ultragaz,Rondônia,Revenda,705,23.7,5,23.1,Cartão
+F5227,2025-01-08,19:30,376,768,32,187,45kg,0.27,2.2,Residencial,144.81,92.73,12.16,Acre-Rota-01,57,25.2,GLP Granel,Fogás,Acre,Revenda,171,24.0,1,30.9,Cartão
+F1744,2025-01-08,21:12,289,493,58,293,45kg,0.41,3.7,Industrial,100.75,190.64,17.15,Roraima-Rota-07,19,68.7,GLP Granel,Fogás,Roraima,Revenda,355,21.7,2,8.6,Dinheiro
+F4424,2025-01-08,21:18,293,435,79,111,13kg,0.23,5.6,Residencial,120.61,169.62,27.57,Amapá-Rota-01,24,79.0,GLP Comercial,Fogás,Amapá,E-commerce,235,24.1,5,12.8,Cartão
+F8764,2025-01-08,09:30,417,439,83,254,20kg,0.33,1.5,Residencial,115.43,93.19,47.11,Rondônia-Rota-01,98,65.3,GLP Comercial,Fogás,Rondônia,Revenda,703,22.5,5,10.5,Boleto
+F8352,2025-01-08,19:23,134,354,51,297,45kg,0.4,1.9,Residencial,89.46,167.43,33.67,Roraima-Rota-03,78,64.3,GLP Granel,Fogás,Roraima,Venda Direta,566,23.3,5,25.4,PIX
+F9749,2025-01-08,17:12,168,599,20,253,13kg,0.44,2.9,Comercial,113.85,193.0,43.76,Rondônia-Rota-03,33,30.5,GLP Comercial,Fogás,Rondônia,Venda Direta,525,20.8,1,2.1,Cartão
+F7271,2025-01-08,16:26,131,541,84,241,190kg,0.37,2.7,Residencial,126.17,186.2,29.08,Amapá-Rota-04,110,68.5,GLP Residencial,Fogás,Amapá,Revenda,754,23.7,5,7.2,Dinheiro
+F4628,2025-01-08,09:50,302,911,84,263,13kg,0.37,7.3,Residencial,120.83,93.91,40.23,Amazonas-Rota-04,36,29.3,GLP Industrial,Fogás,Amazonas,Revenda,966,23.7,4,30.7,Boleto
+F9162,2025-01-08,10:50,376,515,31,184,190kg,0.19,3.0,Comercial,89.55,96.37,20.05,Amazonas-Rota-09,111,50.4,GLP Comercial,Fogás,Amazonas,Venda Direta,632,20.3,3,11.2,Cartão
+F8491,2025-01-08,20:13,456,556,29,129,190kg,0.23,6.6,Industrial,115.81,151.77,38.27,Acre-Rota-03,85,23.0,GLP Industrial,Fogás,Acre,Venda Direta,651,20.5,1,0.5,Cartão
+F7276,2025-01-08,08:18,463,435,47,256,45kg,0.11,7.8,Industrial,138.68,132.78,17.08,Rondônia-Rota-05,56,16.1,GLP Industrial,Fogás,Rondônia,Revenda,11,23.2,1,27.9,PIX
+F5984,2025-01-08,11:52,262,201,22,127,45kg,0.28,5.6,Residencial,85.77,172.05,12.8,Amazonas-Rota-01,93,67.9,GLP Granel,Fogás,Amazonas,Revenda,290,22.4,1,1.0,Boleto
+F1452,2025-01-08,08:48,436,364,90,254,13kg,0.49,8.5,Residencial,86.94,174.4,11.34,Acre-Rota-06,82,99.2,GLP Industrial,Fogás,Acre,Venda Direta,701,23.1,2,8.1,Dinheiro
+F6358,2025-01-08,20:51,402,979,25,174,190kg,0.58,7.5,Comercial,87.29,97.8,14.48,Rondônia-Rota-07,15,5.8,GLP Granel,Fogás,Rondônia,Venda Direta,819,20.6,2,33.3,Cartão
+F3603,2025-01-08,16:38,151,568,36,111,190kg,0.18,6.5,Residencial,74.98,161.37,24.18,Amapá-Rota-05,67,52.1,GLP Industrial,Ultragaz,Amapá,Venda Direta,636,23.0,1,40.5,Cartão
+F9867,2025-01-08,06:02,153,998,44,283,20kg,0.51,6.4,Residencial,127.7,172.62,47.04,Amapá-Rota-03,23,33.9,GLP Industrial,Fogás,Amapá,Venda Direta,473,21.9,2,3.3,Boleto
+F5677,2025-01-08,10:37,54,304,82,178,190kg,0.21,1.1,Residencial,76.11,92.48,32.99,Amazonas-Rota-01,27,19.7,GLP Comercial,Fogás,Amazonas,E-commerce,732,23.8,4,18.5,PIX
+F1983,2025-01-08,06:15,254,911,52,286,45kg,0.51,9.3,Residencial,100.65,140.26,38.24,Amazonas-Rota-01,55,18.3,GLP Comercial,Fogás,Amazonas,Venda Direta,788,23.2,2,0.0,PIX
+F1058,2025-01-08,14:20,231,961,76,225,13kg,0.59,7.7,Industrial,134.15,162.06,27.23,Roraima-Rota-06,85,75.1,GLP Comercial,Fogás,Roraima,E-commerce,541,22.4,3,18.1,Dinheiro
+F4818,2025-01-09,10:07,158,360,52,129,45kg,0.24,5.1,Residencial,103.28,91.94,36.53,Amazonas-Rota-01,18,63.2,GLP Comercial,Fogás,Amazonas,Venda Direta,827,28.0,2,40.1,Boleto
+F8762,2025-01-09,18:13,107,341,66,131,20kg,0.31,1.3,Residencial,112.74,142.53,12.9,Amazonas-Rota-04,76,77.7,GLP Industrial,Fogás,Amazonas,E-commerce,668,27.7,1,29.5,Cartão
+F4684,2025-01-09,16:14,342,300,52,279,13kg,0.17,8.8,Condomínio,99.12,138.68,28.38,Amapá-Rota-08,76,21.8,GLP Granel,Ultragaz,Amapá,Revenda,666,27.7,3,10.5,PIX
+F9870,2025-01-09,17:23,120,627,26,286,190kg,0.5,2.2,Comercial,110.39,181.89,10.48,Acre-Rota-06,49,24.0,GLP Residencial,Fogás,Acre,Revenda,977,28.5,5,39.4,Dinheiro
+F9288,2025-01-09,06:07,415,447,47,198,20kg,0.44,5.8,Comercial,73.99,91.79,47.4,Roraima-Rota-04,81,84.0,GLP Granel,Fogás,Roraima,Revenda,176,27.8,5,2.4,Boleto
+F8499,2025-01-09,20:52,245,903,25,207,20kg,0.45,6.0,Residencial,87.05,120.95,12.14,Amazonas-Rota-03,107,15.5,GLP Industrial,Ultragaz,Amazonas,Venda Direta,577,25.7,4,33.4,Cartão
+F7606,2025-01-09,11:56,405,410,38,275,190kg,0.45,1.0,Residencial,89.84,122.76,38.29,Rondônia-Rota-06,27,28.2,GLP Industrial,Fogás,Rondônia,Revenda,104,26.2,4,7.9,Boleto
+F7999,2025-01-09,06:02,444,814,22,111,45kg,0.17,3.4,Comercial,78.89,116.34,49.34,Amapá-Rota-08,50,70.2,GLP Industrial,Fogás,Amapá,Venda Direta,304,28.3,5,34.6,PIX
+F4766,2025-01-09,06:29,212,726,93,176,13kg,0.51,1.4,Condomínio,120.69,198.72,49.9,Acre-Rota-02,67,48.2,GLP Industrial,Fogás,Acre,Venda Direta,424,27.8,4,30.3,PIX
+F5645,2025-01-09,09:39,401,728,37,116,190kg,0.41,2.3,Residencial,113.3,148.18,16.23,Amazonas-Rota-06,102,65.1,GLP Comercial,Fogás,Amazonas,Revenda,907,28.2,1,42.2,Cartão
+F7545,2025-01-09,12:45,93,380,77,220,13kg,0.22,5.9,Residencial,73.0,109.9,10.13,Roraima-Rota-01,16,17.1,GLP Comercial,Fogás,Roraima,Revenda,433,26.5,1,2.1,Dinheiro
+F4491,2025-01-09,11:50,264,320,90,211,20kg,0.35,3.7,Residencial,139.16,188.1,49.86,Amazonas-Rota-02,21,24.3,GLP Residencial,Fogás,Amazonas,Venda Direta,59,26.5,5,41.9,PIX
+F4129,2025-01-09,17:05,170,957,97,283,190kg,0.25,6.6,Comercial,123.42,113.7,18.05,Rondônia-Rota-01,96,95.8,GLP Comercial,Fogás,Rondônia,Revenda,148,26.2,4,42.5,Boleto
+F5071,2025-01-09,15:51,83,305,54,293,190kg,0.13,8.7,Residencial,114.85,149.63,26.04,Acre-Rota-08,51,70.7,GLP Industrial,Fogás,Acre,Venda Direta,75,28.1,3,46.4,Cartão
+F1299,2025-01-09,19:43,96,606,54,172,190kg,0.5,7.2,Industrial,140.29,132.24,36.79,Amazonas-Rota-02,100,81.3,GLP Industrial,Fogás,Amazonas,Revenda,662,28.6,4,28.9,Boleto
+F1870,2025-01-09,16:00,179,795,97,241,20kg,0.34,2.1,Residencial,83.64,126.46,33.22,Roraima-Rota-04,25,94.8,GLP Residencial,Fogás,Roraima,Revenda,425,27.1,1,3.9,Dinheiro
+F2576,2025-01-09,08:24,303,888,35,212,45kg,0.34,1.7,Residencial,83.07,191.65,34.41,Amapá-Rota-08,18,91.9,GLP Residencial,Fogás,Amapá,Revenda,512,28.2,1,24.4,Dinheiro
+F6128,2025-01-09,16:24,352,521,74,141,20kg,0.27,5.2,Industrial,102.07,116.02,39.1,Rondônia-Rota-08,49,7.3,GLP Residencial,Fogás,Rondônia,Venda Direta,348,28.0,5,4.3,Cartão
+F9168,2025-01-09,13:59,481,550,93,275,13kg,0.19,2.0,Industrial,140.05,107.42,42.96,Roraima-Rota-02,60,10.6,GLP Residencial,Fogás,Roraima,Revenda,94,27.4,2,25.1,PIX
+F8063,2025-01-09,07:36,475,757,88,243,20kg,0.15,2.3,Residencial,145.39,187.65,48.02,Roraima-Rota-01,31,25.9,GLP Industrial,Fogás,Roraima,Venda Direta,187,25.2,4,29.2,Dinheiro
+F7146,2025-01-09,09:38,159,463,59,127,13kg,0.24,1.2,Condomínio,129.56,183.22,28.06,Rondônia-Rota-07,48,90.2,GLP Industrial,Fogás,Rondônia,Revenda,567,25.8,2,35.5,Boleto
+F9658,2025-01-09,15:29,325,908,43,109,20kg,0.47,2.5,Comercial,104.81,182.49,12.49,Rondônia-Rota-09,93,75.8,GLP Granel,Fogás,Rondônia,Revenda,584,25.5,3,20.4,Cartão
+F1255,2025-01-09,13:15,75,378,73,201,190kg,0.37,2.8,Residencial,80.48,198.8,14.55,Acre-Rota-07,64,79.8,GLP Residencial,Fogás,Acre,Revenda,926,25.2,5,22.6,Cartão
+F9975,2025-01-09,09:10,456,584,55,206,13kg,0.6,8.8,Comercial,130.52,130.18,23.42,Amazonas-Rota-09,25,60.8,GLP Comercial,Fogás,Amazonas,Revenda,850,26.3,3,26.9,Cartão
+F9833,2025-01-09,19:14,411,502,91,253,45kg,0.18,8.8,Industrial,96.85,163.4,39.87,Amapá-Rota-02,117,76.4,GLP Granel,Fogás,Amapá,Revenda,986,26.4,1,34.3,Boleto
+F9042,2025-01-09,10:45,206,680,32,272,20kg,0.13,9.2,Industrial,89.1,158.49,12.91,Amapá-Rota-09,35,95.2,GLP Granel,Fogás,Amapá,Revenda,139,27.3,3,38.0,PIX
+F2579,2025-01-09,17:35,118,226,38,162,13kg,0.45,3.7,Residencial,140.15,182.09,26.35,Amapá-Rota-03,69,83.4,GLP Comercial,Fogás,Amapá,Revenda,77,26.6,2,11.9,Boleto
+F9501,2025-01-09,08:11,472,314,27,261,190kg,0.54,5.9,Industrial,87.01,124.82,47.34,Amazonas-Rota-04,97,86.3,GLP Industrial,Fogás,Amazonas,Revenda,424,26.4,2,17.9,Cartão
+F1888,2025-01-09,12:41,231,853,93,186,45kg,0.46,3.5,Residencial,72.89,109.31,29.54,Acre-Rota-04,102,54.0,GLP Industrial,Fogás,Acre,Revenda,380,28.8,1,7.4,PIX
+F1065,2025-01-09,06:08,417,450,33,178,20kg,0.23,3.1,Industrial,138.94,136.37,42.79,Roraima-Rota-08,103,54.7,GLP Industrial,Fogás,Roraima,Venda Direta,0,25.1,1,15.5,PIX
+F5993,2025-01-09,19:08,318,736,58,145,20kg,0.41,9.5,Residencial,88.77,160.19,16.84,Amapá-Rota-04,23,38.0,GLP Comercial,Ultragaz,Amapá,Revenda,869,25.9,4,38.1,Dinheiro
+F2415,2025-01-10,10:25,424,880,37,287,20kg,0.26,7.0,Industrial,109.6,114.75,21.75,Acre-Rota-03,79,13.9,GLP Granel,Fogás,Acre,Revenda,584,32.4,5,23.2,PIX
+F7653,2025-01-10,19:47,348,380,41,106,45kg,0.23,7.2,Industrial,108.2,135.5,25.99,Rondônia-Rota-07,82,99.7,GLP Industrial,Fogás,Rondônia,Venda Direta,232,34.3,3,35.9,Cartão
+F6345,2025-01-10,17:51,491,690,75,263,190kg,0.41,2.9,Residencial,140.37,166.3,10.58,Roraima-Rota-03,71,85.4,GLP Comercial,Fogás,Roraima,Revenda,485,32.8,5,31.6,Boleto
+F4298,2025-01-10,21:55,450,961,87,139,20kg,0.3,9.8,Industrial,77.03,120.82,10.73,Amapá-Rota-08,15,8.9,GLP Comercial,Ultragaz,Amapá,Venda Direta,595,32.8,5,7.6,Boleto
+F5031,2025-01-10,08:32,208,411,37,287,13kg,0.58,5.5,Residencial,80.83,127.99,17.03,Roraima-Rota-04,43,63.2,GLP Industrial,Fogás,Roraima,Revenda,177,32.4,4,12.6,PIX
+F1309,2025-01-10,15:44,82,744,80,101,45kg,0.39,9.1,Residencial,100.92,120.43,20.64,Rondônia-Rota-07,118,78.7,GLP Granel,Fogás,Rondônia,Revenda,40,31.8,5,31.8,Dinheiro
+F1868,2025-01-10,08:18,337,524,41,277,190kg,0.56,5.9,Residencial,110.24,149.24,22.19,Rondônia-Rota-03,90,8.9,GLP Industrial,Fogás,Rondônia,Venda Direta,744,34.7,4,36.9,Boleto
+F6471,2025-01-10,21:56,198,446,52,110,190kg,0.28,3.0,Residencial,115.67,154.2,21.67,Rondônia-Rota-09,32,37.5,GLP Granel,Fogás,Rondônia,Revenda,517,34.5,3,46.6,Dinheiro
+F2696,2025-01-10,12:39,314,295,89,199,190kg,0.38,2.0,Comercial,135.64,91.02,36.57,Amazonas-Rota-02,80,79.5,GLP Residencial,Fogás,Amazonas,Revenda,724,33.1,4,25.4,Dinheiro
+F7348,2025-01-10,10:55,459,814,57,104,45kg,0.49,6.6,Comercial,108.46,158.91,46.27,Amazonas-Rota-01,44,30.2,GLP Comercial,Fogás,Amazonas,Revenda,876,34.7,4,4.3,Cartão
+F5583,2025-01-10,16:25,420,391,78,110,13kg,0.12,9.0,Comercial,97.76,150.01,14.58,Rondônia-Rota-09,46,86.7,GLP Granel,Fogás,Rondônia,Revenda,143,32.7,4,15.3,Cartão
+F4938,2025-01-10,21:45,218,808,75,270,13kg,0.12,5.0,Condomínio,84.08,129.01,42.38,Amazonas-Rota-04,15,22.7,GLP Comercial,Fogás,Amazonas,Revenda,32,34.7,4,40.8,Boleto
+F3808,2025-01-10,15:13,271,938,95,231,13kg,0.49,8.4,Industrial,79.94,152.75,46.63,Rondônia-Rota-02,69,77.3,GLP Granel,Fogás,Rondônia,Revenda,919,33.9,5,7.8,Dinheiro
+F1529,2025-01-10,12:34,353,973,28,225,20kg,0.44,8.1,Residencial,88.28,126.88,21.79,Roraima-Rota-07,75,78.2,GLP Granel,Fogás,Roraima,Venda Direta,762,33.6,4,27.4,PIX
+F1437,2025-01-10,13:41,469,482,56,204,20kg,0.13,8.9,Residencial,74.11,94.49,13.91,Roraima-Rota-05,83,40.7,GLP Industrial,Fogás,Roraima,Revenda,199,32.3,1,27.5,PIX
+F8567,2025-01-10,16:03,125,416,70,190,190kg,0.38,1.9,Residencial,101.08,106.95,25.48,Acre-Rota-06,114,66.4,GLP Comercial,Fogás,Acre,Revenda,631,31.9,3,23.2,Cartão
+F3276,2025-01-10,06:33,395,429,42,235,190kg,0.48,8.1,Condomínio,99.13,197.48,49.88,Acre-Rota-08,102,34.6,GLP Granel,Fogás,Acre,E-commerce,107,34.5,1,22.4,PIX
+F6143,2025-01-10,08:47,412,273,28,175,13kg,0.49,9.6,Industrial,95.69,161.89,29.34,Amapá-Rota-01,57,72.1,GLP Granel,Fogás,Amapá,E-commerce,438,34.9,1,32.4,Cartão
+F4107,2025-01-10,18:23,434,313,37,143,190kg,0.28,8.0,Residencial,139.83,179.71,22.99,Rondônia-Rota-02,108,77.5,GLP Industrial,Fogás,Rondônia,Venda Direta,616,34.4,5,38.6,Dinheiro
+F1946,2025-01-10,09:45,59,222,60,229,20kg,0.59,3.6,Residencial,75.95,100.48,22.43,Amapá-Rota-01,113,96.3,GLP Comercial,Fogás,Amapá,Revenda,341,32.9,2,8.0,Dinheiro
+F5244,2025-01-10,16:03,67,924,65,110,13kg,0.22,7.3,Residencial,84.5,162.03,20.51,Rondônia-Rota-02,109,55.5,GLP Industrial,Fogás,Rondônia,Revenda,530,31.9,4,0.4,Dinheiro
+F7894,2025-01-10,17:19,243,468,93,299,20kg,0.17,5.2,Residencial,145.58,162.96,12.45,Amapá-Rota-05,105,63.2,GLP Industrial,Fogás,Amapá,Revenda,636,34.8,5,2.0,Cartão
+F4146,2025-01-10,20:36,178,848,88,296,13kg,0.57,3.4,Residencial,113.11,152.31,38.7,Amazonas-Rota-06,78,35.9,GLP Granel,Fogás,Amazonas,Venda Direta,523,34.4,4,40.8,Cartão
+F6516,2025-01-10,15:16,168,760,76,189,45kg,0.2,7.8,Comercial,129.85,139.21,19.1,Rondônia-Rota-05,90,6.2,GLP Granel,Fogás,Rondônia,Revenda,678,34.7,5,24.3,Boleto
+F4756,2025-01-10,08:02,295,633,32,206,20kg,0.2,5.1,Residencial,115.65,143.15,32.78,Amazonas-Rota-08,28,52.2,GLP Residencial,Ultragaz,Amazonas,Revenda,463,32.2,1,20.3,Cartão
+F8078,2025-01-11,07:10,391,817,65,129,45kg,0.22,1.6,Residencial,144.34,94.71,44.45,Rondônia-Rota-07,109,59.7,GLP Residencial,Fogás,Rondônia,Revenda,664,23.2,2,47.5,Cartão
+F3997,2025-01-11,20:41,314,462,53,288,190kg,0.15,4.2,Comercial,71.77,103.01,24.21,Amazonas-Rota-07,30,40.6,GLP Granel,Ultragaz,Amazonas,Revenda,495,21.4,2,9.4,Cartão
+F3516,2025-01-11,12:43,480,590,47,252,45kg,0.11,2.5,Residencial,129.12,199.13,18.83,Roraima-Rota-09,36,75.1,GLP Granel,Fogás,Roraima,Venda Direta,266,24.3,3,31.7,PIX
+F2162,2025-01-11,08:40,370,555,80,227,13kg,0.32,5.1,Industrial,96.07,124.33,21.68,Rondônia-Rota-01,33,26.3,GLP Industrial,Fogás,Rondônia,E-commerce,885,24.3,2,34.7,Boleto
+F5569,2025-01-11,20:01,107,217,60,262,20kg,0.56,7.5,Industrial,126.31,91.13,12.31,Amazonas-Rota-03,105,17.7,GLP Industrial,Fogás,Amazonas,Venda Direta,226,23.1,4,5.2,PIX
+F9785,2025-01-11,12:45,152,584,76,179,190kg,0.46,7.2,Residencial,121.26,130.5,10.94,Amapá-Rota-01,45,56.6,GLP Residencial,Fogás,Amapá,Revenda,948,23.8,3,26.4,Cartão
+F4184,2025-01-11,19:06,286,944,38,179,13kg,0.39,3.1,Residencial,108.55,137.9,24.43,Acre-Rota-03,81,54.0,GLP Industrial,Ultragaz,Acre,Revenda,756,21.5,3,8.4,Dinheiro
+F3126,2025-01-11,11:23,331,882,78,250,20kg,0.47,3.1,Comercial,96.16,173.74,42.66,Amapá-Rota-07,39,25.0,GLP Residencial,Ultragaz,Amapá,Venda Direta,443,22.8,4,28.6,Boleto
+F1892,2025-01-11,21:10,490,992,74,204,45kg,0.22,3.8,Residencial,139.37,117.64,17.74,Amapá-Rota-07,96,16.1,GLP Granel,Fogás,Amapá,Revenda,665,23.0,3,6.1,PIX
+F7200,2025-01-11,18:03,418,205,93,102,20kg,0.27,5.8,Industrial,134.6,106.02,11.81,Amazonas-Rota-07,71,5.3,GLP Granel,Fogás,Amazonas,Revenda,920,21.1,1,41.8,Dinheiro
+F8216,2025-01-11,20:02,405,966,39,131,190kg,0.2,7.9,Condomínio,96.24,103.34,11.36,Roraima-Rota-02,25,86.5,GLP Industrial,Fogás,Roraima,Revenda,164,21.7,4,37.4,Boleto
+F8242,2025-01-11,19:37,416,579,67,128,45kg,0.55,1.5,Residencial,74.44,182.1,35.58,Roraima-Rota-06,50,39.0,GLP Granel,Fogás,Roraima,Revenda,641,22.6,2,47.2,Boleto
+F6879,2025-01-11,17:34,285,877,78,285,190kg,0.21,9.7,Residencial,91.84,139.69,37.33,Roraima-Rota-01,77,28.5,GLP Residencial,Fogás,Roraima,Revenda,295,24.6,2,41.6,PIX
+F6450,2025-01-11,20:52,112,420,79,270,13kg,0.46,2.6,Industrial,124.35,186.33,28.32,Amazonas-Rota-08,104,43.2,GLP Industrial,Fogás,Amazonas,Revenda,585,24.0,2,29.8,Dinheiro
+F9791,2025-01-11,09:17,389,972,60,128,20kg,0.28,6.9,Residencial,83.84,174.76,34.69,Roraima-Rota-09,77,90.7,GLP Granel,Fogás,Roraima,Revenda,749,21.0,1,39.2,PIX
+F6910,2025-01-11,06:45,257,607,46,202,13kg,0.24,7.3,Comercial,90.45,133.18,12.81,Roraima-Rota-09,62,72.4,GLP Industrial,Fogás,Roraima,Venda Direta,911,24.5,3,30.3,Cartão
+F8039,2025-01-11,06:02,208,450,36,179,45kg,0.48,4.4,Condomínio,88.09,133.56,42.7,Acre-Rota-06,70,15.2,GLP Comercial,Fogás,Acre,Venda Direta,573,22.9,4,28.2,PIX
+F7234,2025-01-11,19:47,254,429,66,272,45kg,0.58,3.4,Residencial,84.33,169.68,23.82,Amapá-Rota-01,34,78.3,GLP Comercial,Fogás,Amapá,Revenda,597,23.1,1,29.1,PIX
+F2104,2025-01-11,08:54,332,592,86,264,20kg,0.11,5.1,Comercial,111.04,94.98,24.83,Amazonas-Rota-09,60,30.4,GLP Comercial,Fogás,Amazonas,Revenda,557,24.8,4,20.1,Dinheiro
+F4884,2025-01-11,18:19,167,584,46,178,45kg,0.27,6.2,Residencial,121.4,157.03,14.96,Acre-Rota-01,27,58.1,GLP Industrial,Fogás,Acre,E-commerce,568,24.9,5,38.5,Boleto
+F5161,2025-01-12,12:35,122,602,37,124,190kg,0.53,8.5,Residencial,145.03,126.48,40.68,Amapá-Rota-01,94,79.7,GLP Residencial,Ultragaz,Amapá,Revenda,422,24.0,4,12.3,Boleto
+F1838,2025-01-12,09:49,227,247,77,118,45kg,0.46,9.0,Residencial,101.99,191.76,41.95,Roraima-Rota-03,115,56.0,GLP Granel,Fogás,Roraima,Revenda,653,25.6,3,45.1,Boleto
+F3936,2025-01-12,19:14,424,320,29,252,13kg,0.52,3.7,Residencial,109.16,111.48,24.79,Roraima-Rota-06,30,13.1,GLP Granel,Fogás,Roraima,Venda Direta,394,23.7,2,23.3,Boleto
+F3188,2025-01-12,16:22,208,886,59,217,20kg,0.12,9.6,Industrial,140.34,195.71,22.87,Acre-Rota-07,35,14.4,GLP Granel,Fogás,Acre,Venda Direta,505,22.5,3,36.3,Dinheiro
+F4827,2025-01-12,12:11,401,573,59,202,45kg,0.57,8.8,Residencial,94.76,149.4,13.82,Roraima-Rota-08,95,99.5,GLP Industrial,Fogás,Roraima,Revenda,746,22.3,1,2.8,Boleto
+F4409,2025-01-12,17:21,325,397,80,138,45kg,0.51,9.2,Comercial,72.67,100.35,34.23,Amazonas-Rota-04,69,30.0,GLP Industrial,Fogás,Amazonas,Revenda,266,24.3,4,44.0,Boleto
+F2909,2025-01-12,13:18,417,706,71,295,13kg,0.18,3.0,Residencial,71.96,157.73,17.43,Amapá-Rota-04,87,36.9,GLP Residencial,Fogás,Amapá,Venda Direta,275,24.3,4,11.7,PIX
+F4760,2025-01-12,10:43,364,202,65,180,45kg,0.18,8.3,Residencial,97.39,145.14,43.64,Amapá-Rota-09,117,88.4,GLP Comercial,Fogás,Amapá,Venda Direta,649,24.3,5,14.0,Boleto
+F3570,2025-01-12,11:35,387,947,92,230,45kg,0.15,9.9,Industrial,147.58,189.9,16.14,Amazonas-Rota-07,41,20.9,GLP Industrial,Fogás,Amazonas,Revenda,614,26.2,5,44.2,PIX
+F9746,2025-01-12,16:18,129,324,71,240,190kg,0.47,9.8,Comercial,107.28,186.33,37.66,Amazonas-Rota-02,86,9.4,GLP Residencial,Fogás,Amazonas,Revenda,538,23.5,5,13.5,Dinheiro
+F8918,2025-01-12,13:20,240,793,50,176,20kg,0.39,3.4,Residencial,137.32,182.25,20.36,Rondônia-Rota-03,20,97.3,GLP Residencial,Fogás,Rondônia,Revenda,181,25.7,5,18.9,PIX
+F8286,2025-01-12,14:18,86,482,65,275,20kg,0.18,3.8,Industrial,121.12,174.33,26.51,Rondônia-Rota-02,20,48.0,GLP Residencial,Fogás,Rondônia,Venda Direta,375,26.0,2,15.7,Boleto
+F7681,2025-01-12,18:19,463,822,90,109,190kg,0.55,4.6,Industrial,107.68,181.83,27.79,Acre-Rota-04,48,51.3,GLP Industrial,Fogás,Acre,E-commerce,724,25.4,1,0.5,Dinheiro
+F9238,2025-01-12,06:13,208,333,32,147,13kg,0.59,1.2,Residencial,133.77,184.52,14.47,Rondônia-Rota-08,83,14.2,GLP Granel,Fogás,Rondônia,Revenda,959,24.4,2,32.0,PIX
+F6766,2025-01-12,17:39,296,534,66,106,13kg,0.4,5.8,Industrial,94.98,94.66,35.55,Rondônia-Rota-08,26,25.2,GLP Industrial,Fogás,Rondônia,Revenda,57,24.8,5,19.1,Cartão
+F7496,2025-01-12,14:05,216,329,26,158,45kg,0.24,3.5,Condomínio,109.67,193.25,49.58,Rondônia-Rota-09,87,71.4,GLP Industrial,Fogás,Rondônia,Revenda,814,23.2,1,13.2,Dinheiro
+F4017,2025-01-12,19:49,174,396,78,117,20kg,0.32,8.3,Comercial,90.13,151.87,24.94,Acre-Rota-05,37,58.4,GLP Residencial,Fogás,Acre,Revenda,176,25.8,3,5.5,Dinheiro
+F6736,2025-01-12,16:56,432,206,88,164,45kg,0.38,1.8,Industrial,96.82,99.45,44.88,Amazonas-Rota-03,88,47.4,GLP Residencial,Ultragaz,Amazonas,Revenda,629,22.2,3,39.9,Dinheiro
+F9166,2025-01-12,19:03,187,385,56,283,13kg,0.49,3.5,Industrial,102.0,168.41,33.18,Acre-Rota-06,77,95.1,GLP Industrial,Fogás,Acre,Revenda,866,22.4,2,6.6,PIX
+F2247,2025-01-12,08:06,344,301,59,133,20kg,0.22,3.0,Condomínio,146.68,193.89,38.0,Acre-Rota-06,94,84.6,GLP Granel,Fogás,Acre,Revenda,693,22.3,2,47.1,Dinheiro
+F2457,2025-01-12,19:38,224,903,67,177,45kg,0.49,7.6,Residencial,105.51,154.0,20.28,Amapá-Rota-09,48,86.1,GLP Granel,Fogás,Amapá,Venda Direta,543,25.2,2,21.4,Dinheiro
+F5925,2025-01-12,14:24,283,448,62,176,45kg,0.11,9.1,Residencial,101.47,162.13,49.43,Amapá-Rota-01,84,32.4,GLP Residencial,Fogás,Amapá,E-commerce,61,24.0,4,16.9,Boleto
+F3690,2025-01-12,12:35,163,367,97,193,13kg,0.22,9.6,Residencial,123.23,91.52,42.24,Amapá-Rota-05,76,48.4,GLP Comercial,Ultragaz,Amapá,Revenda,761,22.5,2,47.4,PIX
+F3639,2025-01-12,07:48,279,869,95,176,20kg,0.25,7.5,Industrial,77.19,123.11,22.82,Acre-Rota-05,116,56.1,GLP Comercial,Fogás,Acre,Revenda,548,24.2,5,35.2,Boleto
+F2066,2025-01-12,19:18,126,935,63,190,190kg,0.42,4.9,Residencial,95.9,105.34,30.77,Acre-Rota-08,17,36.5,GLP Residencial,Fogás,Acre,Revenda,142,23.5,5,9.7,Dinheiro
+F7044,2025-01-12,10:40,90,256,45,173,45kg,0.37,2.3,Industrial,115.32,142.03,42.14,Roraima-Rota-09,22,38.9,GLP Industrial,Fogás,Roraima,Revenda,56,23.6,1,22.3,Cartão
+F5117,2025-01-12,18:23,258,491,43,174,13kg,0.2,7.3,Industrial,71.13,143.18,16.39,Amazonas-Rota-01,71,24.8,GLP Residencial,Fogás,Amazonas,Revenda,409,26.1,4,24.9,Boleto
+F1060,2025-01-12,09:57,255,516,32,209,45kg,0.59,4.3,Residencial,124.68,151.96,27.6,Amazonas-Rota-05,51,64.0,GLP Granel,Fogás,Amazonas,Revenda,717,26.0,5,37.6,PIX
+F8680,2025-01-12,09:53,373,672,26,139,45kg,0.19,7.8,Industrial,122.87,149.75,42.02,Acre-Rota-01,19,20.9,GLP Industrial,Ultragaz,Acre,Revenda,400,23.3,1,0.4,Boleto
+F2582,2025-01-12,20:15,129,836,94,157,13kg,0.11,7.2,Condomínio,98.05,166.22,35.27,Acre-Rota-03,105,33.4,GLP Granel,Ultragaz,Acre,E-commerce,8,26.0,3,18.4,Dinheiro
+F2112,2025-01-12,07:23,375,722,72,199,45kg,0.5,7.0,Industrial,132.28,189.19,33.68,Acre-Rota-07,57,62.1,GLP Residencial,Fogás,Acre,Revenda,410,25.7,4,14.8,Cartão
+F2671,2025-01-12,19:07,197,334,20,279,20kg,0.47,2.4,Industrial,137.24,194.68,46.4,Amapá-Rota-08,117,32.3,GLP Comercial,Ultragaz,Amapá,Revenda,899,24.3,4,18.3,Cartão
+F2972,2025-01-12,15:02,449,671,50,205,20kg,0.37,7.0,Comercial,76.82,104.0,37.93,Acre-Rota-06,49,87.9,GLP Granel,Fogás,Acre,Revenda,520,22.8,1,30.4,Dinheiro
+F7763,2025-01-13,20:02,213,246,29,265,45kg,0.51,2.0,Residencial,93.26,113.63,35.01,Rondônia-Rota-07,69,54.1,GLP Comercial,Fogás,Rondônia,Revenda,978,27.5,4,25.4,Boleto
+F9676,2025-01-13,07:11,233,517,38,250,190kg,0.56,6.6,Residencial,144.62,105.12,25.99,Amapá-Rota-02,75,23.2,GLP Industrial,Fogás,Amapá,Venda Direta,584,27.7,3,22.4,Dinheiro
+F5116,2025-01-13,07:56,366,510,62,213,20kg,0.41,1.5,Industrial,145.78,151.24,31.98,Rondônia-Rota-01,51,60.8,GLP Industrial,Fogás,Rondônia,E-commerce,115,24.6,2,14.0,Cartão
+F3334,2025-01-13,10:53,95,408,43,299,45kg,0.25,9.0,Residencial,92.18,113.51,35.65,Amazonas-Rota-06,18,97.6,GLP Industrial,Fogás,Amazonas,Revenda,850,24.8,4,22.3,Cartão
+F7189,2025-01-13,20:28,192,520,96,286,13kg,0.38,4.9,Comercial,125.72,183.33,24.29,Amazonas-Rota-03,101,97.8,GLP Comercial,Fogás,Amazonas,Venda Direta,962,24.8,5,16.6,PIX
+F1407,2025-01-13,12:49,482,873,86,217,45kg,0.22,9.6,Residencial,138.04,175.09,15.37,Roraima-Rota-04,76,52.6,GLP Comercial,Fogás,Roraima,Revenda,34,27.4,1,23.5,Boleto
+F8408,2025-01-13,08:46,411,666,55,164,45kg,0.1,6.8,Comercial,127.04,183.52,49.68,Acre-Rota-06,50,8.8,GLP Granel,Fogás,Acre,E-commerce,509,27.0,5,47.2,PIX
+F7598,2025-01-13,07:11,208,787,93,188,13kg,0.3,6.6,Comercial,138.07,187.86,30.28,Acre-Rota-05,91,28.4,GLP Industrial,Fogás,Acre,E-commerce,308,27.9,3,13.1,Cartão
+F2691,2025-01-13,15:12,491,403,91,201,45kg,0.31,1.6,Comercial,140.26,109.75,33.18,Rondônia-Rota-08,68,77.7,GLP Comercial,Fogás,Rondônia,E-commerce,714,24.8,4,31.5,PIX
+F5261,2025-01-13,13:40,365,494,80,208,13kg,0.11,6.1,Comercial,92.01,164.83,38.72,Roraima-Rota-02,60,57.6,GLP Granel,Ultragaz,Roraima,Revenda,249,27.6,3,44.4,Boleto
+F1868,2025-01-13,09:55,465,974,72,237,190kg,0.37,2.0,Comercial,71.18,91.73,45.45,Acre-Rota-07,67,10.6,GLP Granel,Fogás,Acre,Revenda,521,26.3,1,42.4,Cartão
+F8721,2025-01-13,06:59,441,616,89,198,20kg,0.3,2.7,Condomínio,149.89,92.12,26.4,Acre-Rota-05,97,61.4,GLP Granel,Fogás,Acre,Revenda,97,26.5,1,23.0,Dinheiro
+F9075,2025-01-13,13:48,297,798,92,126,20kg,0.57,9.8,Comercial,122.51,141.89,42.86,Amapá-Rota-02,42,61.0,GLP Comercial,Fogás,Amapá,Revenda,8,28.3,4,12.2,Boleto
+F9648,2025-01-13,16:57,483,671,69,278,45kg,0.21,7.8,Comercial,89.53,191.01,40.66,Rondônia-Rota-03,54,23.7,GLP Granel,Fogás,Rondônia,Venda Direta,969,26.3,4,24.5,Boleto
+F4300,2025-01-13,10:31,495,776,68,206,45kg,0.11,2.9,Comercial,103.24,166.6,11.18,Amazonas-Rota-07,90,31.8,GLP Residencial,Fogás,Amazonas,Revenda,528,27.7,3,14.2,PIX
+F8268,2025-01-13,15:12,159,234,65,233,190kg,0.23,2.0,Condomínio,120.18,97.48,21.92,Amapá-Rota-03,98,87.3,GLP Granel,Fogás,Amapá,Revenda,503,28.2,5,7.4,Dinheiro
+F5642,2025-01-13,07:10,335,246,34,108,20kg,0.44,3.0,Residencial,131.48,149.71,41.01,Acre-Rota-07,45,7.1,GLP Residencial,Fogás,Acre,Revenda,914,25.5,3,8.3,Boleto
+F5647,2025-01-13,13:54,472,788,82,170,13kg,0.3,8.5,Condomínio,120.8,98.09,20.84,Amazonas-Rota-04,93,40.5,GLP Granel,Fogás,Amazonas,Revenda,273,27.4,2,8.7,Cartão
+F6995,2025-01-13,18:31,296,516,58,113,190kg,0.27,7.7,Comercial,118.9,117.38,19.83,Acre-Rota-01,94,61.1,GLP Granel,Fogás,Acre,Revenda,426,26.4,3,11.7,Boleto
+F2569,2025-01-13,09:34,178,907,67,210,20kg,0.11,4.9,Residencial,134.13,109.85,10.29,Amapá-Rota-07,48,95.3,GLP Residencial,Fogás,Amapá,Revenda,418,26.2,3,7.0,Boleto
+F1524,2025-01-13,10:21,185,858,64,148,190kg,0.21,1.1,Residencial,111.26,174.5,29.04,Acre-Rota-01,23,66.7,GLP Granel,Ultragaz,Acre,Venda Direta,688,25.7,1,41.0,Boleto
+F9335,2025-01-13,21:30,385,748,86,100,20kg,0.41,5.7,Condomínio,79.54,164.39,25.2,Amazonas-Rota-03,17,69.7,GLP Residencial,Fogás,Amazonas,Venda Direta,58,27.6,2,16.8,PIX
+F3236,2025-01-13,14:26,258,869,69,172,20kg,0.41,8.4,Residencial,142.34,179.1,17.5,Rondônia-Rota-08,95,80.1,GLP Comercial,Fogás,Rondônia,Revenda,642,27.3,2,23.4,Dinheiro
+F5731,2025-01-13,18:46,498,799,22,169,190kg,0.6,2.3,Residencial,138.04,149.6,17.62,Amapá-Rota-07,72,78.0,GLP Industrial,Ultragaz,Amapá,Venda Direta,717,26.4,5,11.2,Dinheiro
+F6657,2025-01-13,15:56,275,551,87,248,20kg,0.47,7.4,Industrial,94.98,95.39,24.1,Amapá-Rota-07,58,30.1,GLP Granel,Fogás,Amapá,Revenda,863,27.9,1,46.5,Cartão
+F6575,2025-01-13,17:55,398,913,70,211,20kg,0.59,1.8,Residencial,126.32,96.72,46.89,Acre-Rota-01,42,20.2,GLP Granel,Ultragaz,Acre,Revenda,776,25.6,3,22.2,Cartão
+F8635,2025-01-14,07:39,476,762,54,225,13kg,0.44,7.1,Residencial,128.98,126.95,15.64,Acre-Rota-08,54,91.7,GLP Granel,Fogás,Acre,Revenda,95,31.8,4,25.2,PIX
+F1445,2025-01-14,12:01,171,678,89,216,20kg,0.56,6.9,Residencial,123.28,196.97,45.68,Roraima-Rota-03,92,21.0,GLP Comercial,Fogás,Roraima,Revenda,69,31.5,5,39.6,Cartão
+F8554,2025-01-14,12:28,337,392,86,235,45kg,0.54,3.4,Residencial,86.81,162.76,16.89,Roraima-Rota-03,15,71.1,GLP Comercial,Fogás,Roraima,E-commerce,349,31.1,5,18.5,PIX
+F3310,2025-01-14,08:15,417,697,68,154,45kg,0.24,4.9,Comercial,90.33,191.93,33.12,Rondônia-Rota-02,22,15.1,GLP Residencial,Ultragaz,Rondônia,Revenda,79,32.5,1,17.3,Boleto
+F5531,2025-01-14,20:43,218,709,97,299,13kg,0.14,2.5,Residencial,118.61,169.23,38.72,Rondônia-Rota-02,95,16.0,GLP Granel,Fogás,Rondônia,Venda Direta,750,33.2,3,15.5,PIX
+F8077,2025-01-14,14:40,76,478,40,196,20kg,0.35,6.3,Condomínio,76.0,97.08,45.34,Acre-Rota-02,39,46.7,GLP Industrial,Fogás,Acre,Revenda,308,32.6,5,7.8,PIX
+F1450,2025-01-14,11:32,184,842,99,190,13kg,0.26,1.7,Comercial,143.95,114.92,15.28,Rondônia-Rota-02,42,97.7,GLP Granel,Fogás,Rondônia,Venda Direta,823,29.6,5,38.0,PIX
+F6718,2025-01-14,21:18,305,573,98,122,45kg,0.52,2.4,Comercial,110.19,172.95,25.97,Amazonas-Rota-04,94,14.4,GLP Industrial,Fogás,Amazonas,Revenda,600,30.0,2,46.5,Dinheiro
+F2604,2025-01-14,21:17,313,676,70,173,45kg,0.56,5.5,Comercial,80.08,179.69,17.27,Amapá-Rota-02,91,11.8,GLP Comercial,Fogás,Amapá,Venda Direta,630,31.1,1,16.2,Boleto
+F3580,2025-01-14,07:44,105,521,45,124,190kg,0.43,1.4,Residencial,96.02,177.1,29.02,Amazonas-Rota-05,103,38.1,GLP Comercial,Fogás,Amazonas,Revenda,162,31.5,1,27.7,Cartão
+F6396,2025-01-14,14:09,453,734,69,141,20kg,0.28,2.0,Industrial,91.73,134.17,46.53,Amapá-Rota-02,57,59.1,GLP Comercial,Fogás,Amapá,Revenda,574,33.0,4,13.9,PIX
+F9915,2025-01-14,14:46,245,440,44,111,190kg,0.31,9.5,Residencial,82.35,176.03,17.42,Roraima-Rota-07,76,58.2,GLP Industrial,Fogás,Roraima,Venda Direta,243,30.3,5,39.6,Boleto
+F8289,2025-01-14,21:13,258,360,95,283,45kg,0.3,4.3,Industrial,100.66,160.92,44.03,Roraima-Rota-07,102,20.8,GLP Residencial,Ultragaz,Roraima,Venda Direta,547,33.1,5,28.0,Dinheiro
+F8513,2025-01-14,14:18,50,500,83,143,20kg,0.54,8.1,Residencial,149.2,179.25,46.92,Amazonas-Rota-02,101,50.0,GLP Residencial,Fogás,Amazonas,Revenda,719,30.4,5,43.9,Dinheiro
+F6667,2025-01-14,11:11,335,957,50,263,45kg,0.47,1.1,Industrial,149.53,143.65,37.43,Roraima-Rota-07,114,58.4,GLP Residencial,Fogás,Roraima,E-commerce,908,29.7,2,19.1,Boleto
+F5958,2025-01-14,09:18,474,968,61,277,45kg,0.29,6.8,Condomínio,130.36,93.65,49.47,Roraima-Rota-08,17,28.0,GLP Residencial,Fogás,Roraima,Revenda,933,30.6,4,32.1,Boleto
+F4143,2025-01-14,17:51,260,793,84,116,20kg,0.24,9.3,Residencial,148.57,135.74,46.07,Amapá-Rota-05,111,61.9,GLP Comercial,Fogás,Amapá,Venda Direta,13,29.5,5,43.7,Dinheiro
+F3325,2025-01-14,18:49,376,888,70,158,13kg,0.22,1.4,Residencial,121.62,193.25,45.26,Roraima-Rota-08,64,23.4,GLP Granel,Fogás,Roraima,Revenda,344,32.1,4,39.9,PIX
+F8121,2025-01-14,14:45,469,870,75,222,20kg,0.24,4.6,Comercial,90.14,104.88,36.9,Acre-Rota-01,72,71.7,GLP Granel,Fogás,Acre,Revenda,432,30.8,3,24.8,Cartão
+F1130,2025-01-14,14:24,201,938,81,284,13kg,0.32,7.0,Residencial,109.51,124.47,25.57,Rondônia-Rota-04,25,75.7,GLP Industrial,Fogás,Rondônia,Venda Direta,492,29.6,4,10.0,Dinheiro
+F2193,2025-01-14,10:55,272,879,89,160,20kg,0.3,3.5,Comercial,149.5,162.91,24.86,Rondônia-Rota-02,44,66.7,GLP Comercial,Fogás,Rondônia,Revenda,114,30.7,3,44.1,PIX
+F9791,2025-01-14,14:05,439,974,37,281,20kg,0.34,5.2,Residencial,112.98,163.1,40.49,Amazonas-Rota-05,117,80.6,GLP Residencial,Fogás,Amazonas,Revenda,134,31.2,5,29.3,Dinheiro
+F7330,2025-01-14,11:57,177,564,23,211,20kg,0.53,3.3,Comercial,126.06,97.42,49.14,Amapá-Rota-02,25,46.6,GLP Residencial,Fogás,Amapá,Revenda,41,30.7,5,16.0,Cartão
+F5499,2025-01-14,06:28,213,480,46,141,20kg,0.41,9.5,Industrial,145.42,97.03,47.68,Amapá-Rota-01,108,40.6,GLP Industrial,Fogás,Amapá,Venda Direta,693,32.5,4,23.5,Dinheiro
+F1826,2025-01-14,17:16,360,687,68,192,45kg,0.42,4.5,Residencial,117.52,120.99,30.83,Amapá-Rota-08,57,50.1,GLP Comercial,Fogás,Amapá,Revenda,28,29.8,4,16.9,Boleto
+F8694,2025-01-14,16:04,292,864,66,231,45kg,0.3,9.2,Residencial,105.85,151.39,12.05,Amazonas-Rota-06,72,87.6,GLP Comercial,Fogás,Amazonas,Revenda,540,32.8,1,9.8,Cartão
+F2910,2025-01-14,14:57,228,655,41,237,13kg,0.33,8.8,Residencial,81.47,139.56,32.71,Acre-Rota-04,36,14.7,GLP Industrial,Fogás,Acre,Revenda,397,33.0,3,20.9,Dinheiro
+F2786,2025-01-15,11:54,174,546,57,186,45kg,0.36,3.2,Residencial,127.8,159.43,13.87,Roraima-Rota-04,71,26.5,GLP Industrial,Fogás,Roraima,Revenda,972,26.4,4,28.7,Dinheiro
+F4072,2025-01-15,19:46,88,502,83,249,45kg,0.12,2.3,Comercial,138.55,119.34,26.63,Amapá-Rota-02,31,65.9,GLP Granel,Fogás,Amapá,Venda Direta,32,25.6,3,29.3,PIX
+F1984,2025-01-15,07:53,147,822,82,134,190kg,0.31,10.0,Residencial,91.13,116.47,46.0,Rondônia-Rota-06,72,9.7,GLP Industrial,Fogás,Rondônia,Venda Direta,583,26.1,5,29.2,Boleto
+F6298,2025-01-15,14:38,180,560,70,102,20kg,0.24,4.0,Residencial,130.39,123.14,43.7,Acre-Rota-09,96,14.5,GLP Granel,Fogás,Acre,Revenda,884,22.6,2,13.3,Dinheiro
+F1155,2025-01-15,14:04,129,742,71,144,13kg,0.4,6.9,Condomínio,120.29,110.37,42.47,Acre-Rota-06,20,63.4,GLP Residencial,Fogás,Acre,E-commerce,518,24.2,5,5.1,Cartão
+F6412,2025-01-15,13:51,477,829,21,257,190kg,0.44,5.4,Residencial,138.52,150.02,12.38,Amazonas-Rota-05,43,59.5,GLP Granel,Fogás,Amazonas,Revenda,328,22.5,1,3.9,PIX
+F6640,2025-01-15,14:51,326,353,29,296,45kg,0.39,9.9,Condomínio,76.98,187.9,21.46,Amazonas-Rota-07,78,26.0,GLP Comercial,Fogás,Amazonas,E-commerce,929,23.0,4,43.5,PIX
+F1185,2025-01-15,17:27,285,261,42,237,190kg,0.55,6.7,Industrial,143.22,113.68,30.62,Amazonas-Rota-01,111,55.9,GLP Residencial,Fogás,Amazonas,E-commerce,658,25.5,1,10.5,PIX
+F9122,2025-01-15,07:07,308,793,67,256,190kg,0.45,8.0,Residencial,105.96,164.12,15.28,Roraima-Rota-04,74,68.6,GLP Comercial,Fogás,Roraima,Revenda,874,25.8,5,26.8,Boleto
+F1672,2025-01-15,11:44,361,472,71,126,190kg,0.48,7.8,Residencial,103.14,110.86,17.74,Acre-Rota-08,53,70.5,GLP Industrial,Fogás,Acre,Venda Direta,205,24.1,2,16.1,PIX
+F2712,2025-01-15,11:29,90,860,87,119,13kg,0.32,6.9,Residencial,129.11,196.63,42.01,Rondônia-Rota-05,95,44.5,GLP Industrial,Ultragaz,Rondônia,Venda Direta,487,23.7,1,38.1,Dinheiro
+F9742,2025-01-15,11:21,404,756,95,272,13kg,0.59,6.6,Residencial,117.38,183.5,26.99,Rondônia-Rota-09,66,89.8,GLP Comercial,Fogás,Rondônia,E-commerce,160,23.2,2,3.5,Cartão
+F4266,2025-01-15,19:06,236,762,78,297,190kg,0.38,3.1,Residencial,91.15,96.65,39.48,Roraima-Rota-08,109,64.9,GLP Residencial,Fogás,Roraima,Venda Direta,519,23.7,1,45.6,PIX
+F4757,2025-01-15,16:24,380,373,23,189,45kg,0.43,4.6,Residencial,141.94,145.05,31.05,Amapá-Rota-02,17,28.9,GLP Comercial,Ultragaz,Amapá,Venda Direta,800,25.7,5,6.9,Dinheiro
+F8917,2025-01-15,11:19,92,423,90,267,190kg,0.13,7.1,Residencial,132.48,141.27,38.63,Rondônia-Rota-08,53,84.8,GLP Granel,Ultragaz,Rondônia,Venda Direta,531,25.0,4,12.1,Cartão
+F5524,2025-01-15,20:04,87,260,88,295,45kg,0.14,3.6,Condomínio,131.52,174.14,48.11,Amapá-Rota-05,98,28.3,GLP Granel,Fogás,Amapá,E-commerce,923,26.4,3,7.5,Cartão
+F7091,2025-01-15,19:11,337,923,34,128,20kg,0.18,9.7,Residencial,94.22,178.74,25.26,Roraima-Rota-01,98,51.7,GLP Residencial,Fogás,Roraima,Revenda,611,24.0,4,2.0,Cartão
+F3421,2025-01-15,11:09,464,462,37,222,20kg,0.6,8.6,Industrial,129.37,108.24,19.9,Acre-Rota-08,37,13.6,GLP Granel,Fogás,Acre,Venda Direta,739,24.3,3,0.1,PIX
+F1569,2025-01-15,18:12,166,783,46,187,45kg,0.23,7.6,Residencial,112.56,90.07,37.43,Roraima-Rota-02,75,52.3,GLP Industrial,Fogás,Roraima,Revenda,151,25.7,2,11.8,Boleto
+F1729,2025-01-15,07:53,456,805,81,297,20kg,0.52,8.7,Residencial,102.27,162.1,25.39,Acre-Rota-07,62,46.4,GLP Granel,Fogás,Acre,Venda Direta,444,23.6,5,43.6,Boleto
+F1598,2025-01-15,17:14,371,639,76,213,45kg,0.46,9.4,Industrial,105.32,131.42,36.44,Rondônia-Rota-09,49,83.1,GLP Comercial,Fogás,Rondônia,Revenda,360,24.7,3,31.1,PIX
+F8159,2025-01-15,12:01,156,833,99,276,190kg,0.55,9.5,Residencial,115.43,114.64,33.85,Amapá-Rota-03,41,80.4,GLP Residencial,Fogás,Amapá,Revenda,131,24.8,1,41.2,Cartão
+F1829,2025-01-15,17:16,352,510,69,242,45kg,0.28,4.0,Residencial,101.66,133.31,16.13,Amapá-Rota-05,116,30.9,GLP Comercial,Fogás,Amapá,Revenda,97,25.2,3,38.9,Boleto
+F9709,2025-01-15,15:28,173,573,36,115,45kg,0.36,2.8,Comercial,99.55,98.78,47.02,Roraima-Rota-03,65,7.9,GLP Industrial,Fogás,Roraima,Venda Direta,677,23.4,2,13.9,Boleto
+F5541,2025-01-16,12:50,77,709,96,177,190kg,0.56,4.5,Comercial,98.39,105.42,34.98,Acre-Rota-01,16,28.7,GLP Comercial,Fogás,Acre,Venda Direta,754,22.1,5,29.3,Dinheiro
+F6805,2025-01-16,20:14,98,612,38,146,190kg,0.49,1.3,Condomínio,95.91,105.77,35.93,Rondônia-Rota-03,85,67.2,GLP Comercial,Fogás,Rondônia,Revenda,133,23.7,4,16.8,Cartão
+F9204,2025-01-16,18:29,445,965,48,142,20kg,0.21,6.8,Residencial,73.54,190.55,17.04,Rondônia-Rota-05,63,21.6,GLP Comercial,Fogás,Rondônia,Venda Direta,933,22.2,1,14.9,Boleto
+F9314,2025-01-16,09:51,323,676,52,178,20kg,0.55,7.7,Condomínio,97.97,110.28,39.51,Roraima-Rota-06,36,13.1,GLP Residencial,Fogás,Roraima,E-commerce,207,24.0,1,23.4,Cartão
+F7480,2025-01-16,11:30,325,960,32,157,13kg,0.19,9.0,Residencial,75.44,109.05,44.71,Amapá-Rota-01,109,14.0,GLP Industrial,Ultragaz,Amapá,Revenda,237,22.4,2,37.6,Dinheiro
+F3379,2025-01-16,14:31,261,305,91,259,20kg,0.55,4.8,Comercial,141.42,131.12,36.76,Amazonas-Rota-01,89,18.7,GLP Granel,Fogás,Amazonas,Revenda,110,23.5,2,3.4,PIX
+F7284,2025-01-16,14:15,241,564,38,200,190kg,0.25,4.6,Comercial,130.57,127.11,20.7,Rondônia-Rota-05,52,51.3,GLP Granel,Fogás,Rondônia,Revenda,81,23.8,5,47.7,Boleto
+F6495,2025-01-16,09:34,271,642,21,286,190kg,0.1,3.2,Residencial,74.47,184.87,28.98,Amazonas-Rota-08,116,5.5,GLP Industrial,Fogás,Amazonas,Venda Direta,567,24.9,4,34.9,Dinheiro
+F2280,2025-01-16,16:41,109,438,40,115,45kg,0.46,2.6,Residencial,71.93,196.04,36.24,Roraima-Rota-05,54,69.1,GLP Residencial,Fogás,Roraima,Venda Direta,101,23.3,5,13.9,PIX
+F3358,2025-01-16,08:43,482,242,82,247,20kg,0.55,9.7,Industrial,139.23,123.2,38.97,Rondônia-Rota-03,59,21.4,GLP Residencial,Fogás,Rondônia,Revenda,30,24.1,5,38.4,Cartão
+F5808,2025-01-16,20:19,56,859,61,206,190kg,0.51,2.3,Condomínio,108.71,137.68,47.38,Acre-Rota-03,87,99.4,GLP Residencial,Fogás,Acre,Venda Direta,627,23.1,4,44.8,PIX
+F9368,2025-01-16,16:08,337,627,21,166,20kg,0.4,4.0,Industrial,139.86,181.69,33.66,Rondônia-Rota-06,30,12.2,GLP Comercial,Fogás,Rondônia,Venda Direta,730,25.2,4,19.4,Boleto
+F4572,2025-01-16,11:59,317,330,63,269,13kg,0.37,3.5,Residencial,133.52,142.96,44.24,Amapá-Rota-06,49,63.6,GLP Residencial,Fogás,Amapá,Revenda,955,23.8,1,24.3,PIX
+F4993,2025-01-16,08:50,373,240,36,252,13kg,0.17,7.4,Residencial,122.07,175.25,10.2,Amazonas-Rota-07,68,43.2,GLP Comercial,Fogás,Amazonas,Venda Direta,631,24.5,5,17.7,Dinheiro
+F2430,2025-01-16,14:05,214,332,64,289,20kg,0.18,2.2,Residencial,121.07,116.9,34.9,Roraima-Rota-07,48,13.1,GLP Industrial,Fogás,Roraima,Revenda,741,23.1,1,29.0,Boleto
+F4795,2025-01-16,12:10,189,523,80,243,13kg,0.6,3.5,Comercial,138.1,119.66,17.33,Amazonas-Rota-03,44,79.1,GLP Comercial,Fogás,Amazonas,Revenda,409,23.6,4,20.2,Boleto
+F8583,2025-01-16,16:10,455,313,55,241,13kg,0.3,9.3,Residencial,96.56,99.67,29.01,Acre-Rota-02,62,28.0,GLP Comercial,Fogás,Acre,Revenda,509,24.2,5,33.6,Cartão
+F6113,2025-01-16,19:38,177,200,62,103,20kg,0.29,8.2,Industrial,113.13,144.85,17.36,Rondônia-Rota-08,77,39.3,GLP Residencial,Fogás,Rondônia,Revenda,315,22.2,4,13.5,Cartão
+F9873,2025-01-16,17:13,311,528,75,136,190kg,0.38,8.3,Comercial,100.81,90.66,42.3,Amapá-Rota-04,65,45.8,GLP Industrial,Fogás,Amapá,Revenda,160,25.5,1,24.3,PIX
+F6107,2025-01-16,18:45,65,753,67,263,45kg,0.36,8.4,Residencial,107.66,169.5,42.01,Rondônia-Rota-04,42,88.3,GLP Residencial,Fogás,Rondônia,Revenda,542,25.0,5,41.5,Dinheiro
+F8235,2025-01-16,10:18,99,620,41,158,20kg,0.53,5.6,Residencial,129.2,128.05,30.47,Amapá-Rota-07,24,32.9,GLP Residencial,Fogás,Amapá,E-commerce,818,24.3,4,17.8,Boleto
+F2252,2025-01-16,16:52,306,529,42,291,20kg,0.4,5.8,Residencial,115.88,123.25,40.87,Amazonas-Rota-06,100,81.4,GLP Residencial,Fogás,Amazonas,E-commerce,965,22.3,2,18.6,PIX
+F9039,2025-01-16,06:26,340,839,98,220,20kg,0.43,2.6,Residencial,74.37,151.53,35.45,Amapá-Rota-04,31,62.1,GLP Residencial,Fogás,Amapá,Venda Direta,854,25.1,5,28.9,PIX
+F3779,2025-01-16,11:27,441,645,73,121,190kg,0.39,3.6,Residencial,117.02,131.07,36.37,Amazonas-Rota-01,110,54.8,GLP Comercial,Fogás,Amazonas,Revenda,791,25.4,5,17.4,Cartão
+F4814,2025-01-16,07:48,173,939,64,295,190kg,0.37,4.4,Condomínio,136.95,183.5,31.9,Amapá-Rota-04,85,36.5,GLP Industrial,Fogás,Amapá,Venda Direta,541,24.1,2,31.6,Boleto
+F2188,2025-01-16,10:48,437,624,57,228,45kg,0.17,7.6,Residencial,88.68,123.73,32.45,Rondônia-Rota-09,21,59.0,GLP Comercial,Fogás,Rondônia,E-commerce,400,23.4,1,32.4,Dinheiro
+F4382,2025-01-16,15:49,154,678,97,226,13kg,0.36,5.7,Residencial,131.32,93.32,11.34,Acre-Rota-09,31,70.9,GLP Comercial,Ultragaz,Acre,Revenda,504,25.3,1,44.2,Dinheiro
+F6584,2025-01-17,18:50,499,357,72,187,190kg,0.19,1.1,Comercial,107.61,115.52,30.17,Acre-Rota-02,19,92.5,GLP Comercial,Fogás,Acre,Revenda,294,21.5,2,24.6,Boleto
+F4430,2025-01-17,16:59,128,355,41,246,45kg,0.19,4.9,Comercial,113.14,193.68,33.52,Amapá-Rota-02,100,32.3,GLP Granel,Fogás,Amapá,Revenda,638,20.2,4,39.5,Dinheiro
+F4862,2025-01-17,06:45,431,889,51,192,13kg,0.38,9.9,Residencial,149.48,153.44,15.75,Amazonas-Rota-09,34,74.0,GLP Industrial,Fogás,Amazonas,Revenda,767,20.7,3,21.8,Boleto
+F8526,2025-01-17,07:28,328,807,50,240,190kg,0.28,6.3,Comercial,118.33,131.7,35.66,Rondônia-Rota-09,94,40.2,GLP Residencial,Ultragaz,Rondônia,Revenda,706,19.6,1,5.9,Dinheiro
+F9546,2025-01-17,09:40,459,793,29,126,45kg,0.55,1.6,Comercial,98.32,151.22,15.63,Acre-Rota-05,53,16.6,GLP Granel,Fogás,Acre,Revenda,550,20.8,3,8.2,Cartão
+F8020,2025-01-17,19:30,148,497,85,290,13kg,0.45,1.8,Comercial,124.83,126.01,26.91,Roraima-Rota-05,71,23.7,GLP Granel,Fogás,Roraima,Venda Direta,418,19.5,3,41.2,Dinheiro
+F2104,2025-01-17,19:41,352,787,73,247,45kg,0.25,9.3,Residencial,70.07,186.83,36.58,Rondônia-Rota-06,75,99.9,GLP Residencial,Fogás,Rondônia,E-commerce,659,20.0,4,5.2,PIX
+F4217,2025-01-17,15:25,188,576,46,274,190kg,0.42,9.6,Industrial,107.92,197.91,39.46,Roraima-Rota-09,88,21.1,GLP Residencial,Fogás,Roraima,Revenda,572,21.1,2,24.5,Boleto
+F3793,2025-01-17,07:47,464,378,61,287,45kg,0.38,2.9,Residencial,111.98,112.26,38.54,Rondônia-Rota-03,93,73.0,GLP Residencial,Fogás,Rondônia,Revenda,998,21.3,2,47.3,Boleto
+F5276,2025-01-17,12:22,78,403,53,289,190kg,0.48,5.6,Industrial,146.13,122.73,36.29,Rondônia-Rota-05,48,73.0,GLP Residencial,Fogás,Rondônia,Revenda,161,19.1,2,22.4,Dinheiro
+F6284,2025-01-17,11:42,456,344,68,270,20kg,0.25,3.7,Comercial,109.83,159.72,12.5,Roraima-Rota-03,118,26.6,GLP Residencial,Fogás,Roraima,Revenda,682,20.3,5,28.4,PIX
+F8847,2025-01-17,10:49,378,898,96,234,45kg,0.14,2.7,Comercial,118.45,176.32,44.57,Roraima-Rota-01,63,61.3,GLP Industrial,Fogás,Roraima,Revenda,408,19.7,5,4.5,Cartão
+F9279,2025-01-17,15:07,336,342,69,169,45kg,0.51,4.3,Residencial,138.69,130.41,28.69,Amazonas-Rota-03,74,89.6,GLP Comercial,Fogás,Amazonas,Revenda,566,19.8,5,23.7,Dinheiro
+F5307,2025-01-17,09:20,165,527,64,240,20kg,0.38,4.5,Comercial,135.0,148.08,33.9,Amapá-Rota-06,80,79.5,GLP Comercial,Fogás,Amapá,Revenda,454,20.3,2,47.0,Dinheiro
+F4719,2025-01-17,10:24,363,404,87,128,13kg,0.45,8.2,Residencial,89.13,122.93,25.94,Roraima-Rota-04,112,60.5,GLP Industrial,Fogás,Roraima,Revenda,99,22.5,1,23.5,Dinheiro
+F4593,2025-01-17,17:54,255,528,36,165,190kg,0.12,2.3,Comercial,122.38,100.17,17.64,Acre-Rota-01,93,35.8,GLP Granel,Ultragaz,Acre,Revenda,588,20.8,2,16.5,Cartão
+F7021,2025-01-17,13:53,467,905,94,232,20kg,0.18,8.4,Residencial,122.41,187.08,16.02,Acre-Rota-06,104,47.4,GLP Comercial,Fogás,Acre,Venda Direta,473,19.0,1,22.9,Dinheiro
+F7483,2025-01-17,10:32,205,946,95,118,13kg,0.35,7.2,Residencial,81.72,95.61,12.42,Amazonas-Rota-06,15,61.0,GLP Residencial,Fogás,Amazonas,Venda Direta,855,22.6,3,38.8,Boleto
+F8147,2025-01-17,16:10,109,212,36,109,20kg,0.18,3.4,Residencial,120.83,189.4,17.55,Amazonas-Rota-03,75,5.1,GLP Comercial,Fogás,Amazonas,Revenda,444,19.2,4,41.9,Cartão
+F7935,2025-01-17,06:00,103,735,25,132,20kg,0.4,2.6,Comercial,96.96,140.51,42.22,Amazonas-Rota-09,17,58.8,GLP Residencial,Fogás,Amazonas,Revenda,166,22.5,5,0.2,Dinheiro
+F6428,2025-01-17,07:25,55,795,54,232,20kg,0.31,8.2,Industrial,115.66,141.78,30.0,Acre-Rota-05,17,22.4,GLP Comercial,Fogás,Acre,Revenda,644,22.4,1,10.0,Boleto
+F4266,2025-01-17,07:49,113,905,72,124,190kg,0.45,9.1,Comercial,106.31,133.32,45.77,Rondônia-Rota-05,76,61.9,GLP Granel,Fogás,Rondônia,Revenda,78,21.9,3,26.7,PIX
+F7379,2025-01-17,06:57,450,627,61,160,13kg,0.56,2.6,Condomínio,143.98,153.33,41.5,Rondônia-Rota-08,108,47.6,GLP Industrial,Fogás,Rondônia,E-commerce,288,19.3,3,27.1,Cartão
+F7557,2025-01-17,18:43,484,726,72,134,20kg,0.25,7.2,Residencial,109.16,160.96,14.58,Amapá-Rota-09,117,64.5,GLP Residencial,Fogás,Amapá,Venda Direta,542,20.9,4,27.7,Cartão
+F8051,2025-01-17,08:57,313,554,92,231,190kg,0.47,1.8,Residencial,124.29,139.77,30.32,Amapá-Rota-08,75,73.7,GLP Granel,Fogás,Amapá,Venda Direta,608,19.5,2,46.9,Cartão
+F4337,2025-01-17,08:11,190,395,58,243,13kg,0.5,7.2,Residencial,123.47,133.68,27.27,Roraima-Rota-08,49,8.6,GLP Residencial,Fogás,Roraima,E-commerce,789,21.4,3,32.5,Dinheiro
+F9495,2025-01-17,09:51,216,677,22,138,45kg,0.58,7.3,Industrial,135.34,148.59,18.17,Acre-Rota-06,108,8.6,GLP Industrial,Fogás,Acre,Venda Direta,21,21.8,2,27.3,Dinheiro
+F8022,2025-01-17,08:42,485,791,95,111,13kg,0.44,1.3,Residencial,126.36,184.63,32.48,Acre-Rota-03,48,84.4,GLP Residencial,Fogás,Acre,Venda Direta,936,20.9,3,1.8,Dinheiro
+F9883,2025-01-17,08:23,67,671,75,263,45kg,0.46,4.1,Residencial,134.55,163.01,34.72,Rondônia-Rota-02,34,16.4,GLP Industrial,Fogás,Rondônia,Revenda,238,21.1,1,29.1,Boleto
+F4393,2025-01-17,10:38,242,616,23,152,45kg,0.19,2.9,Residencial,79.82,104.37,23.46,Amapá-Rota-02,101,28.1,GLP Granel,Fogás,Amapá,Revenda,132,19.8,3,35.9,Dinheiro
+F8342,2025-01-17,13:22,150,245,94,224,20kg,0.31,7.2,Industrial,98.06,151.85,11.52,Acre-Rota-06,67,83.0,GLP Comercial,Fogás,Acre,Revenda,651,21.2,2,25.3,Boleto
+F9724,2025-01-17,19:18,110,938,85,223,190kg,0.57,5.2,Residencial,113.27,114.8,21.36,Amazonas-Rota-02,92,51.7,GLP Residencial,Fogás,Amazonas,Revenda,672,23.0,2,47.0,PIX
+F3230,2025-01-17,19:49,472,299,87,129,190kg,0.1,2.6,Residencial,103.28,91.96,15.72,Amazonas-Rota-03,45,27.7,GLP Residencial,Fogás,Amazonas,Revenda,23,21.4,2,5.3,Dinheiro
+F5886,2025-01-18,14:27,208,916,57,276,13kg,0.55,6.1,Residencial,84.41,167.87,24.57,Acre-Rota-07,70,81.2,GLP Comercial,Fogás,Acre,Revenda,6,29.2,4,12.8,Dinheiro
+F9338,2025-01-18,16:31,225,848,71,145,45kg,0.32,6.6,Residencial,83.19,96.74,42.92,Rondônia-Rota-09,30,65.8,GLP Comercial,Fogás,Rondônia,Revenda,142,28.8,2,14.3,Cartão
+F2973,2025-01-18,16:45,174,667,87,123,20kg,0.31,7.5,Residencial,121.96,100.25,22.76,Rondônia-Rota-06,100,33.5,GLP Granel,Fogás,Rondônia,Revenda,838,27.3,2,15.7,Dinheiro
+F8133,2025-01-18,18:05,240,272,75,276,13kg,0.48,6.0,Comercial,142.67,138.4,23.71,Amazonas-Rota-04,38,12.5,GLP Granel,Fogás,Amazonas,Venda Direta,238,28.8,5,38.7,Boleto
+F2283,2025-01-18,10:21,138,966,45,127,45kg,0.42,4.3,Residencial,146.75,187.33,13.83,Acre-Rota-03,49,20.4,GLP Granel,Fogás,Acre,Revenda,604,30.1,3,5.9,PIX
+F7166,2025-01-18,17:20,478,971,43,124,190kg,0.19,7.7,Industrial,85.88,128.11,22.24,Rondônia-Rota-08,32,10.6,GLP Residencial,Fogás,Rondônia,Venda Direta,619,26.3,4,18.1,Dinheiro
+F6495,2025-01-18,10:29,384,319,56,264,20kg,0.31,4.6,Residencial,148.27,107.47,22.87,Roraima-Rota-06,54,81.5,GLP Comercial,Fogás,Roraima,Venda Direta,277,26.7,3,23.5,PIX
+F9970,2025-01-18,07:52,377,488,95,281,13kg,0.18,5.6,Comercial,80.97,110.72,38.26,Roraima-Rota-04,32,26.4,GLP Granel,Fogás,Roraima,Revenda,375,28.8,3,44.0,Cartão
+F5695,2025-01-18,11:40,292,471,94,192,20kg,0.14,6.8,Residencial,120.66,98.73,49.94,Roraima-Rota-09,43,47.0,GLP Granel,Ultragaz,Roraima,Venda Direta,768,28.6,2,1.8,Boleto
+F3025,2025-01-18,21:18,181,617,42,250,45kg,0.31,8.3,Comercial,73.72,195.62,12.19,Amapá-Rota-06,95,82.9,GLP Granel,Fogás,Amapá,Revenda,766,28.8,3,0.6,Dinheiro
+F1755,2025-01-18,06:47,396,472,76,251,45kg,0.3,8.9,Comercial,71.07,125.3,15.47,Roraima-Rota-09,118,14.8,GLP Industrial,Fogás,Roraima,Venda Direta,463,30.2,1,32.1,Cartão
+F5512,2025-01-18,06:25,167,895,34,259,20kg,0.25,1.6,Residencial,111.87,119.51,36.4,Amazonas-Rota-08,73,5.8,GLP Granel,Fogás,Amazonas,Revenda,671,28.5,3,44.3,Dinheiro
+F5048,2025-01-18,20:23,469,347,39,287,190kg,0.24,2.7,Residencial,77.69,114.06,43.95,Acre-Rota-01,99,89.6,GLP Residencial,Fogás,Acre,Revenda,142,26.4,2,29.7,Dinheiro
+F5623,2025-01-18,15:12,443,212,47,198,45kg,0.33,6.8,Comercial,116.52,178.7,36.14,Rondônia-Rota-06,68,71.1,GLP Industrial,Fogás,Rondônia,Revenda,49,26.4,1,31.9,Boleto
+F3355,2025-01-18,14:11,263,563,77,110,45kg,0.58,8.1,Residencial,147.8,96.46,21.06,Amazonas-Rota-05,109,29.5,GLP Residencial,Fogás,Amazonas,Revenda,339,26.4,5,29.6,PIX
+F4294,2025-01-18,14:45,276,621,42,263,45kg,0.15,4.2,Industrial,110.7,175.75,11.51,Amapá-Rota-02,77,17.2,GLP Residencial,Fogás,Amapá,E-commerce,87,29.2,2,21.9,PIX
+F6254,2025-01-18,09:27,234,400,46,262,45kg,0.14,3.4,Residencial,130.9,190.22,35.74,Roraima-Rota-02,35,68.5,GLP Residencial,Fogás,Roraima,Revenda,790,28.8,1,32.7,PIX
+F6852,2025-01-18,13:56,468,934,77,150,45kg,0.17,10.0,Residencial,76.04,112.64,21.32,Acre-Rota-05,15,50.9,GLP Granel,Fogás,Acre,Revenda,28,30.1,2,37.2,Cartão
+F3295,2025-01-18,20:33,55,771,68,250,13kg,0.18,4.6,Comercial,80.09,166.92,38.11,Rondônia-Rota-05,95,47.4,GLP Comercial,Fogás,Rondônia,Revenda,814,26.5,2,41.3,PIX
+F1811,2025-01-18,20:08,108,632,28,227,13kg,0.37,8.2,Residencial,76.97,115.83,47.0,Amapá-Rota-09,40,61.2,GLP Residencial,Fogás,Amapá,Revenda,482,27.2,4,15.8,PIX
+F4467,2025-01-18,10:23,68,997,40,269,13kg,0.47,7.7,Residencial,86.42,90.92,12.96,Acre-Rota-04,99,94.2,GLP Industrial,Fogás,Acre,Revenda,506,29.4,3,5.0,Cartão
+F1273,2025-01-18,13:06,130,301,93,289,20kg,0.56,9.9,Residencial,83.6,193.58,46.8,Acre-Rota-07,68,26.0,GLP Residencial,Fogás,Acre,Revenda,174,29.9,4,7.8,PIX
+F6987,2025-01-18,07:40,204,893,75,107,20kg,0.28,2.0,Condomínio,94.29,163.85,14.34,Amapá-Rota-09,93,86.5,GLP Industrial,Fogás,Amapá,Revenda,501,28.0,3,11.2,PIX
+F9337,2025-01-18,20:05,184,911,88,236,45kg,0.3,8.5,Condomínio,91.99,139.18,29.03,Roraima-Rota-03,84,54.3,GLP Comercial,Fogás,Roraima,E-commerce,669,26.4,4,10.0,Boleto
+F1935,2025-01-18,12:09,451,334,22,196,45kg,0.12,8.4,Industrial,84.28,105.84,23.63,Roraima-Rota-09,101,40.7,GLP Industrial,Fogás,Roraima,Revenda,593,27.3,3,36.8,Boleto
+F1330,2025-01-18,15:28,399,974,49,157,190kg,0.13,5.8,Residencial,126.97,181.53,21.15,Rondônia-Rota-05,78,97.5,GLP Industrial,Fogás,Rondônia,Venda Direta,249,29.4,3,21.6,Dinheiro
+F9240,2025-01-18,12:37,209,437,99,166,45kg,0.43,8.1,Residencial,88.59,176.99,27.4,Amazonas-Rota-06,30,79.0,GLP Industrial,Fogás,Amazonas,Venda Direta,666,26.4,1,36.0,Dinheiro
+F5150,2025-01-18,15:37,135,711,45,226,13kg,0.52,2.2,Residencial,118.66,102.28,44.5,Roraima-Rota-03,64,55.0,GLP Granel,Fogás,Roraima,Revenda,781,28.0,3,8.7,Dinheiro
+F2011,2025-01-18,15:18,60,342,34,130,190kg,0.36,9.2,Industrial,101.18,152.14,43.46,Acre-Rota-06,46,54.6,GLP Comercial,Ultragaz,Acre,Revenda,114,28.4,4,28.3,Dinheiro
+F5449,2025-01-18,21:26,287,514,72,139,13kg,0.51,7.5,Condomínio,102.94,139.71,15.69,Rondônia-Rota-01,37,30.0,GLP Residencial,Fogás,Rondônia,Venda Direta,355,26.7,5,13.3,Dinheiro
+F8994,2025-01-18,18:33,68,677,92,115,13kg,0.25,6.7,Residencial,99.17,98.51,15.29,Roraima-Rota-05,26,33.4,GLP Comercial,Fogás,Roraima,Venda Direta,129,27.3,2,31.1,Cartão
+F2938,2025-01-18,06:53,332,665,94,145,20kg,0.38,2.3,Condomínio,70.37,136.51,18.69,Amapá-Rota-02,106,54.4,GLP Granel,Fogás,Amapá,Revenda,709,28.6,3,27.6,PIX
+F5177,2025-01-18,19:35,404,861,51,143,45kg,0.18,9.5,Residencial,105.94,129.43,41.73,Amazonas-Rota-08,85,98.8,GLP Granel,Fogás,Amazonas,E-commerce,86,29.4,1,8.5,Dinheiro
+F8900,2025-01-18,09:48,113,879,49,235,190kg,0.26,1.6,Comercial,91.27,156.34,45.29,Amazonas-Rota-04,19,51.5,GLP Comercial,Fogás,Amazonas,Venda Direta,135,27.3,4,34.9,Boleto
+F2876,2025-01-18,15:43,395,983,22,184,45kg,0.59,7.2,Residencial,124.78,151.37,16.24,Acre-Rota-04,75,21.1,GLP Comercial,Fogás,Acre,Venda Direta,639,28.6,4,9.3,Cartão
+F8462,2025-01-18,13:08,439,874,90,289,20kg,0.48,9.4,Residencial,86.57,98.3,34.9,Acre-Rota-06,83,60.1,GLP Comercial,Fogás,Acre,Revenda,435,27.0,1,10.3,Dinheiro
+F2290,2025-01-19,18:56,118,226,30,162,190kg,0.57,8.2,Residencial,89.67,134.03,39.98,Amapá-Rota-02,24,45.0,GLP Granel,Fogás,Amapá,Venda Direta,40,28.2,1,3.0,PIX
+F5673,2025-01-19,09:38,415,415,50,167,20kg,0.39,7.1,Residencial,98.23,170.33,34.0,Roraima-Rota-06,19,59.2,GLP Residencial,Fogás,Roraima,Revenda,470,29.3,5,7.7,Boleto
+F6845,2025-01-19,19:59,387,357,24,105,20kg,0.52,2.5,Residencial,114.68,129.13,38.35,Amapá-Rota-05,106,27.7,GLP Residencial,Fogás,Amapá,Revenda,439,30.5,3,22.2,Cartão
+F7527,2025-01-19,21:14,207,378,93,283,45kg,0.45,2.9,Comercial,72.19,118.0,49.0,Rondônia-Rota-02,32,76.4,GLP Industrial,Ultragaz,Rondônia,Revenda,909,29.8,4,11.3,PIX
+F8994,2025-01-19,11:06,490,545,31,192,45kg,0.14,9.3,Residencial,99.93,115.74,20.4,Amazonas-Rota-04,54,9.6,GLP Granel,Fogás,Amazonas,Venda Direta,517,31.0,4,42.3,Boleto
+F7020,2025-01-19,19:36,249,249,26,185,20kg,0.35,1.1,Industrial,101.7,101.99,25.58,Roraima-Rota-09,118,28.1,GLP Granel,Fogás,Roraima,Revenda,526,30.5,1,29.8,Dinheiro
+F3091,2025-01-19,17:30,64,549,70,230,20kg,0.6,3.5,Condomínio,74.69,141.14,45.84,Amazonas-Rota-02,24,33.2,GLP Industrial,Fogás,Amazonas,Revenda,926,27.9,3,18.4,Cartão
+F4679,2025-01-19,16:28,221,397,55,268,190kg,0.54,5.6,Residencial,83.3,132.33,36.49,Roraima-Rota-06,68,51.2,GLP Residencial,Fogás,Roraima,Venda Direta,275,29.6,1,13.9,Boleto
+F1884,2025-01-19,13:22,325,912,28,220,13kg,0.15,1.4,Industrial,131.77,169.4,40.39,Amapá-Rota-07,54,27.5,GLP Granel,Fogás,Amapá,Revenda,355,29.1,4,45.1,Boleto
+F5227,2025-01-19,11:58,190,632,73,221,45kg,0.31,4.1,Industrial,102.57,126.58,43.07,Roraima-Rota-05,54,19.9,GLP Granel,Fogás,Roraima,Revenda,728,31.6,4,11.2,Cartão
+F7641,2025-01-19,12:23,260,405,24,290,45kg,0.37,1.6,Comercial,132.86,196.79,21.23,Roraima-Rota-03,95,27.4,GLP Granel,Fogás,Roraima,Revenda,334,31.8,1,25.1,Dinheiro
+F1995,2025-01-19,11:26,425,429,86,157,190kg,0.59,5.8,Industrial,113.21,107.25,28.6,Amapá-Rota-03,112,80.6,GLP Granel,Fogás,Amapá,Revenda,926,30.4,5,12.5,Cartão
+F8158,2025-01-19,06:11,220,443,74,243,190kg,0.17,3.3,Residencial,98.52,127.38,10.84,Amazonas-Rota-02,39,5.5,GLP Comercial,Fogás,Amazonas,Venda Direta,3,28.3,2,7.6,Dinheiro
+F6998,2025-01-19,07:25,348,685,49,290,45kg,0.51,9.8,Industrial,84.33,100.46,21.0,Acre-Rota-08,83,72.5,GLP Residencial,Fogás,Acre,Revenda,556,30.0,3,37.5,Dinheiro
+F2115,2025-01-19,19:09,484,977,55,266,20kg,0.34,9.2,Residencial,136.08,188.42,29.25,Acre-Rota-09,26,96.6,GLP Granel,Fogás,Acre,Revenda,332,30.7,3,30.3,Cartão
+F8971,2025-01-19,08:15,289,200,61,272,13kg,0.26,7.0,Residencial,80.47,127.68,22.46,Amazonas-Rota-06,95,47.9,GLP Comercial,Fogás,Amazonas,Revenda,729,31.1,4,40.6,PIX
+F4077,2025-01-19,17:08,157,456,51,156,45kg,0.52,3.3,Comercial,113.72,181.22,33.59,Roraima-Rota-08,83,73.0,GLP Industrial,Ultragaz,Roraima,E-commerce,145,30.9,4,35.8,Dinheiro
+F8474,2025-01-19,15:07,376,283,78,222,190kg,0.25,9.4,Comercial,118.05,114.7,49.79,Rondônia-Rota-08,28,19.8,GLP Granel,Fogás,Rondônia,Revenda,584,28.6,2,16.8,Dinheiro
+F1911,2025-01-19,10:11,387,912,75,173,13kg,0.12,4.5,Comercial,111.93,126.32,19.09,Roraima-Rota-08,35,36.9,GLP Residencial,Fogás,Roraima,Revenda,204,29.2,2,17.0,Dinheiro
+F6038,2025-01-19,18:59,232,789,92,202,20kg,0.37,10.0,Residencial,103.87,112.04,17.15,Rondônia-Rota-09,73,40.6,GLP Granel,Fogás,Rondônia,Revenda,645,28.3,3,34.4,Cartão
+F4019,2025-01-19,13:12,324,211,75,163,20kg,0.36,7.5,Residencial,102.29,195.99,19.92,Acre-Rota-08,96,17.6,GLP Granel,Fogás,Acre,Revenda,19,28.1,4,7.4,Boleto
+F9990,2025-01-19,17:58,188,571,85,140,20kg,0.47,2.5,Residencial,70.94,197.77,24.11,Acre-Rota-08,25,49.6,GLP Granel,Fogás,Acre,Venda Direta,2,29.3,2,7.8,Dinheiro
+F9932,2025-01-20,11:57,406,275,76,224,190kg,0.26,2.7,Comercial,135.85,175.39,16.42,Amazonas-Rota-09,72,36.9,GLP Comercial,Fogás,Amazonas,Revenda,707,26.6,2,23.8,Cartão
+F6196,2025-01-20,09:24,168,283,55,110,45kg,0.28,9.2,Residencial,71.09,148.34,26.9,Amapá-Rota-03,58,88.9,GLP Industrial,Fogás,Amapá,Venda Direta,775,26.2,5,38.7,Dinheiro
+F2180,2025-01-20,15:15,259,452,61,110,20kg,0.57,5.8,Industrial,135.56,119.45,22.97,Acre-Rota-05,73,88.7,GLP Comercial,Fogás,Acre,Venda Direta,705,27.0,5,12.6,PIX
+F9474,2025-01-20,20:54,158,804,63,136,45kg,0.29,5.4,Condomínio,104.12,106.63,31.22,Amazonas-Rota-09,53,79.3,GLP Industrial,Fogás,Amazonas,Revenda,210,28.0,5,7.1,Cartão
+F9508,2025-01-20,12:23,239,556,46,104,45kg,0.56,5.0,Industrial,127.34,129.15,33.56,Roraima-Rota-03,52,25.0,GLP Industrial,Fogás,Roraima,E-commerce,81,27.2,4,38.5,Boleto
+F3167,2025-01-20,18:43,432,683,52,172,13kg,0.16,3.2,Residencial,76.66,139.58,14.45,Acre-Rota-02,78,16.0,GLP Granel,Fogás,Acre,Revenda,938,28.7,3,1.7,Cartão
+F9135,2025-01-20,16:44,156,327,97,235,20kg,0.24,8.0,Condomínio,122.56,124.34,44.37,Rondônia-Rota-05,105,35.3,GLP Industrial,Fogás,Rondônia,Revenda,429,27.7,5,41.5,PIX
+F1423,2025-01-20,10:25,422,653,84,261,45kg,0.53,9.9,Comercial,127.67,167.54,18.57,Acre-Rota-02,97,20.2,GLP Residencial,Fogás,Acre,Revenda,769,25.4,4,2.9,Cartão
+F3761,2025-01-20,12:47,412,688,42,272,13kg,0.43,5.2,Residencial,82.65,125.52,21.77,Amapá-Rota-08,86,56.0,GLP Industrial,Fogás,Amapá,Venda Direta,758,28.4,3,16.6,Dinheiro
+F7940,2025-01-20,13:53,86,935,82,167,13kg,0.18,6.4,Residencial,122.57,116.28,18.07,Amapá-Rota-02,88,16.5,GLP Granel,Ultragaz,Amapá,Revenda,762,28.5,4,43.7,Boleto
+F3785,2025-01-20,12:01,349,865,81,117,13kg,0.11,7.9,Condomínio,80.81,172.79,16.99,Rondônia-Rota-03,19,34.4,GLP Industrial,Ultragaz,Rondônia,Revenda,10,28.3,3,18.4,Cartão
+F8039,2025-01-20,08:06,64,456,26,272,45kg,0.51,3.4,Comercial,144.12,174.43,32.63,Amapá-Rota-08,62,74.8,GLP Industrial,Fogás,Amapá,Revenda,96,26.9,4,1.6,Boleto
+F8822,2025-01-20,15:24,72,877,60,281,13kg,0.22,5.2,Comercial,138.35,171.86,11.89,Roraima-Rota-04,35,89.6,GLP Granel,Fogás,Roraima,Venda Direta,374,27.6,4,36.7,Dinheiro
+F7510,2025-01-20,12:30,240,981,64,264,190kg,0.15,7.7,Residencial,142.25,146.61,11.99,Rondônia-Rota-05,43,98.2,GLP Granel,Fogás,Rondônia,Revenda,454,28.7,3,30.5,Boleto
+F9226,2025-01-20,11:25,277,564,29,143,13kg,0.16,1.6,Condomínio,124.96,167.09,21.88,Acre-Rota-07,39,44.2,GLP Industrial,Fogás,Acre,E-commerce,442,25.5,1,31.5,Dinheiro
+F3237,2025-01-20,18:15,232,401,32,298,190kg,0.39,1.7,Condomínio,130.86,167.79,29.9,Acre-Rota-07,40,85.8,GLP Comercial,Fogás,Acre,Revenda,125,26.4,4,44.0,Cartão
+F1756,2025-01-20,13:02,140,413,23,184,190kg,0.23,4.6,Residencial,141.85,174.54,45.26,Acre-Rota-02,118,77.4,GLP Granel,Fogás,Acre,Revenda,561,28.8,5,38.0,Dinheiro
+F5769,2025-01-20,17:11,261,773,71,226,13kg,0.13,9.7,Comercial,78.08,180.2,20.73,Amazonas-Rota-07,44,65.2,GLP Industrial,Fogás,Amazonas,Revenda,405,28.7,3,29.1,Cartão
+F4374,2025-01-20,14:28,117,839,92,105,13kg,0.36,6.3,Comercial,74.72,169.4,40.94,Amapá-Rota-05,80,55.1,GLP Granel,Fogás,Amapá,Revenda,371,28.9,1,4.5,Dinheiro
+F8559,2025-01-20,20:40,372,809,21,196,45kg,0.17,3.0,Residencial,81.94,138.96,44.46,Roraima-Rota-06,115,11.1,GLP Residencial,Fogás,Roraima,Venda Direta,697,29.2,1,25.4,Dinheiro
+F5884,2025-01-20,07:38,172,726,69,216,45kg,0.28,6.2,Comercial,138.67,109.4,38.56,Rondônia-Rota-04,86,71.3,GLP Residencial,Fogás,Rondônia,Venda Direta,519,29.0,1,33.1,Boleto
+F9544,2025-01-20,12:18,303,509,93,109,45kg,0.26,8.6,Residencial,83.55,132.09,29.12,Amazonas-Rota-07,88,90.8,GLP Granel,Fogás,Amazonas,Revenda,699,26.4,4,36.6,Dinheiro
+F2304,2025-01-20,06:07,302,451,76,272,13kg,0.43,3.1,Residencial,130.68,166.22,10.11,Amapá-Rota-03,45,18.9,GLP Comercial,Fogás,Amapá,Venda Direta,493,28.8,3,28.0,Cartão
+F8195,2025-01-20,17:00,194,712,54,122,190kg,0.23,1.7,Residencial,89.11,159.18,11.59,Roraima-Rota-02,101,6.3,GLP Industrial,Fogás,Roraima,Revenda,293,27.2,3,44.3,PIX
+F7648,2025-01-20,06:40,50,664,69,269,13kg,0.5,9.1,Residencial,90.66,95.58,13.73,Acre-Rota-04,95,48.8,GLP Comercial,Fogás,Acre,Venda Direta,47,26.8,1,14.8,PIX
+F4586,2025-01-20,18:38,362,619,39,199,13kg,0.57,5.5,Residencial,78.86,170.97,21.12,Roraima-Rota-01,85,86.8,GLP Comercial,Fogás,Roraima,Venda Direta,124,26.0,1,17.0,Cartão
+F3302,2025-01-20,19:12,132,964,93,220,20kg,0.34,3.5,Industrial,132.97,113.72,45.55,Acre-Rota-07,41,33.1,GLP Residencial,Fogás,Acre,Venda Direta,867,25.7,2,12.5,Cartão
+F8473,2025-01-20,09:00,269,588,89,113,45kg,0.31,9.7,Residencial,123.28,164.42,35.56,Roraima-Rota-09,37,38.3,GLP Industrial,Fogás,Roraima,Venda Direta,673,26.0,2,44.9,PIX
+F7524,2025-01-21,11:44,294,452,82,260,13kg,0.59,2.0,Comercial,90.23,185.33,10.74,Roraima-Rota-04,38,34.6,GLP Industrial,Ultragaz,Roraima,Venda Direta,618,33.3,1,0.9,Dinheiro
+F6810,2025-01-21,07:21,314,629,61,216,45kg,0.38,5.7,Comercial,131.42,190.29,33.69,Rondônia-Rota-06,106,17.1,GLP Granel,Ultragaz,Rondônia,Revenda,456,32.8,5,23.4,PIX
+F2265,2025-01-21,09:04,324,418,69,196,45kg,0.14,3.3,Residencial,76.6,183.45,44.18,Acre-Rota-09,76,67.7,GLP Industrial,Fogás,Acre,Venda Direta,606,32.6,1,40.7,PIX
+F5430,2025-01-21,21:43,311,937,24,170,20kg,0.53,3.5,Residencial,97.84,183.78,49.8,Amapá-Rota-06,45,38.8,GLP Industrial,Fogás,Amapá,Revenda,246,31.6,2,4.3,Dinheiro
+F6220,2025-01-21,20:18,274,554,89,149,190kg,0.13,1.4,Condomínio,105.75,179.45,17.83,Rondônia-Rota-08,78,78.8,GLP Granel,Fogás,Rondônia,Revenda,821,32.4,4,9.2,PIX
+F9865,2025-01-21,21:38,392,821,93,134,45kg,0.4,2.3,Residencial,104.74,187.7,15.05,Acre-Rota-07,90,92.0,GLP Comercial,Fogás,Acre,Venda Direta,723,32.7,1,47.0,Cartão
+F1942,2025-01-21,19:17,331,853,47,238,20kg,0.22,4.7,Industrial,92.64,120.92,33.18,Amazonas-Rota-07,71,87.7,GLP Comercial,Fogás,Amazonas,Revenda,257,34.4,1,22.5,PIX
+F1233,2025-01-21,17:13,309,532,29,288,190kg,0.41,2.1,Comercial,140.85,197.07,34.94,Amapá-Rota-06,72,35.0,GLP Comercial,Fogás,Amapá,E-commerce,106,33.0,2,0.8,Boleto
+F7035,2025-01-21,18:03,328,431,84,278,45kg,0.33,8.6,Residencial,132.89,196.88,33.82,Roraima-Rota-09,81,73.4,GLP Residencial,Fogás,Roraima,Venda Direta,261,34.2,5,45.8,Cartão
+F8859,2025-01-21,20:11,474,316,61,229,45kg,0.17,5.0,Residencial,94.5,128.47,39.97,Acre-Rota-05,63,55.2,GLP Comercial,Fogás,Acre,Revenda,193,33.8,5,33.9,Cartão
+F9925,2025-01-21,09:49,484,277,25,278,190kg,0.38,4.3,Residencial,114.54,139.22,20.74,Rondônia-Rota-05,64,56.0,GLP Residencial,Fogás,Rondônia,E-commerce,510,34.8,3,9.7,Boleto
+F5288,2025-01-21,14:35,318,694,93,140,190kg,0.23,4.7,Residencial,71.77,132.96,24.97,Amapá-Rota-05,78,95.8,GLP Granel,Ultragaz,Amapá,Venda Direta,651,32.7,4,34.4,Dinheiro
+F3240,2025-01-21,07:27,439,703,57,142,13kg,0.3,1.0,Residencial,103.09,176.11,18.54,Amazonas-Rota-09,43,66.9,GLP Industrial,Ultragaz,Amazonas,Venda Direta,629,32.9,5,36.4,Cartão
+F5178,2025-01-21,20:11,349,645,41,205,190kg,0.55,4.3,Industrial,94.86,195.01,35.76,Rondônia-Rota-08,117,98.2,GLP Granel,Fogás,Rondônia,Revenda,676,34.7,2,39.8,PIX
+F7988,2025-01-21,17:37,213,760,30,152,20kg,0.42,9.7,Comercial,80.14,124.3,29.32,Amazonas-Rota-02,48,25.1,GLP Comercial,Fogás,Amazonas,Revenda,943,31.5,3,23.2,Boleto
+F4014,2025-01-21,06:02,472,370,83,131,13kg,0.24,1.7,Residencial,133.82,187.55,16.54,Roraima-Rota-05,59,44.7,GLP Comercial,Fogás,Roraima,Venda Direta,658,31.5,3,35.8,Dinheiro
+F5337,2025-01-21,11:50,51,255,27,278,13kg,0.59,4.8,Residencial,100.89,150.58,28.48,Acre-Rota-02,72,38.7,GLP Residencial,Fogás,Acre,Venda Direta,833,33.4,2,46.8,Boleto
+F5726,2025-01-21,15:01,218,427,67,129,20kg,0.59,1.1,Residencial,83.37,193.97,14.73,Roraima-Rota-01,22,84.7,GLP Granel,Fogás,Roraima,Revenda,862,34.2,2,38.3,PIX
+F8904,2025-01-21,13:04,100,658,38,291,45kg,0.46,1.7,Residencial,85.38,109.88,17.0,Roraima-Rota-05,88,31.0,GLP Granel,Fogás,Roraima,Revenda,860,34.5,3,16.7,Boleto
+F2190,2025-01-21,12:57,343,595,87,276,45kg,0.39,2.4,Residencial,108.4,197.37,49.96,Amazonas-Rota-03,109,98.2,GLP Comercial,Fogás,Amazonas,Revenda,338,33.3,2,38.7,PIX
+F9332,2025-01-21,13:58,156,733,58,151,190kg,0.49,6.1,Residencial,117.72,180.56,33.41,Roraima-Rota-08,87,50.0,GLP Comercial,Fogás,Roraima,Revenda,311,32.8,1,45.8,PIX
+F5844,2025-01-21,07:35,432,841,21,173,190kg,0.35,8.2,Residencial,87.8,122.82,20.96,Amazonas-Rota-04,36,42.7,GLP Industrial,Fogás,Amazonas,Venda Direta,256,34.0,2,38.9,PIX
+F8451,2025-01-21,20:01,400,530,57,198,20kg,0.35,6.2,Industrial,129.42,154.75,45.71,Amapá-Rota-05,106,82.2,GLP Industrial,Fogás,Amapá,Venda Direta,42,34.5,1,27.1,Dinheiro
+F7491,2025-01-21,21:12,225,446,59,245,20kg,0.39,2.9,Comercial,111.29,99.05,32.21,Roraima-Rota-08,112,73.2,GLP Comercial,Fogás,Roraima,Revenda,850,34.8,4,13.1,PIX
+F3902,2025-01-21,18:48,84,998,23,213,13kg,0.16,4.4,Comercial,148.04,129.61,15.44,Amazonas-Rota-03,47,28.1,GLP Residencial,Fogás,Amazonas,Revenda,51,33.5,1,5.1,PIX
+F5946,2025-01-21,07:16,128,708,81,190,45kg,0.41,3.3,Industrial,92.48,135.37,45.79,Amapá-Rota-08,70,86.5,GLP Granel,Fogás,Amapá,Revenda,110,32.8,3,13.8,Boleto
+F4019,2025-01-21,18:53,214,866,68,232,13kg,0.16,1.3,Comercial,92.04,150.96,15.1,Acre-Rota-01,32,16.2,GLP Industrial,Fogás,Acre,Revenda,37,31.6,2,33.6,Cartão
+F2008,2025-01-21,19:47,410,653,50,173,45kg,0.19,4.9,Residencial,78.06,146.64,27.42,Amazonas-Rota-01,105,34.7,GLP Comercial,Ultragaz,Amazonas,Revenda,903,33.8,4,42.5,Cartão
+F9779,2025-01-21,20:53,463,663,49,259,190kg,0.12,8.8,Residencial,83.59,141.54,23.87,Roraima-Rota-07,61,48.3,GLP Industrial,Fogás,Roraima,Revenda,119,33.0,3,17.4,Cartão
+F8818,2025-01-21,15:17,355,330,84,125,45kg,0.21,1.9,Industrial,78.9,99.38,18.03,Rondônia-Rota-06,39,87.6,GLP Granel,Fogás,Rondônia,Venda Direta,367,33.2,2,47.7,PIX
+F9187,2025-01-22,17:33,484,905,60,239,45kg,0.17,1.9,Industrial,139.16,137.99,10.96,Amapá-Rota-03,34,61.4,GLP Industrial,Fogás,Amapá,Venda Direta,827,33.5,2,19.9,Dinheiro
+F1605,2025-01-22,11:07,51,718,35,184,190kg,0.31,1.8,Residencial,79.25,100.87,17.71,Acre-Rota-05,69,11.4,GLP Granel,Fogás,Acre,Revenda,713,32.6,2,15.4,Dinheiro
+F1750,2025-01-22,07:28,452,254,32,258,190kg,0.29,7.8,Industrial,84.59,136.43,28.11,Roraima-Rota-03,81,24.7,GLP Comercial,Fogás,Roraima,Venda Direta,548,34.4,5,42.0,Cartão
+F7279,2025-01-22,06:14,491,667,23,217,13kg,0.35,1.8,Residencial,108.16,191.59,44.63,Rondônia-Rota-07,100,79.0,GLP Comercial,Fogás,Rondônia,E-commerce,715,32.6,5,16.6,Cartão
+F4464,2025-01-22,11:30,158,316,26,253,190kg,0.53,8.1,Residencial,118.2,130.26,27.3,Amapá-Rota-02,68,23.1,GLP Industrial,Fogás,Amapá,Revenda,836,33.2,2,40.5,Boleto
+F5689,2025-01-22,07:11,438,650,47,213,45kg,0.5,5.3,Condomínio,85.01,153.05,48.98,Rondônia-Rota-07,24,66.5,GLP Industrial,Fogás,Rondônia,Revenda,605,34.2,2,36.7,Dinheiro
+F4494,2025-01-22,06:34,112,365,84,293,190kg,0.3,6.7,Comercial,134.41,153.18,17.18,Amapá-Rota-07,98,34.5,GLP Industrial,Fogás,Amapá,Venda Direta,746,34.4,1,30.4,Dinheiro
+F8246,2025-01-22,13:31,342,802,97,193,190kg,0.3,1.7,Residencial,135.34,115.24,44.57,Amazonas-Rota-08,74,17.5,GLP Industrial,Fogás,Amazonas,Venda Direta,173,34.4,5,30.6,Dinheiro
+F4523,2025-01-22,13:20,425,789,61,147,190kg,0.38,7.8,Condomínio,118.1,172.27,29.6,Amazonas-Rota-05,106,23.3,GLP Residencial,Fogás,Amazonas,Revenda,653,35.4,3,10.6,Dinheiro
+F1636,2025-01-22,06:50,253,817,47,138,45kg,0.14,5.5,Residencial,98.55,108.54,12.75,Amapá-Rota-09,29,24.8,GLP Residencial,Fogás,Amapá,Revenda,86,33.2,5,12.3,Boleto
+F7367,2025-01-22,20:17,247,579,57,269,190kg,0.33,6.6,Industrial,76.97,184.95,46.65,Amazonas-Rota-06,100,52.8,GLP Residencial,Fogás,Amazonas,Revenda,107,34.6,1,37.8,PIX
+F3747,2025-01-22,21:26,477,350,26,191,190kg,0.35,8.5,Residencial,72.27,97.42,14.89,Amapá-Rota-02,39,48.2,GLP Granel,Fogás,Amapá,Venda Direta,412,31.8,2,17.9,PIX
+F9180,2025-01-22,19:59,299,801,93,150,190kg,0.36,5.4,Comercial,133.95,149.26,30.1,Amazonas-Rota-01,46,71.8,GLP Comercial,Ultragaz,Amazonas,Revenda,325,31.9,3,17.3,PIX
+F4208,2025-01-22,20:40,203,545,38,268,190kg,0.29,1.7,Comercial,137.97,95.92,12.27,Rondônia-Rota-08,77,61.6,GLP Granel,Fogás,Rondônia,Revenda,497,33.7,3,12.3,PIX
+F9734,2025-01-22,18:35,183,226,58,124,13kg,0.28,1.5,Condomínio,139.74,129.71,43.78,Acre-Rota-05,34,24.1,GLP Granel,Fogás,Acre,Venda Direta,295,34.2,5,16.0,PIX
+F1896,2025-01-22,16:52,391,667,96,211,20kg,0.21,1.8,Comercial,127.25,175.59,38.39,Amazonas-Rota-04,70,29.6,GLP Residencial,Fogás,Amazonas,Revenda,76,32.2,1,8.2,PIX
+F6214,2025-01-22,09:18,406,451,32,123,190kg,0.18,3.6,Comercial,109.12,186.09,37.02,Amazonas-Rota-02,35,28.0,GLP Granel,Fogás,Amazonas,Revenda,816,33.8,3,29.7,Dinheiro
+F5279,2025-01-22,20:32,94,317,50,226,13kg,0.51,3.1,Comercial,114.42,91.66,19.44,Amazonas-Rota-04,49,76.8,GLP Comercial,Fogás,Amazonas,Revenda,871,32.4,5,1.7,Cartão
+F6963,2025-01-22,10:06,234,588,41,210,13kg,0.42,8.4,Residencial,112.18,108.59,43.99,Rondônia-Rota-09,41,98.5,GLP Industrial,Fogás,Rondônia,Revenda,682,35.3,3,44.1,Boleto
+F6008,2025-01-22,12:59,281,638,69,135,20kg,0.15,4.6,Residencial,117.43,169.15,30.86,Amapá-Rota-09,115,46.4,GLP Residencial,Fogás,Amapá,Revenda,831,35.1,1,43.6,PIX
+F1261,2025-01-22,17:43,146,663,62,201,13kg,0.13,1.1,Industrial,136.52,146.63,45.25,Roraima-Rota-03,93,40.1,GLP Industrial,Fogás,Roraima,E-commerce,742,32.9,4,42.4,Boleto
+F1288,2025-01-22,08:51,307,568,39,100,190kg,0.16,5.3,Industrial,82.76,175.22,11.33,Amapá-Rota-08,36,20.9,GLP Residencial,Ultragaz,Amapá,Revenda,865,32.9,3,38.5,Cartão
+F7488,2025-01-22,14:06,151,720,50,200,20kg,0.31,8.0,Residencial,142.33,137.54,19.36,Acre-Rota-08,22,39.6,GLP Comercial,Fogás,Acre,E-commerce,388,33.4,4,8.4,Boleto
+F9328,2025-01-22,21:00,465,676,21,232,13kg,0.27,6.8,Residencial,102.85,116.69,48.39,Amazonas-Rota-09,111,44.9,GLP Comercial,Fogás,Amazonas,Venda Direta,233,32.3,4,36.5,Cartão
+F8103,2025-01-22,19:59,317,623,43,158,45kg,0.33,3.5,Residencial,105.63,106.83,43.56,Amazonas-Rota-07,109,34.7,GLP Residencial,Fogás,Amazonas,Revenda,844,33.6,3,7.1,PIX
+F3608,2025-01-22,10:17,95,942,29,106,13kg,0.53,4.9,Residencial,134.63,181.22,36.06,Acre-Rota-07,45,99.5,GLP Granel,Fogás,Acre,Revenda,768,34.1,1,17.6,Boleto
+F6192,2025-01-22,16:03,424,635,28,222,45kg,0.19,1.8,Industrial,135.36,186.0,34.41,Amazonas-Rota-08,48,17.7,GLP Granel,Fogás,Amazonas,Venda Direta,129,33.2,5,38.1,PIX
+F1486,2025-01-22,14:07,138,623,91,112,13kg,0.19,7.8,Comercial,133.05,135.3,42.54,Amapá-Rota-09,82,53.4,GLP Comercial,Ultragaz,Amapá,Venda Direta,700,35.5,3,46.6,Boleto
+F2745,2025-01-22,06:28,473,387,57,200,20kg,0.47,9.7,Comercial,110.98,97.63,24.96,Acre-Rota-02,38,21.9,GLP Granel,Fogás,Acre,Venda Direta,821,33.7,2,4.8,Dinheiro
+F8502,2025-01-22,06:24,414,875,54,273,20kg,0.29,4.2,Residencial,127.5,192.16,20.57,Amazonas-Rota-01,84,17.4,GLP Residencial,Fogás,Amazonas,Venda Direta,474,32.2,4,16.7,Cartão
+F8302,2025-01-22,09:30,456,752,28,203,20kg,0.55,6.3,Comercial,124.66,136.51,16.25,Acre-Rota-09,61,20.6,GLP Comercial,Fogás,Acre,E-commerce,975,33.3,2,16.5,Cartão
+F7976,2025-01-23,21:15,493,456,68,216,13kg,0.18,4.2,Comercial,139.84,136.39,27.5,Amazonas-Rota-07,50,14.2,GLP Comercial,Fogás,Amazonas,Revenda,280,22.2,2,45.4,Boleto
+F9727,2025-01-23,08:44,139,485,64,165,190kg,0.26,2.6,Residencial,83.53,185.64,39.94,Rondônia-Rota-02,40,85.8,GLP Industrial,Fogás,Rondônia,Venda Direta,778,22.0,2,44.9,Dinheiro
+F6636,2025-01-23,08:31,137,883,69,219,190kg,0.44,4.0,Residencial,79.62,109.91,32.86,Acre-Rota-01,27,31.4,GLP Granel,Fogás,Acre,Revenda,973,19.5,5,28.1,Boleto
+F6807,2025-01-23,07:38,474,220,77,224,45kg,0.29,7.4,Residencial,109.59,161.39,43.67,Amazonas-Rota-03,75,64.0,GLP Comercial,Ultragaz,Amazonas,E-commerce,217,23.0,5,47.9,Dinheiro
+F5160,2025-01-23,17:59,468,572,71,194,20kg,0.34,3.4,Comercial,90.0,171.55,41.79,Amapá-Rota-03,37,67.5,GLP Comercial,Fogás,Amapá,Venda Direta,331,23.3,3,24.1,Cartão
+F8704,2025-01-23,18:52,264,549,55,135,45kg,0.36,3.5,Residencial,84.43,146.94,22.16,Roraima-Rota-06,109,55.8,GLP Granel,Fogás,Roraima,Revenda,639,20.3,5,9.4,Dinheiro
+F8505,2025-01-23,09:17,324,685,68,295,190kg,0.47,2.5,Industrial,145.55,170.93,16.88,Amapá-Rota-07,20,8.2,GLP Comercial,Fogás,Amapá,Revenda,967,21.1,4,38.7,Cartão
+F3184,2025-01-23,06:04,78,694,98,122,20kg,0.37,9.9,Condomínio,132.2,110.68,32.54,Amazonas-Rota-09,20,56.7,GLP Industrial,Fogás,Amazonas,Venda Direta,109,23.0,1,16.6,Boleto
+F9323,2025-01-23,12:52,336,676,82,249,45kg,0.56,3.6,Condomínio,130.84,126.54,36.15,Amazonas-Rota-08,41,47.8,GLP Comercial,Fogás,Amazonas,E-commerce,26,22.4,5,35.1,Boleto
+F2632,2025-01-23,12:41,325,508,20,221,20kg,0.47,3.9,Condomínio,105.32,161.76,26.23,Rondônia-Rota-03,86,25.3,GLP Comercial,Fogás,Rondônia,Revenda,395,22.3,1,37.9,PIX
+F4671,2025-01-23,07:26,293,797,84,171,190kg,0.44,2.7,Residencial,149.08,197.61,29.77,Rondônia-Rota-09,69,53.1,GLP Residencial,Fogás,Rondônia,Revenda,887,21.7,4,35.4,Boleto
+F1568,2025-01-23,08:07,175,231,84,112,190kg,0.11,2.2,Residencial,106.44,139.83,23.28,Amapá-Rota-01,65,22.5,GLP Granel,Fogás,Amapá,Venda Direta,148,23.2,2,36.2,Dinheiro
+F1260,2025-01-23,09:41,128,690,95,198,13kg,0.21,9.3,Industrial,112.26,108.56,46.39,Amazonas-Rota-07,111,18.8,GLP Comercial,Fogás,Amazonas,Venda Direta,211,23.3,4,37.7,PIX
+F8743,2025-01-23,19:40,386,619,27,106,45kg,0.15,3.4,Industrial,148.91,162.93,43.0,Acre-Rota-02,91,61.4,GLP Industrial,Fogás,Acre,Revenda,124,23.3,5,0.4,Dinheiro
+F2782,2025-01-23,16:45,123,846,73,252,13kg,0.59,2.3,Comercial,116.72,189.59,12.07,Amapá-Rota-01,119,89.3,GLP Granel,Fogás,Amapá,Revenda,144,23.0,2,39.2,Cartão
+F7960,2025-01-23,09:48,346,999,96,218,190kg,0.11,7.1,Residencial,143.41,122.74,19.15,Rondônia-Rota-09,63,20.6,GLP Granel,Fogás,Rondônia,Venda Direta,943,22.6,3,10.5,PIX
+F2384,2025-01-23,13:26,402,345,55,255,190kg,0.19,8.9,Industrial,122.0,104.08,35.99,Acre-Rota-07,37,45.5,GLP Residencial,Fogás,Acre,E-commerce,535,20.0,1,22.7,Dinheiro
+F5126,2025-01-23,17:39,144,203,79,266,13kg,0.42,4.4,Industrial,81.46,181.6,22.09,Acre-Rota-01,65,33.6,GLP Residencial,Fogás,Acre,Revenda,367,23.2,1,41.0,Cartão
+F3243,2025-01-23,14:02,70,679,44,233,45kg,0.4,8.4,Condomínio,94.82,154.26,45.32,Acre-Rota-09,66,75.9,GLP Industrial,Fogás,Acre,Venda Direta,148,20.1,3,46.6,Cartão
+F4203,2025-01-23,11:43,430,213,51,227,20kg,0.54,2.6,Condomínio,95.92,198.32,31.32,Amapá-Rota-01,52,74.0,GLP Residencial,Ultragaz,Amapá,Venda Direta,650,20.5,3,42.4,Boleto
+F5604,2025-01-23,06:21,100,793,24,249,20kg,0.42,2.0,Residencial,142.0,135.94,23.43,Amazonas-Rota-06,33,70.7,GLP Granel,Fogás,Amazonas,Venda Direta,308,21.5,3,42.4,Dinheiro
+F8664,2025-01-23,09:07,322,405,26,272,20kg,0.26,4.4,Residencial,108.49,158.5,18.44,Amazonas-Rota-09,63,34.1,GLP Residencial,Fogás,Amazonas,Venda Direta,903,20.5,5,39.6,Dinheiro
+F3106,2025-01-23,08:27,176,681,55,161,190kg,0.29,8.3,Comercial,106.66,126.91,27.25,Acre-Rota-07,108,47.8,GLP Granel,Ultragaz,Acre,Revenda,711,20.3,4,21.6,PIX
+F8711,2025-01-23,07:53,481,332,73,202,20kg,0.16,3.5,Residencial,132.76,121.47,31.81,Amapá-Rota-06,36,26.9,GLP Residencial,Fogás,Amapá,Revenda,826,22.6,5,6.0,PIX
+F2940,2025-01-23,20:53,499,611,66,180,13kg,0.51,4.5,Condomínio,138.65,197.34,25.04,Amazonas-Rota-09,67,41.1,GLP Industrial,Fogás,Amazonas,Revenda,683,20.6,4,32.0,Boleto
+F2978,2025-01-23,08:52,416,302,60,174,190kg,0.47,5.4,Comercial,105.22,111.71,39.25,Roraima-Rota-06,27,44.3,GLP Industrial,Fogás,Roraima,Revenda,841,22.8,3,13.6,Dinheiro
+F2483,2025-01-23,20:48,479,932,38,125,20kg,0.4,6.4,Comercial,144.38,131.17,21.98,Rondônia-Rota-02,76,36.6,GLP Residencial,Fogás,Rondônia,Revenda,601,19.7,3,44.6,Boleto
+F3382,2025-01-23,06:03,54,527,90,242,190kg,0.55,2.7,Residencial,95.85,193.27,25.89,Roraima-Rota-06,88,59.2,GLP Residencial,Fogás,Roraima,Revenda,815,20.3,3,14.4,Boleto
+F3243,2025-01-23,17:23,329,746,28,100,13kg,0.57,8.2,Industrial,147.08,121.05,49.81,Acre-Rota-07,43,67.2,GLP Residencial,Fogás,Acre,Venda Direta,358,22.1,3,28.4,PIX
+F5986,2025-01-23,06:13,288,771,73,259,45kg,0.51,1.2,Residencial,119.73,128.81,39.86,Rondônia-Rota-01,42,25.0,GLP Industrial,Fogás,Rondônia,Venda Direta,0,20.0,3,40.8,PIX
+F3572,2025-01-23,14:33,232,853,41,242,190kg,0.38,2.4,Residencial,91.11,182.35,15.24,Roraima-Rota-09,107,57.6,GLP Residencial,Fogás,Roraima,Revenda,566,20.6,4,34.3,Cartão
+F4051,2025-01-23,21:12,365,524,68,248,190kg,0.57,9.4,Residencial,111.51,121.51,49.57,Amazonas-Rota-02,35,23.6,GLP Industrial,Fogás,Amazonas,Revenda,566,21.8,2,46.3,Cartão
+F8828,2025-01-23,20:44,467,674,64,202,190kg,0.31,2.1,Industrial,75.63,128.04,48.12,Amapá-Rota-06,17,37.7,GLP Granel,Ultragaz,Amapá,Revenda,346,23.0,2,21.9,PIX
+F7945,2025-01-23,07:22,51,621,59,242,20kg,0.57,3.6,Condomínio,83.03,106.04,42.62,Amazonas-Rota-05,66,25.4,GLP Residencial,Fogás,Amazonas,Revenda,366,21.5,2,29.1,Boleto
+F8705,2025-01-23,13:49,148,531,84,262,45kg,0.32,3.5,Residencial,141.92,179.92,43.72,Amazonas-Rota-05,80,31.4,GLP Residencial,Fogás,Amazonas,Revenda,282,20.1,2,40.1,Cartão
+F2995,2025-01-24,06:12,168,419,66,257,20kg,0.17,6.7,Residencial,114.02,162.67,19.65,Rondônia-Rota-05,64,13.5,GLP Industrial,Fogás,Rondônia,Revenda,98,26.4,1,5.6,Dinheiro
+F7255,2025-01-24,09:01,337,335,93,203,45kg,0.48,6.1,Residencial,134.46,141.51,40.27,Amazonas-Rota-01,72,71.0,GLP Granel,Ultragaz,Amazonas,Venda Direta,872,26.0,4,43.5,PIX
+F7350,2025-01-24,21:48,496,608,33,295,45kg,0.43,2.0,Industrial,126.18,117.03,41.53,Amazonas-Rota-02,35,46.5,GLP Residencial,Ultragaz,Amazonas,E-commerce,367,25.4,5,25.7,Boleto
+F8018,2025-01-24,09:04,80,350,63,213,45kg,0.24,6.8,Residencial,149.58,171.54,23.67,Amapá-Rota-07,103,9.4,GLP Industrial,Fogás,Amapá,Revenda,656,24.3,5,39.9,Boleto
+F8223,2025-01-24,14:24,181,597,20,232,20kg,0.6,6.8,Condomínio,83.59,97.71,30.05,Amazonas-Rota-02,100,58.0,GLP Industrial,Fogás,Amazonas,Revenda,366,24.0,2,7.2,PIX
+F7783,2025-01-24,09:08,179,633,20,113,45kg,0.54,3.8,Comercial,137.61,101.67,34.0,Rondônia-Rota-05,116,10.5,GLP Industrial,Fogás,Rondônia,Revenda,499,25.7,5,23.3,Cartão
+F5974,2025-01-24,19:56,73,273,30,242,45kg,0.48,7.1,Residencial,111.89,150.61,36.59,Acre-Rota-04,68,71.6,GLP Comercial,Fogás,Acre,Revenda,973,24.2,2,14.6,Dinheiro
+F7348,2025-01-24,15:06,318,544,72,142,190kg,0.51,1.4,Residencial,107.89,111.92,41.23,Amapá-Rota-04,41,69.8,GLP Industrial,Fogás,Amapá,Revenda,636,24.8,4,18.5,Cartão
+F7625,2025-01-24,17:45,304,415,55,178,20kg,0.38,4.1,Industrial,119.71,109.67,41.45,Roraima-Rota-01,45,55.0,GLP Industrial,Fogás,Roraima,Venda Direta,632,25.7,4,13.4,Boleto
+F6621,2025-01-24,13:42,84,469,69,195,190kg,0.48,6.1,Condomínio,90.95,187.6,30.8,Roraima-Rota-03,65,44.8,GLP Granel,Fogás,Roraima,Revenda,529,25.4,5,12.9,Dinheiro
+F9943,2025-01-24,15:54,239,409,25,194,45kg,0.24,2.7,Condomínio,78.71,109.28,32.66,Amazonas-Rota-04,115,46.2,GLP Industrial,Fogás,Amazonas,E-commerce,558,25.8,5,8.8,Boleto
+F8662,2025-01-24,11:27,284,698,73,232,20kg,0.55,6.6,Residencial,126.27,128.03,45.58,Amapá-Rota-03,77,22.4,GLP Industrial,Fogás,Amapá,Revenda,853,26.2,3,17.2,Dinheiro
+F7491,2025-01-24,12:24,487,764,66,280,13kg,0.17,4.3,Residencial,102.78,92.25,22.28,Rondônia-Rota-08,119,17.2,GLP Residencial,Fogás,Rondônia,Revenda,363,25.6,4,14.4,Boleto
+F1706,2025-01-24,15:26,248,719,41,275,13kg,0.28,4.1,Residencial,76.56,174.11,22.19,Amapá-Rota-03,42,84.6,GLP Industrial,Fogás,Amapá,Revenda,832,23.9,4,3.1,Dinheiro
+F9303,2025-01-24,18:38,160,785,81,200,13kg,0.4,3.5,Residencial,119.71,156.61,38.8,Amazonas-Rota-06,69,25.0,GLP Comercial,Fogás,Amazonas,Venda Direta,944,26.2,4,34.4,Boleto
+F3475,2025-01-24,20:17,272,965,37,239,45kg,0.25,7.4,Comercial,114.87,104.89,19.09,Amazonas-Rota-06,36,6.2,GLP Granel,Fogás,Amazonas,Revenda,202,26.8,5,44.2,Boleto
+F5005,2025-01-24,20:18,54,856,84,179,20kg,0.28,8.6,Industrial,146.05,133.92,13.91,Rondônia-Rota-06,101,15.2,GLP Residencial,Fogás,Rondônia,Venda Direta,665,24.9,3,29.2,Cartão
+F3529,2025-01-24,11:00,194,662,89,287,190kg,0.36,4.8,Residencial,142.55,119.84,12.54,Amazonas-Rota-03,34,77.1,GLP Industrial,Fogás,Amazonas,Venda Direta,342,25.6,1,3.4,Cartão
+F1089,2025-01-24,15:05,413,792,69,167,190kg,0.27,4.1,Industrial,122.47,153.47,24.07,Amapá-Rota-05,40,27.5,GLP Residencial,Fogás,Amapá,Revenda,753,25.0,4,22.1,Boleto
+F5274,2025-01-24,12:05,105,376,84,184,190kg,0.16,1.8,Condomínio,120.5,136.67,36.56,Rondônia-Rota-05,53,47.4,GLP Residencial,Fogás,Rondônia,Venda Direta,862,25.4,3,30.4,Cartão
+F2590,2025-01-24,17:08,275,657,78,278,190kg,0.32,8.8,Industrial,89.92,164.53,27.23,Rondônia-Rota-03,30,51.6,GLP Granel,Fogás,Rondônia,Venda Direta,4,25.5,2,29.3,Boleto
+F8722,2025-01-24,16:11,255,488,85,129,190kg,0.3,5.7,Industrial,85.24,108.0,18.83,Amapá-Rota-06,73,31.6,GLP Residencial,Fogás,Amapá,Revenda,649,23.7,4,23.4,Boleto
+F4059,2025-01-24,12:37,254,500,63,193,45kg,0.47,7.5,Residencial,96.3,185.91,30.34,Amazonas-Rota-07,102,16.8,GLP Granel,Fogás,Amazonas,Revenda,654,27.1,2,36.2,PIX
+F4831,2025-01-24,11:39,385,900,98,216,20kg,0.52,2.4,Industrial,97.87,129.99,46.17,Amazonas-Rota-06,65,9.3,GLP Industrial,Fogás,Amazonas,E-commerce,467,25.4,1,42.6,Cartão
+F7762,2025-01-24,08:02,318,961,55,164,45kg,0.43,3.5,Residencial,120.09,188.09,33.98,Acre-Rota-09,92,83.3,GLP Residencial,Fogás,Acre,Revenda,761,23.4,3,31.7,Cartão
+F7579,2025-01-24,14:29,308,453,79,170,190kg,0.1,8.7,Condomínio,123.32,134.87,18.43,Rondônia-Rota-01,26,12.6,GLP Industrial,Ultragaz,Rondônia,Venda Direta,61,26.1,4,3.9,Dinheiro
+F5115,2025-01-24,15:25,367,688,43,262,13kg,0.11,4.2,Industrial,119.49,116.95,14.65,Roraima-Rota-07,118,61.4,GLP Residencial,Fogás,Roraima,Revenda,842,27.0,2,11.5,Boleto
+F8032,2025-01-24,13:08,159,379,53,151,190kg,0.34,7.0,Residencial,78.5,180.06,25.16,Roraima-Rota-07,57,12.6,GLP Granel,Fogás,Roraima,Revenda,795,27.1,2,22.7,Boleto
+F5285,2025-01-24,06:43,232,985,92,223,20kg,0.44,1.2,Industrial,128.95,126.44,23.8,Rondônia-Rota-03,89,68.6,GLP Granel,Fogás,Rondônia,Revenda,840,25.9,1,4.9,Boleto
+F6552,2025-01-24,19:43,332,823,89,102,45kg,0.23,2.8,Comercial,74.46,142.44,17.85,Amapá-Rota-05,87,83.4,GLP Residencial,Fogás,Amapá,Revenda,398,24.6,2,25.1,Cartão
+F7233,2025-01-24,16:47,199,547,87,212,190kg,0.32,7.1,Industrial,78.05,178.55,22.53,Roraima-Rota-08,60,12.1,GLP Comercial,Fogás,Roraima,E-commerce,180,25.2,1,31.8,Dinheiro
+F3740,2025-01-24,15:00,344,658,83,275,45kg,0.46,7.6,Comercial,113.35,112.57,40.69,Rondônia-Rota-07,34,15.6,GLP Comercial,Fogás,Rondônia,Revenda,423,26.5,5,38.7,Cartão
+F7328,2025-01-24,08:46,266,210,91,238,20kg,0.2,6.5,Residencial,132.02,180.84,46.85,Amapá-Rota-09,48,26.8,GLP Industrial,Fogás,Amapá,Venda Direta,719,23.9,4,3.0,Cartão
+F8834,2025-01-24,16:21,233,258,75,201,45kg,0.19,4.6,Residencial,115.21,100.35,44.74,Amazonas-Rota-01,110,33.5,GLP Comercial,Fogás,Amazonas,Revenda,684,23.7,4,44.9,PIX
+F5063,2025-01-24,11:56,360,454,91,136,20kg,0.15,9.5,Residencial,83.52,119.53,24.36,Amapá-Rota-04,96,59.6,GLP Granel,Fogás,Amapá,Venda Direta,523,24.0,4,4.1,Cartão
+F1928,2025-01-24,08:21,137,788,87,218,45kg,0.31,2.9,Residencial,140.23,189.33,32.69,Roraima-Rota-03,77,35.1,GLP Granel,Fogás,Roraima,Revenda,740,27.1,3,28.3,Dinheiro
+F1167,2025-01-24,20:26,270,499,42,150,190kg,0.16,2.9,Comercial,111.78,180.51,22.16,Acre-Rota-07,117,75.8,GLP Comercial,Fogás,Acre,E-commerce,646,24.0,5,7.9,Boleto
+F7397,2025-01-25,18:48,479,896,41,112,45kg,0.3,3.9,Industrial,147.62,98.71,10.08,Rondônia-Rota-09,79,7.3,GLP Residencial,Fogás,Rondônia,E-commerce,300,26.1,5,3.0,Dinheiro
+F3538,2025-01-25,18:10,340,722,43,247,45kg,0.59,4.5,Residencial,81.91,132.07,26.9,Amazonas-Rota-01,81,70.5,GLP Industrial,Fogás,Amazonas,Revenda,717,28.1,3,13.3,Dinheiro
+F1901,2025-01-25,15:29,191,845,50,165,190kg,0.14,9.4,Residencial,112.34,186.42,12.5,Amapá-Rota-04,93,17.7,GLP Residencial,Fogás,Amapá,Revenda,66,27.4,1,28.7,Cartão
+F9313,2025-01-25,15:54,191,864,46,114,190kg,0.3,3.0,Residencial,83.4,98.2,31.08,Roraima-Rota-06,114,39.2,GLP Residencial,Fogás,Roraima,Revenda,949,27.9,5,11.6,Boleto
+F7801,2025-01-25,20:23,479,612,68,180,20kg,0.23,4.8,Industrial,115.04,120.75,15.24,Rondônia-Rota-07,108,72.1,GLP Granel,Fogás,Rondônia,Revenda,229,25.4,1,3.7,PIX
+F3811,2025-01-25,10:43,473,620,90,179,20kg,0.5,8.3,Residencial,106.79,179.01,14.51,Roraima-Rota-09,100,90.1,GLP Industrial,Fogás,Roraima,Venda Direta,731,28.3,3,44.6,Cartão
+F8744,2025-01-25,17:46,168,680,48,128,20kg,0.4,3.6,Condomínio,127.8,95.44,44.11,Roraima-Rota-08,25,52.0,GLP Comercial,Fogás,Roraima,E-commerce,216,25.8,5,37.9,Dinheiro
+F8931,2025-01-25,06:19,262,315,52,133,13kg,0.55,1.7,Residencial,138.15,189.09,30.76,Rondônia-Rota-09,43,19.2,GLP Industrial,Fogás,Rondônia,Venda Direta,547,27.4,5,46.3,Dinheiro
+F1762,2025-01-25,19:49,300,275,47,268,20kg,0.49,1.7,Residencial,85.19,149.39,10.31,Amazonas-Rota-03,82,85.0,GLP Granel,Fogás,Amazonas,Revenda,372,27.7,1,31.1,Dinheiro
+F6892,2025-01-25,11:11,240,425,37,180,13kg,0.22,6.9,Condomínio,81.64,193.39,42.81,Acre-Rota-04,75,43.8,GLP Granel,Fogás,Acre,Revenda,582,27.9,3,11.3,Boleto
+F7281,2025-01-25,06:29,415,403,87,251,13kg,0.19,6.4,Residencial,132.45,166.67,19.77,Amapá-Rota-01,17,19.7,GLP Granel,Fogás,Amapá,Revenda,116,26.2,4,46.3,Dinheiro
+F6643,2025-01-25,21:55,55,298,25,247,20kg,0.41,3.1,Industrial,75.83,128.05,42.33,Amazonas-Rota-03,33,61.9,GLP Granel,Fogás,Amazonas,Revenda,890,26.5,5,9.5,Boleto
+F2816,2025-01-25,06:28,210,547,88,115,190kg,0.57,1.3,Comercial,134.83,149.35,20.95,Amazonas-Rota-03,20,38.9,GLP Comercial,Fogás,Amazonas,Revenda,715,28.8,1,32.5,PIX
+F1290,2025-01-25,12:44,279,883,79,162,190kg,0.6,3.7,Residencial,112.37,100.39,24.59,Acre-Rota-07,38,74.5,GLP Industrial,Fogás,Acre,Revenda,404,25.3,1,30.0,Boleto
+F4849,2025-01-25,06:51,469,795,88,243,45kg,0.17,8.0,Residencial,116.02,160.85,23.99,Roraima-Rota-01,109,94.6,GLP Comercial,Fogás,Roraima,Venda Direta,909,28.3,3,40.1,Boleto
+F1606,2025-01-25,21:25,430,501,48,263,13kg,0.3,5.9,Residencial,127.12,181.37,21.09,Acre-Rota-03,58,93.2,GLP Residencial,Fogás,Acre,Venda Direta,555,26.4,2,46.7,Cartão
+F4570,2025-01-25,20:45,333,307,73,230,190kg,0.4,5.7,Residencial,144.89,175.7,30.7,Rondônia-Rota-01,32,14.3,GLP Residencial,Ultragaz,Rondônia,Revenda,92,28.9,3,31.9,Dinheiro
+F2246,2025-01-25,15:06,313,325,32,242,20kg,0.31,9.5,Residencial,89.27,137.12,48.3,Amazonas-Rota-02,77,93.9,GLP Comercial,Fogás,Amazonas,Venda Direta,525,27.8,5,43.1,Dinheiro
+F1028,2025-01-25,12:53,127,562,30,236,190kg,0.52,8.1,Comercial,126.32,145.1,49.84,Roraima-Rota-03,18,88.7,GLP Granel,Fogás,Roraima,Revenda,342,27.3,4,38.4,Boleto
+F5562,2025-01-25,13:38,492,744,45,187,13kg,0.19,4.8,Condomínio,103.22,122.39,48.0,Roraima-Rota-01,46,51.2,GLP Residencial,Fogás,Roraima,Revenda,737,25.3,2,9.5,Cartão
+F8135,2025-01-25,13:29,265,832,53,172,13kg,0.25,5.0,Residencial,123.68,120.11,15.6,Acre-Rota-03,86,60.1,GLP Industrial,Fogás,Acre,Revenda,10,26.8,5,3.5,Cartão
+F7623,2025-01-25,08:52,387,990,83,123,45kg,0.53,6.4,Residencial,133.47,179.87,15.78,Amazonas-Rota-06,15,12.4,GLP Granel,Fogás,Amazonas,Venda Direta,78,27.3,3,24.5,Cartão
+F4552,2025-01-25,06:31,362,498,90,138,190kg,0.59,1.3,Residencial,70.81,120.37,14.55,Acre-Rota-02,105,37.4,GLP Residencial,Fogás,Acre,Venda Direta,594,27.4,1,41.6,PIX
+F8577,2025-01-25,18:33,190,338,76,283,13kg,0.33,2.1,Comercial,128.29,106.41,13.97,Acre-Rota-06,82,14.5,GLP Residencial,Fogás,Acre,Revenda,160,28.5,1,4.3,PIX
+F4846,2025-01-25,14:27,430,720,93,293,45kg,0.31,8.5,Industrial,75.51,198.36,30.38,Roraima-Rota-05,72,95.0,GLP Industrial,Fogás,Roraima,Revenda,338,28.0,5,35.1,PIX
+F7026,2025-01-25,12:28,310,621,84,128,190kg,0.17,3.4,Residencial,129.12,171.34,24.47,Rondônia-Rota-04,20,55.8,GLP Comercial,Fogás,Rondônia,Revenda,104,28.9,5,35.9,Boleto
+F9255,2025-01-25,10:08,156,845,72,254,13kg,0.41,1.9,Residencial,94.99,186.41,11.81,Rondônia-Rota-08,116,35.3,GLP Granel,Ultragaz,Rondônia,Revenda,979,26.0,3,45.9,Boleto
+F4413,2025-01-25,18:03,426,367,67,200,13kg,0.22,6.3,Residencial,140.68,124.65,23.01,Roraima-Rota-06,19,58.2,GLP Residencial,Fogás,Roraima,Venda Direta,606,26.5,2,8.4,PIX
+F9457,2025-01-25,21:07,187,629,47,218,20kg,0.44,8.6,Industrial,110.3,142.09,11.24,Amazonas-Rota-07,70,99.3,GLP Residencial,Fogás,Amazonas,Revenda,140,26.3,2,11.5,PIX
+F1936,2025-01-25,12:40,54,920,20,263,13kg,0.45,2.2,Comercial,90.63,135.99,26.39,Rondônia-Rota-02,69,80.7,GLP Comercial,Fogás,Rondônia,Revenda,919,27.8,3,13.9,Cartão
+F4147,2025-01-25,11:48,125,332,75,161,20kg,0.4,1.2,Residencial,147.46,174.84,23.8,Rondônia-Rota-09,95,13.8,GLP Industrial,Fogás,Rondônia,Venda Direta,636,27.7,5,19.2,Cartão
+F3798,2025-01-25,06:34,310,938,96,187,20kg,0.54,1.1,Residencial,148.36,114.19,16.6,Roraima-Rota-01,52,63.1,GLP Industrial,Fogás,Roraima,Revenda,480,26.6,5,14.6,Dinheiro
+F3599,2025-01-26,07:41,379,538,46,120,45kg,0.14,4.1,Residencial,116.14,173.8,34.16,Roraima-Rota-07,69,12.4,GLP Industrial,Ultragaz,Roraima,Venda Direta,238,26.0,3,34.2,Dinheiro
+F8764,2025-01-26,14:30,396,640,44,136,45kg,0.49,4.8,Residencial,121.27,187.42,30.37,Amazonas-Rota-09,115,94.0,GLP Granel,Fogás,Amazonas,Venda Direta,482,26.6,5,40.1,Boleto
+F6617,2025-01-26,17:57,204,954,34,186,45kg,0.27,1.6,Residencial,83.92,155.14,32.82,Roraima-Rota-01,51,54.6,GLP Granel,Fogás,Roraima,E-commerce,285,24.7,3,5.4,Dinheiro
+F4541,2025-01-26,15:12,456,973,84,251,13kg,0.42,9.8,Residencial,98.54,162.95,46.94,Acre-Rota-02,93,29.3,GLP Granel,Ultragaz,Acre,Revenda,801,27.8,2,35.2,Boleto
+F9990,2025-01-26,18:20,436,705,68,155,13kg,0.41,5.1,Residencial,133.15,122.58,49.65,Acre-Rota-06,29,29.1,GLP Industrial,Fogás,Acre,E-commerce,349,24.9,1,21.2,Cartão
+F8320,2025-01-26,11:05,298,902,84,147,20kg,0.36,9.3,Residencial,100.73,130.04,38.52,Amapá-Rota-08,23,54.0,GLP Industrial,Fogás,Amapá,Revenda,832,24.3,3,45.9,Cartão
+F4515,2025-01-26,10:45,477,778,25,140,45kg,0.17,9.8,Comercial,130.33,161.31,31.52,Amapá-Rota-02,59,13.3,GLP Residencial,Fogás,Amapá,Revenda,202,27.6,4,31.5,Cartão
+F4249,2025-01-26,06:50,63,914,59,106,45kg,0.34,3.0,Industrial,146.76,151.92,42.08,Roraima-Rota-02,84,74.2,GLP Industrial,Fogás,Roraima,Revenda,818,24.4,4,9.7,Boleto
+F6800,2025-01-26,08:32,220,761,20,115,190kg,0.37,8.5,Industrial,86.15,99.99,26.54,Amazonas-Rota-09,58,23.4,GLP Comercial,Fogás,Amazonas,Revenda,121,26.7,3,21.1,Cartão
+F3306,2025-01-26,21:32,314,423,85,203,13kg,0.3,7.9,Residencial,99.63,132.04,39.28,Rondônia-Rota-09,28,69.1,GLP Granel,Fogás,Rondônia,Revenda,314,25.0,2,23.2,Boleto
+F8397,2025-01-26,06:25,62,967,36,196,20kg,0.46,3.3,Residencial,95.75,190.54,48.77,Rondônia-Rota-02,18,77.3,GLP Granel,Ultragaz,Rondônia,Revenda,111,24.2,4,31.0,Cartão
+F7235,2025-01-26,06:53,145,785,61,133,45kg,0.2,8.3,Comercial,129.28,167.53,40.9,Rondônia-Rota-08,79,79.2,GLP Residencial,Fogás,Rondônia,Venda Direta,664,24.7,4,44.1,Dinheiro
+F5469,2025-01-26,08:35,269,486,99,180,190kg,0.45,6.6,Industrial,71.51,195.33,34.64,Roraima-Rota-09,66,44.0,GLP Industrial,Fogás,Roraima,Revenda,230,24.8,4,14.4,Boleto
+F6281,2025-01-26,10:51,443,393,49,280,20kg,0.31,1.1,Condomínio,123.95,195.6,35.83,Acre-Rota-01,42,89.4,GLP Comercial,Fogás,Acre,Revenda,843,27.5,3,26.7,Boleto
+F8130,2025-01-26,14:04,398,615,49,177,190kg,0.37,4.3,Comercial,92.94,124.92,41.41,Amazonas-Rota-09,24,12.0,GLP Comercial,Fogás,Amazonas,Venda Direta,804,25.5,3,18.1,PIX
+F7362,2025-01-26,09:16,262,616,75,239,20kg,0.27,2.9,Residencial,97.89,189.49,42.27,Acre-Rota-05,52,20.0,GLP Comercial,Ultragaz,Acre,Venda Direta,136,25.7,5,8.4,Dinheiro
+F1553,2025-01-26,10:33,154,945,95,110,13kg,0.22,5.4,Residencial,94.17,136.62,31.3,Amazonas-Rota-08,56,95.6,GLP Industrial,Fogás,Amazonas,Venda Direta,296,27.8,3,21.7,Boleto
+F3846,2025-01-26,09:20,421,998,30,132,190kg,0.31,4.6,Industrial,140.11,131.84,10.32,Amazonas-Rota-01,72,93.0,GLP Residencial,Fogás,Amazonas,E-commerce,284,25.4,3,10.9,Cartão
+F3501,2025-01-26,14:15,371,420,25,103,13kg,0.59,4.4,Industrial,114.8,102.22,11.37,Amapá-Rota-04,52,12.8,GLP Industrial,Fogás,Amapá,Revenda,897,26.9,5,47.0,Boleto
+F1603,2025-01-26,19:04,252,995,39,176,190kg,0.54,3.0,Residencial,87.86,180.22,40.96,Rondônia-Rota-05,95,74.6,GLP Comercial,Ultragaz,Rondônia,Revenda,229,25.9,2,0.0,PIX
+F9808,2025-01-26,12:10,128,628,87,226,13kg,0.34,5.0,Residencial,89.78,150.38,35.83,Amazonas-Rota-01,21,94.2,GLP Industrial,Fogás,Amazonas,Revenda,608,25.2,3,15.0,PIX
+F1509,2025-01-26,11:50,226,471,99,210,190kg,0.2,3.2,Industrial,104.01,183.8,34.87,Acre-Rota-06,116,93.8,GLP Industrial,Ultragaz,Acre,Revenda,452,26.9,1,19.3,Boleto
+F9719,2025-01-26,06:51,375,396,54,239,45kg,0.54,5.7,Comercial,79.58,110.41,49.85,Amazonas-Rota-01,43,38.8,GLP Residencial,Fogás,Amazonas,Revenda,538,27.9,2,47.8,Boleto
+F6107,2025-01-26,13:39,289,547,74,106,45kg,0.49,9.0,Residencial,88.28,171.91,48.09,Roraima-Rota-01,117,37.3,GLP Comercial,Fogás,Roraima,Revenda,357,26.3,4,29.2,Boleto
+F1564,2025-01-26,12:36,495,246,62,278,45kg,0.25,4.5,Residencial,106.61,145.72,12.95,Rondônia-Rota-06,66,56.0,GLP Industrial,Fogás,Rondônia,Revenda,924,24.5,1,25.2,Cartão
+F1664,2025-01-26,20:52,393,868,37,287,45kg,0.11,1.3,Residencial,130.61,131.81,45.76,Roraima-Rota-09,57,20.7,GLP Comercial,Fogás,Roraima,Revenda,129,26.9,5,41.1,PIX
+F6935,2025-01-27,13:44,373,849,66,207,20kg,0.39,3.6,Industrial,141.19,101.43,21.19,Roraima-Rota-01,90,8.9,GLP Residencial,Fogás,Roraima,Venda Direta,512,23.1,4,2.4,Dinheiro
+F9267,2025-01-27,17:56,413,655,37,153,20kg,0.28,6.2,Industrial,116.92,129.29,17.09,Rondônia-Rota-03,18,7.4,GLP Comercial,Fogás,Rondônia,Revenda,208,21.3,5,20.2,PIX
+F4096,2025-01-27,17:50,123,424,29,217,13kg,0.39,9.8,Comercial,94.7,142.43,32.64,Roraima-Rota-03,98,60.4,GLP Granel,Fogás,Roraima,Revenda,53,22.7,2,38.8,Cartão
+F2493,2025-01-27,16:55,179,251,73,164,13kg,0.35,4.6,Comercial,137.34,190.28,22.75,Roraima-Rota-02,28,46.3,GLP Comercial,Fogás,Roraima,Revenda,339,20.4,1,19.1,Dinheiro
+F9083,2025-01-27,20:01,181,862,26,179,45kg,0.48,8.5,Condomínio,116.14,105.08,40.55,Acre-Rota-02,95,23.4,GLP Industrial,Fogás,Acre,Venda Direta,529,23.5,5,40.0,Boleto
+F4714,2025-01-27,06:17,493,652,26,294,190kg,0.36,4.2,Residencial,120.59,125.56,31.05,Amapá-Rota-03,71,49.1,GLP Residencial,Fogás,Amapá,Venda Direta,167,20.8,1,29.3,PIX
+F1978,2025-01-27,14:22,393,469,54,205,13kg,0.26,6.5,Comercial,135.52,154.0,29.2,Rondônia-Rota-01,69,76.9,GLP Industrial,Fogás,Rondônia,E-commerce,961,22.5,3,22.0,Boleto
+F2723,2025-01-27,20:32,418,379,70,290,13kg,0.32,3.3,Residencial,114.99,117.15,14.74,Amapá-Rota-01,52,41.6,GLP Granel,Fogás,Amapá,Revenda,688,21.3,2,35.2,Dinheiro
+F3535,2025-01-27,07:18,442,941,56,142,190kg,0.47,3.2,Comercial,123.7,144.5,29.48,Amazonas-Rota-05,18,88.8,GLP Comercial,Fogás,Amazonas,Revenda,42,23.6,1,31.8,PIX
+F5565,2025-01-27,10:53,130,279,24,292,13kg,0.36,5.0,Residencial,82.2,96.9,21.33,Acre-Rota-01,65,71.8,GLP Comercial,Fogás,Acre,Revenda,691,22.6,2,24.1,Boleto
+F2518,2025-01-27,14:37,177,986,57,183,13kg,0.5,2.1,Residencial,127.78,168.42,25.44,Amazonas-Rota-04,77,57.9,GLP Residencial,Fogás,Amazonas,Venda Direta,131,23.7,1,46.6,PIX
+F1799,2025-01-27,15:18,463,622,67,124,13kg,0.48,1.3,Industrial,85.26,190.89,39.03,Amapá-Rota-04,116,97.9,GLP Granel,Ultragaz,Amapá,Revenda,672,20.9,5,41.1,Boleto
+F8381,2025-01-27,20:12,115,246,33,287,190kg,0.25,7.0,Residencial,134.64,135.09,15.91,Rondônia-Rota-08,40,29.7,GLP Industrial,Fogás,Rondônia,Revenda,478,20.7,5,23.2,Cartão
+F9911,2025-01-27,13:11,262,621,93,212,45kg,0.3,7.3,Residencial,116.3,123.47,14.61,Roraima-Rota-07,82,41.7,GLP Comercial,Fogás,Roraima,E-commerce,833,21.8,4,22.8,PIX
+F6491,2025-01-27,20:14,124,679,43,208,45kg,0.34,9.3,Comercial,122.0,97.37,37.22,Acre-Rota-04,68,47.5,GLP Residencial,Fogás,Acre,Revenda,510,23.7,1,27.1,Boleto
+F8926,2025-01-27,19:51,406,959,73,116,190kg,0.5,9.3,Residencial,126.03,132.23,14.32,Amapá-Rota-09,67,21.2,GLP Industrial,Fogás,Amapá,Revenda,715,21.5,3,30.5,Boleto
+F5951,2025-01-27,21:32,497,926,57,233,45kg,0.56,3.5,Comercial,111.47,109.66,46.25,Roraima-Rota-06,21,74.1,GLP Comercial,Fogás,Roraima,Revenda,385,23.4,2,45.7,Dinheiro
+F9429,2025-01-27,21:09,259,584,98,208,190kg,0.34,2.0,Industrial,149.85,164.92,38.65,Amapá-Rota-03,89,71.5,GLP Comercial,Ultragaz,Amapá,Venda Direta,39,21.1,2,32.6,Cartão
+F5397,2025-01-27,15:42,336,821,69,115,45kg,0.11,1.0,Residencial,112.48,92.04,45.67,Amazonas-Rota-03,77,80.8,GLP Residencial,Fogás,Amazonas,Revenda,458,22.7,3,13.4,Boleto
+F5433,2025-01-27,16:42,373,588,45,230,190kg,0.18,4.7,Residencial,136.15,107.33,39.59,Amazonas-Rota-08,34,17.1,GLP Granel,Fogás,Amazonas,E-commerce,660,23.7,1,16.6,PIX
+F7879,2025-01-28,15:02,471,830,63,256,45kg,0.44,9.4,Residencial,81.93,120.61,37.09,Amazonas-Rota-01,102,76.5,GLP Industrial,Fogás,Amazonas,Venda Direta,729,19.9,5,11.4,Dinheiro
+F6961,2025-01-28,13:06,395,776,62,104,190kg,0.53,8.3,Industrial,124.64,100.67,39.44,Amapá-Rota-06,29,18.2,GLP Industrial,Fogás,Amapá,Revenda,802,20.3,5,31.4,Boleto
+F4238,2025-01-28,19:55,322,275,74,125,20kg,0.17,3.4,Residencial,121.65,171.13,35.12,Amazonas-Rota-08,93,65.7,GLP Industrial,Fogás,Amazonas,Revenda,75,22.0,5,23.5,Cartão
+F6122,2025-01-28,07:08,461,670,62,163,45kg,0.26,3.3,Industrial,92.44,106.01,24.75,Amapá-Rota-07,84,82.9,GLP Granel,Fogás,Amapá,Venda Direta,732,22.0,4,18.4,Dinheiro
+F2276,2025-01-28,18:19,383,968,57,218,13kg,0.43,1.1,Comercial,127.98,108.65,41.8,Amazonas-Rota-02,102,55.0,GLP Granel,Fogás,Amazonas,Revenda,648,18.5,1,4.5,Cartão
+F4224,2025-01-28,17:42,239,358,84,157,190kg,0.47,8.6,Residencial,77.1,140.88,44.54,Roraima-Rota-07,67,47.5,GLP Residencial,Fogás,Roraima,Venda Direta,847,22.3,5,42.0,Dinheiro
+F5175,2025-01-28,18:27,178,578,78,181,20kg,0.39,7.3,Residencial,92.83,147.13,46.25,Rondônia-Rota-02,115,51.2,GLP Granel,Fogás,Rondônia,Revenda,89,20.1,2,32.7,Dinheiro
+F3575,2025-01-28,21:15,300,712,56,201,20kg,0.37,7.7,Comercial,98.03,155.67,15.17,Acre-Rota-01,103,32.2,GLP Industrial,Fogás,Acre,Revenda,594,19.7,5,14.6,PIX
+F2891,2025-01-28,19:14,66,820,45,137,20kg,0.55,3.0,Residencial,141.0,187.65,45.5,Rondônia-Rota-04,43,21.6,GLP Industrial,Fogás,Rondônia,E-commerce,425,19.0,3,46.6,Dinheiro
+F6788,2025-01-28,20:15,240,437,74,229,190kg,0.31,8.4,Comercial,114.87,126.85,20.45,Amapá-Rota-03,23,99.3,GLP Residencial,Fogás,Amapá,Revenda,84,19.3,3,43.0,PIX
+F1457,2025-01-28,09:57,239,719,41,252,190kg,0.18,5.9,Industrial,74.02,113.77,37.1,Amazonas-Rota-03,61,28.2,GLP Granel,Fogás,Amazonas,Revenda,391,22.2,1,27.7,Dinheiro
+F4995,2025-01-28,16:25,307,716,52,223,20kg,0.27,2.9,Residencial,143.1,185.88,31.98,Amazonas-Rota-05,46,88.7,GLP Residencial,Ultragaz,Amazonas,Venda Direta,370,21.7,5,19.8,Boleto
+F6073,2025-01-28,20:55,306,398,85,135,13kg,0.31,8.0,Residencial,149.17,158.23,43.09,Acre-Rota-01,30,65.0,GLP Granel,Fogás,Acre,Revenda,232,22.0,4,16.2,Cartão
+F6450,2025-01-28,07:43,324,701,30,220,190kg,0.52,3.2,Comercial,132.53,187.77,13.82,Amapá-Rota-04,57,47.1,GLP Comercial,Fogás,Amapá,E-commerce,40,19.3,1,24.8,Cartão
+F2374,2025-01-28,10:21,253,565,20,149,20kg,0.4,3.2,Residencial,80.41,122.42,15.71,Acre-Rota-07,19,18.5,GLP Granel,Fogás,Acre,Revenda,887,20.6,4,47.8,Dinheiro
+F6770,2025-01-28,19:11,84,584,73,259,45kg,0.19,4.2,Residencial,76.96,135.32,17.01,Roraima-Rota-06,48,14.4,GLP Residencial,Fogás,Roraima,Venda Direta,199,20.5,3,8.9,PIX
+F6163,2025-01-28,19:24,213,408,65,290,190kg,0.35,8.6,Residencial,135.69,109.04,39.15,Amapá-Rota-08,66,65.0,GLP Industrial,Ultragaz,Amapá,Revenda,875,21.0,1,22.6,Cartão
+F8346,2025-01-28,06:46,354,284,78,264,45kg,0.18,4.7,Residencial,112.8,197.57,35.82,Amazonas-Rota-01,56,62.0,GLP Granel,Ultragaz,Amazonas,Venda Direta,136,19.5,1,5.5,Dinheiro
+F1216,2025-01-28,20:40,221,502,53,292,45kg,0.36,4.2,Comercial,70.85,112.16,11.69,Amazonas-Rota-06,70,59.1,GLP Industrial,Fogás,Amazonas,Revenda,45,21.1,5,41.3,PIX
+F8809,2025-01-28,09:13,430,718,51,282,20kg,0.57,7.2,Industrial,148.23,193.53,47.73,Roraima-Rota-05,74,47.5,GLP Comercial,Fogás,Roraima,Revenda,375,21.3,3,16.9,Boleto
+F3155,2025-01-28,08:35,462,238,48,206,13kg,0.42,9.1,Comercial,110.06,140.01,39.39,Amazonas-Rota-08,88,52.7,GLP Granel,Fogás,Amazonas,Venda Direta,740,21.3,5,21.5,Boleto
+F8668,2025-01-28,12:18,347,259,94,242,20kg,0.41,2.8,Comercial,108.72,136.06,19.62,Rondônia-Rota-06,50,59.8,GLP Granel,Fogás,Rondônia,Revenda,59,21.0,4,38.6,Cartão
+F3925,2025-01-28,12:13,410,946,39,200,20kg,0.36,6.9,Comercial,138.48,165.42,40.39,Amazonas-Rota-04,60,53.3,GLP Comercial,Fogás,Amazonas,Revenda,350,21.4,2,30.3,Dinheiro
+F9706,2025-01-28,21:48,204,516,72,253,20kg,0.17,1.0,Condomínio,102.75,97.08,45.76,Roraima-Rota-05,80,22.5,GLP Granel,Ultragaz,Roraima,Venda Direta,29,18.8,5,16.3,Cartão
+F2808,2025-01-28,18:29,150,303,94,268,45kg,0.53,6.9,Residencial,122.12,188.17,35.34,Acre-Rota-08,103,82.9,GLP Residencial,Fogás,Acre,Revenda,472,19.9,2,24.4,Dinheiro
+F1483,2025-01-28,11:06,273,867,47,109,13kg,0.59,1.1,Comercial,91.04,169.04,20.94,Acre-Rota-02,119,90.7,GLP Granel,Fogás,Acre,Revenda,616,21.8,1,8.5,PIX
+F8393,2025-01-28,09:45,271,747,28,227,13kg,0.18,2.5,Residencial,119.21,173.77,45.69,Acre-Rota-06,95,36.0,GLP Granel,Ultragaz,Acre,Venda Direta,743,21.4,3,12.9,Cartão
+F7047,2025-01-28,17:14,386,557,62,251,45kg,0.28,3.4,Residencial,126.93,130.53,21.03,Acre-Rota-05,49,8.8,GLP Residencial,Fogás,Acre,Revenda,92,19.2,2,10.7,Boleto
+F9094,2025-01-28,09:30,298,716,89,279,190kg,0.44,3.5,Residencial,70.43,107.2,14.71,Roraima-Rota-01,94,13.8,GLP Industrial,Fogás,Roraima,Revenda,977,22.2,3,34.9,Boleto
+F4440,2025-01-28,07:08,419,788,63,269,45kg,0.43,8.9,Condomínio,147.37,183.85,29.85,Amapá-Rota-08,44,96.8,GLP Residencial,Fogás,Amapá,Revenda,382,19.8,5,22.7,Cartão
+F7031,2025-01-28,07:22,396,878,38,167,45kg,0.44,1.4,Comercial,145.81,128.67,47.82,Rondônia-Rota-01,82,5.3,GLP Comercial,Fogás,Rondônia,Venda Direta,453,20.4,4,43.3,Boleto
+F8056,2025-01-28,08:53,211,652,97,190,13kg,0.5,2.9,Industrial,131.7,159.46,45.02,Rondônia-Rota-05,106,34.3,GLP Residencial,Fogás,Rondônia,Revenda,215,19.2,3,22.7,Cartão
+F4568,2025-01-28,18:12,73,667,99,162,190kg,0.24,5.9,Residencial,75.22,190.57,37.07,Acre-Rota-02,18,26.6,GLP Comercial,Fogás,Acre,Venda Direta,943,21.9,5,38.1,Boleto
+F5054,2025-01-28,11:32,261,622,78,234,20kg,0.34,3.1,Residencial,89.24,139.52,11.48,Acre-Rota-06,105,45.6,GLP Granel,Fogás,Acre,Venda Direta,608,20.8,4,11.6,Boleto
+F1981,2025-01-28,12:55,155,654,44,102,45kg,0.47,7.1,Residencial,73.34,183.5,16.73,Acre-Rota-01,25,17.0,GLP Residencial,Fogás,Acre,Revenda,81,19.9,5,12.4,Dinheiro
+F6431,2025-01-28,13:09,430,506,22,223,190kg,0.35,1.8,Condomínio,72.81,118.87,28.33,Roraima-Rota-09,29,48.1,GLP Industrial,Fogás,Roraima,Venda Direta,160,21.6,2,38.6,Boleto
+F3155,2025-01-28,06:33,452,609,22,155,190kg,0.53,3.8,Residencial,81.52,181.88,26.27,Rondônia-Rota-04,107,55.0,GLP Comercial,Ultragaz,Rondônia,E-commerce,719,21.1,5,22.7,Dinheiro
+F3720,2025-01-28,14:45,275,348,83,281,13kg,0.34,8.0,Residencial,105.81,112.86,10.18,Acre-Rota-05,30,94.6,GLP Residencial,Fogás,Acre,Venda Direta,201,19.8,1,25.4,Dinheiro
+F1493,2025-01-29,13:35,430,589,39,284,13kg,0.56,8.0,Residencial,70.69,129.48,15.28,Amazonas-Rota-06,55,66.5,GLP Residencial,Fogás,Amazonas,E-commerce,147,21.8,3,0.7,Dinheiro
+F7577,2025-01-29,12:51,468,681,61,247,190kg,0.31,1.9,Condomínio,143.72,103.91,31.36,Amapá-Rota-07,92,7.6,GLP Industrial,Fogás,Amapá,Venda Direta,993,22.0,1,26.4,PIX
+F8019,2025-01-29,21:55,486,419,81,252,20kg,0.55,1.0,Residencial,117.29,143.61,26.33,Rondônia-Rota-08,21,54.3,GLP Granel,Fogás,Rondônia,Revenda,736,23.8,1,32.9,PIX
+F9660,2025-01-29,21:55,175,960,68,169,190kg,0.37,4.6,Residencial,108.58,191.98,23.86,Roraima-Rota-01,98,16.6,GLP Comercial,Fogás,Roraima,Venda Direta,575,24.3,4,47.4,PIX
+F1943,2025-01-29,06:30,71,778,35,275,13kg,0.46,5.5,Industrial,132.14,156.74,17.05,Amazonas-Rota-07,80,63.6,GLP Granel,Fogás,Amazonas,Revenda,506,22.9,3,45.5,Boleto
+F5548,2025-01-29,16:39,145,410,76,163,20kg,0.16,1.3,Residencial,127.61,130.43,17.51,Acre-Rota-07,116,58.6,GLP Comercial,Fogás,Acre,Revenda,684,22.1,3,32.5,Cartão
+F3631,2025-01-29,13:23,259,356,23,129,20kg,0.33,8.9,Residencial,88.91,138.37,49.69,Roraima-Rota-08,35,99.5,GLP Granel,Fogás,Roraima,Venda Direta,393,23.3,4,28.2,Boleto
+F1309,2025-01-29,06:30,485,568,25,283,190kg,0.39,7.6,Comercial,119.15,151.55,40.2,Roraima-Rota-01,102,8.6,GLP Residencial,Fogás,Roraima,Venda Direta,958,23.1,4,37.9,Boleto
+F2490,2025-01-29,13:54,271,391,72,187,190kg,0.2,8.1,Comercial,130.01,143.6,25.04,Amapá-Rota-01,74,81.6,GLP Comercial,Fogás,Amapá,Venda Direta,449,23.1,3,37.8,Cartão
+F3243,2025-01-29,09:44,261,309,59,244,190kg,0.36,6.6,Residencial,86.1,179.52,19.99,Rondônia-Rota-06,96,33.2,GLP Granel,Fogás,Rondônia,Venda Direta,978,23.0,5,24.2,Dinheiro
+F9818,2025-01-29,21:01,63,636,20,223,13kg,0.29,4.6,Condomínio,140.27,163.08,10.89,Amazonas-Rota-05,67,48.9,GLP Residencial,Fogás,Amazonas,Venda Direta,328,22.8,2,40.1,Dinheiro
+F3762,2025-01-29,17:16,428,533,57,206,13kg,0.46,4.2,Residencial,133.78,161.4,49.76,Roraima-Rota-07,81,50.4,GLP Comercial,Fogás,Roraima,Revenda,883,20.9,5,10.7,Cartão
+F2168,2025-01-29,08:13,189,833,85,280,13kg,0.27,6.2,Residencial,127.75,167.47,45.19,Amapá-Rota-05,49,6.5,GLP Industrial,Ultragaz,Amapá,Revenda,224,24.6,4,2.2,Boleto
+F7484,2025-01-29,17:21,212,729,28,268,190kg,0.16,1.3,Residencial,142.31,167.55,28.74,Rondônia-Rota-05,116,49.2,GLP Residencial,Fogás,Rondônia,E-commerce,909,22.4,3,31.5,PIX
+F9958,2025-01-29,14:43,265,939,81,281,13kg,0.41,3.8,Condomínio,101.52,99.77,33.4,Roraima-Rota-03,30,90.5,GLP Granel,Fogás,Roraima,Revenda,620,23.7,2,31.9,Boleto
+F6548,2025-01-29,12:54,232,743,54,154,190kg,0.11,1.7,Residencial,132.24,112.44,46.67,Amapá-Rota-06,106,86.8,GLP Granel,Fogás,Amapá,Revenda,847,21.7,4,25.4,Dinheiro
+F6695,2025-01-29,07:41,326,373,47,124,13kg,0.21,7.5,Residencial,121.12,116.96,43.73,Amazonas-Rota-04,58,63.6,GLP Industrial,Fogás,Amazonas,Revenda,573,23.3,4,28.5,Dinheiro
+F1201,2025-01-29,17:03,50,650,87,139,20kg,0.32,5.7,Comercial,108.4,185.8,36.74,Amapá-Rota-07,36,14.1,GLP Granel,Fogás,Amapá,Venda Direta,649,22.0,2,44.5,PIX
+F4939,2025-01-29,13:31,328,373,92,225,45kg,0.47,7.7,Residencial,126.92,143.42,42.92,Amapá-Rota-02,66,15.8,GLP Granel,Fogás,Amapá,Revenda,856,21.2,5,13.2,Cartão
+F2985,2025-01-29,17:19,416,373,61,182,20kg,0.42,3.5,Residencial,124.7,171.75,11.43,Roraima-Rota-07,57,9.1,GLP Industrial,Fogás,Roraima,Revenda,660,23.7,2,6.3,Dinheiro
+F3007,2025-01-29,19:43,64,340,58,113,13kg,0.22,8.8,Residencial,147.21,131.31,38.91,Rondônia-Rota-09,88,86.3,GLP Industrial,Fogás,Rondônia,Venda Direta,173,21.4,2,20.5,PIX
+F7383,2025-01-29,09:55,80,506,21,268,13kg,0.42,4.7,Condomínio,94.89,133.27,21.21,Roraima-Rota-01,20,91.2,GLP Granel,Fogás,Roraima,Revenda,63,21.7,5,0.5,Dinheiro
+F6951,2025-01-29,18:39,387,330,54,197,190kg,0.36,3.2,Residencial,128.57,115.04,45.36,Amapá-Rota-06,92,11.4,GLP Comercial,Fogás,Amapá,Revenda,134,23.2,1,23.8,Boleto
+F4686,2025-01-29,16:19,177,208,46,230,190kg,0.32,6.0,Residencial,85.44,154.88,20.69,Amapá-Rota-09,103,43.8,GLP Granel,Fogás,Amapá,Revenda,387,23.3,5,14.4,Dinheiro
+F2951,2025-01-29,14:03,304,765,45,295,13kg,0.34,7.6,Comercial,149.23,154.94,32.97,Rondônia-Rota-05,95,99.6,GLP Industrial,Fogás,Rondônia,E-commerce,652,21.1,1,29.5,Boleto
+F5536,2025-01-29,18:07,144,750,83,179,45kg,0.6,4.9,Condomínio,76.99,141.31,30.84,Amapá-Rota-06,48,12.4,GLP Industrial,Fogás,Amapá,Revenda,931,22.0,4,8.4,Dinheiro
+F3156,2025-01-29,21:02,370,626,41,280,45kg,0.34,3.6,Industrial,145.1,196.63,24.93,Amapá-Rota-08,74,76.4,GLP Comercial,Fogás,Amapá,Venda Direta,507,22.4,5,21.5,Dinheiro
+F8266,2025-01-29,16:27,286,825,27,124,190kg,0.25,7.5,Industrial,77.33,135.01,11.39,Roraima-Rota-09,115,53.2,GLP Residencial,Fogás,Roraima,Revenda,186,23.7,2,19.6,Boleto
+F7205,2025-01-29,13:04,433,311,75,285,20kg,0.13,6.5,Residencial,71.86,123.19,13.07,Amapá-Rota-03,68,82.4,GLP Granel,Ultragaz,Amapá,Revenda,634,21.6,3,12.2,Dinheiro
+F4235,2025-01-29,09:56,334,514,66,199,190kg,0.52,4.3,Residencial,101.74,115.89,12.79,Amapá-Rota-05,17,90.7,GLP Granel,Fogás,Amapá,Revenda,389,21.6,2,40.4,Boleto
+F7199,2025-01-29,13:39,291,508,62,132,190kg,0.32,4.6,Residencial,105.47,175.03,26.08,Amazonas-Rota-09,83,58.6,GLP Granel,Fogás,Amazonas,Revenda,707,23.1,3,16.9,Dinheiro
+F5365,2025-01-29,11:30,285,677,87,134,13kg,0.12,5.0,Condomínio,94.57,190.61,36.59,Acre-Rota-08,62,10.2,GLP Granel,Fogás,Acre,Revenda,977,24.7,1,23.0,Dinheiro
+F9730,2025-01-30,18:00,458,214,24,272,190kg,0.19,9.8,Industrial,107.3,147.53,22.04,Roraima-Rota-05,44,21.8,GLP Industrial,Fogás,Roraima,Revenda,644,28.8,2,9.6,Cartão
+F9240,2025-01-30,09:48,56,599,27,146,190kg,0.54,8.8,Industrial,107.49,188.17,39.55,Rondônia-Rota-07,19,7.8,GLP Residencial,Ultragaz,Rondônia,Venda Direta,683,29.6,5,12.5,PIX
+F2790,2025-01-30,10:37,446,903,54,290,20kg,0.17,1.3,Comercial,87.0,124.83,41.82,Roraima-Rota-06,32,86.3,GLP Industrial,Fogás,Roraima,Revenda,618,28.8,4,11.7,Cartão
+F8805,2025-01-30,09:51,170,227,49,140,190kg,0.6,5.4,Residencial,93.76,131.49,11.66,Roraima-Rota-01,62,73.7,GLP Industrial,Fogás,Roraima,Revenda,670,31.9,2,9.6,Cartão
+F5635,2025-01-30,09:02,235,966,96,244,20kg,0.42,9.3,Residencial,118.21,137.26,40.13,Roraima-Rota-06,57,42.8,GLP Granel,Fogás,Roraima,Venda Direta,833,29.0,5,46.7,Boleto
+F4190,2025-01-30,15:07,463,734,45,113,13kg,0.23,4.1,Industrial,88.86,115.93,28.3,Amapá-Rota-06,62,51.9,GLP Residencial,Fogás,Amapá,Venda Direta,84,30.8,3,24.3,PIX
+F2040,2025-01-30,16:45,370,397,55,206,20kg,0.51,2.9,Comercial,91.59,199.38,29.3,Amazonas-Rota-04,18,59.1,GLP Residencial,Fogás,Amazonas,Revenda,970,29.7,1,7.3,Dinheiro
+F4812,2025-01-30,21:19,301,691,93,158,20kg,0.32,2.6,Residencial,113.54,146.34,19.09,Acre-Rota-07,90,12.0,GLP Industrial,Fogás,Acre,Revenda,334,30.8,2,11.7,Dinheiro
+F5171,2025-01-30,06:09,252,570,54,185,13kg,0.29,1.8,Residencial,149.97,122.49,47.81,Amapá-Rota-09,76,20.7,GLP Residencial,Fogás,Amapá,Revenda,850,29.5,1,13.6,Boleto
+F9584,2025-01-30,17:27,289,787,97,195,20kg,0.55,8.3,Residencial,148.06,180.1,45.22,Roraima-Rota-02,25,12.4,GLP Industrial,Fogás,Roraima,Revenda,292,32.0,2,15.9,Boleto
+F2289,2025-01-30,08:21,188,598,63,226,45kg,0.19,2.0,Comercial,139.78,132.38,10.71,Rondônia-Rota-05,58,64.2,GLP Comercial,Fogás,Rondônia,Revenda,845,28.6,3,21.6,Dinheiro
+F2143,2025-01-30,15:23,302,497,77,111,45kg,0.51,5.7,Industrial,112.16,173.75,46.15,Amazonas-Rota-04,49,24.5,GLP Industrial,Fogás,Amazonas,Revenda,630,30.6,4,27.6,Dinheiro
+F2040,2025-01-30,20:10,420,360,41,246,20kg,0.25,5.9,Comercial,82.74,175.31,47.52,Rondônia-Rota-01,53,95.7,GLP Industrial,Fogás,Rondônia,Venda Direta,920,28.7,3,32.3,Boleto
+F8640,2025-01-30,15:50,266,764,27,212,45kg,0.28,4.0,Condomínio,100.82,90.31,38.18,Acre-Rota-09,33,60.9,GLP Industrial,Fogás,Acre,Revenda,461,31.1,5,2.9,Dinheiro
+F7878,2025-01-30,08:42,404,850,46,269,45kg,0.53,4.9,Residencial,121.55,151.9,24.08,Amapá-Rota-09,50,38.5,GLP Comercial,Ultragaz,Amapá,Venda Direta,759,28.5,5,35.3,Boleto
+F7494,2025-01-30,06:40,370,352,36,257,13kg,0.2,6.8,Residencial,83.36,159.13,29.28,Amapá-Rota-01,15,59.6,GLP Granel,Fogás,Amapá,Revenda,202,28.6,4,39.1,Boleto
+F4711,2025-01-30,06:19,372,785,83,107,190kg,0.12,8.7,Condomínio,107.07,148.35,33.02,Acre-Rota-07,119,16.8,GLP Granel,Fogás,Acre,Revenda,407,29.4,2,47.9,Dinheiro
+F3844,2025-01-30,08:38,196,648,68,148,20kg,0.34,2.3,Comercial,120.19,111.72,48.84,Amazonas-Rota-04,111,86.7,GLP Residencial,Fogás,Amazonas,Venda Direta,817,30.1,2,25.4,Boleto
+F5483,2025-01-30,12:21,230,846,87,256,190kg,0.47,5.7,Residencial,123.35,186.03,31.44,Amapá-Rota-09,44,24.6,GLP Industrial,Fogás,Amapá,Revenda,795,30.8,1,4.1,Cartão
+F8688,2025-01-30,06:58,442,916,95,249,45kg,0.18,5.9,Residencial,135.14,164.58,46.02,Acre-Rota-02,25,40.3,GLP Residencial,Fogás,Acre,Revenda,141,28.9,1,10.5,Boleto
+F7791,2025-01-30,14:16,108,853,95,173,190kg,0.54,4.6,Residencial,133.99,117.61,13.31,Roraima-Rota-05,44,98.8,GLP Residencial,Fogás,Roraima,Venda Direta,900,30.5,4,46.8,Cartão
+F3452,2025-01-30,11:18,285,582,89,249,45kg,0.25,2.8,Residencial,118.01,184.03,31.78,Rondônia-Rota-08,107,37.5,GLP Comercial,Fogás,Rondônia,E-commerce,852,28.4,5,21.9,Cartão
+F1230,2025-01-30,11:37,70,356,25,107,13kg,0.37,2.7,Comercial,144.52,141.02,26.36,Amazonas-Rota-08,54,60.3,GLP Residencial,Fogás,Amazonas,Revenda,927,29.6,3,15.2,Dinheiro
+F3001,2025-01-30,15:25,340,953,96,196,190kg,0.57,2.6,Residencial,143.02,160.74,23.55,Amapá-Rota-03,48,87.9,GLP Industrial,Ultragaz,Amapá,E-commerce,842,31.0,4,8.6,PIX
+F8926,2025-01-30,11:18,318,707,52,279,13kg,0.28,2.2,Residencial,134.01,115.19,47.62,Roraima-Rota-03,88,52.8,GLP Comercial,Fogás,Roraima,E-commerce,803,30.9,2,16.3,Boleto
+F4514,2025-01-30,14:53,237,555,31,273,45kg,0.48,3.1,Residencial,74.74,152.18,31.27,Roraima-Rota-02,105,40.3,GLP Residencial,Ultragaz,Roraima,Revenda,605,29.5,3,47.4,Dinheiro
+F9585,2025-01-30,10:44,316,569,90,134,20kg,0.5,2.5,Comercial,72.83,103.92,15.76,Acre-Rota-05,104,48.2,GLP Residencial,Ultragaz,Acre,E-commerce,786,31.2,2,1.4,Cartão
+F1251,2025-01-30,16:19,56,406,74,131,45kg,0.11,9.9,Residencial,142.08,95.13,31.78,Acre-Rota-07,105,67.8,GLP Granel,Fogás,Acre,Revenda,904,32.1,3,36.8,PIX
+F8052,2025-01-30,07:39,304,380,81,263,20kg,0.31,1.4,Residencial,95.65,116.6,25.36,Acre-Rota-03,27,68.0,GLP Granel,Ultragaz,Acre,Revenda,708,31.0,4,44.6,Dinheiro
+F3337,2025-01-30,18:38,457,494,62,164,45kg,0.54,6.8,Condomínio,80.85,145.85,25.54,Amazonas-Rota-08,83,61.3,GLP Comercial,Fogás,Amazonas,Venda Direta,288,28.2,4,44.1,PIX
+F3467,2025-01-30,21:56,298,974,25,100,20kg,0.5,8.2,Comercial,119.95,174.02,17.35,Amazonas-Rota-06,49,59.6,GLP Comercial,Fogás,Amazonas,Revenda,246,29.9,5,38.9,Cartão
+F2120,2025-01-30,12:23,89,577,89,236,20kg,0.16,1.1,Residencial,85.04,184.07,31.42,Rondônia-Rota-07,115,82.9,GLP Comercial,Fogás,Rondônia,Revenda,646,31.6,2,24.2,Boleto
+F3150,2025-01-31,13:37,279,893,53,183,190kg,0.53,5.3,Residencial,113.73,124.77,36.73,Amapá-Rota-08,88,9.0,GLP Comercial,Fogás,Amapá,Venda Direta,674,33.3,1,41.5,Boleto
+F3792,2025-01-31,08:54,137,507,89,227,45kg,0.16,7.5,Comercial,149.11,153.71,21.08,Roraima-Rota-09,55,53.7,GLP Residencial,Fogás,Roraima,Revenda,953,33.4,2,43.5,Cartão
+F8628,2025-01-31,10:14,276,402,66,140,20kg,0.22,3.7,Comercial,76.85,114.43,20.84,Rondônia-Rota-09,109,54.3,GLP Industrial,Fogás,Rondônia,Revenda,667,34.6,3,18.7,Dinheiro
+F9231,2025-01-31,08:18,123,726,97,123,45kg,0.52,8.0,Comercial,80.58,153.68,12.08,Rondônia-Rota-01,50,97.2,GLP Comercial,Fogás,Rondônia,E-commerce,478,32.7,1,16.1,Dinheiro
+F9873,2025-01-31,08:58,376,653,61,276,13kg,0.59,2.9,Comercial,138.78,186.5,25.03,Rondônia-Rota-03,111,84.4,GLP Granel,Fogás,Rondônia,E-commerce,76,32.7,2,28.2,Cartão
+F6624,2025-01-31,07:45,145,460,60,200,13kg,0.42,3.1,Industrial,118.4,137.34,37.3,Amapá-Rota-01,89,40.5,GLP Residencial,Fogás,Amapá,Revenda,939,34.8,1,29.7,Cartão
+F9200,2025-01-31,21:12,334,325,69,242,13kg,0.57,5.7,Residencial,97.37,174.86,33.97,Amapá-Rota-01,51,31.7,GLP Comercial,Fogás,Amapá,Revenda,846,31.9,1,30.2,Dinheiro
+F8206,2025-01-31,06:00,388,646,61,184,190kg,0.31,1.6,Industrial,87.98,124.91,31.58,Amapá-Rota-01,97,36.4,GLP Comercial,Fogás,Amapá,E-commerce,121,31.9,4,7.3,Cartão
+F6156,2025-01-31,11:13,115,834,98,216,45kg,0.42,5.0,Residencial,102.1,158.66,40.14,Roraima-Rota-09,33,75.8,GLP Residencial,Fogás,Roraima,Revenda,505,34.3,2,47.0,Cartão
+F4045,2025-01-31,16:09,454,692,93,177,45kg,0.59,6.6,Residencial,92.87,124.32,19.22,Amazonas-Rota-08,70,72.3,GLP Industrial,Fogás,Amazonas,Revenda,435,34.5,3,11.6,Dinheiro
+F6915,2025-01-31,14:45,396,682,98,229,13kg,0.15,3.3,Residencial,110.15,164.93,26.03,Rondônia-Rota-04,116,48.9,GLP Residencial,Fogás,Rondônia,E-commerce,866,35.1,1,3.1,Boleto
+F8494,2025-01-31,18:11,436,602,79,110,45kg,0.13,2.4,Residencial,144.48,92.9,45.28,Amazonas-Rota-08,102,25.0,GLP Industrial,Fogás,Amazonas,Revenda,849,32.9,5,36.7,Cartão
+F2039,2025-01-31,20:05,280,302,89,239,190kg,0.53,7.1,Residencial,149.57,129.29,47.44,Roraima-Rota-07,28,46.0,GLP Comercial,Fogás,Roraima,E-commerce,67,34.6,5,20.5,Boleto
+F2573,2025-01-31,09:22,308,670,73,267,45kg,0.26,4.8,Comercial,71.52,128.79,41.85,Roraima-Rota-09,52,27.5,GLP Granel,Fogás,Roraima,Revenda,15,32.0,2,24.9,Boleto
+F3397,2025-01-31,12:03,356,880,50,152,20kg,0.52,3.4,Residencial,99.78,138.64,45.66,Roraima-Rota-08,17,75.4,GLP Residencial,Fogás,Roraima,Revenda,29,34.2,3,16.8,Cartão
+F7565,2025-01-31,12:27,475,441,35,196,190kg,0.56,4.3,Residencial,134.34,127.56,18.02,Amazonas-Rota-02,117,57.0,GLP Granel,Fogás,Amazonas,Venda Direta,372,34.3,1,12.1,Boleto
+F5223,2025-01-31,16:14,311,243,34,118,13kg,0.14,9.4,Comercial,91.6,173.86,19.3,Roraima-Rota-09,49,32.9,GLP Granel,Fogás,Roraima,Venda Direta,596,33.4,1,25.3,Cartão
+F8444,2025-01-31,06:27,304,726,49,254,45kg,0.14,6.6,Industrial,131.32,183.81,19.85,Amazonas-Rota-05,74,12.1,GLP Industrial,Fogás,Amazonas,Revenda,635,34.3,3,20.4,PIX
+F8291,2025-01-31,21:55,211,430,57,218,45kg,0.21,9.1,Residencial,94.69,176.74,15.38,Roraima-Rota-08,111,82.5,GLP Residencial,Fogás,Roraima,Venda Direta,359,32.5,3,41.0,Cartão
+F4895,2025-01-31,21:29,322,619,64,234,190kg,0.48,1.7,Residencial,130.27,179.05,23.1,Rondônia-Rota-01,107,51.4,GLP Comercial,Fogás,Rondônia,E-commerce,918,32.2,1,29.1,PIX
+F9421,2025-01-31,06:55,489,673,49,220,20kg,0.43,1.1,Condomínio,75.13,116.17,30.07,Roraima-Rota-09,111,5.5,GLP Industrial,Fogás,Roraima,E-commerce,826,34.0,4,32.0,Dinheiro
+F7082,2025-01-31,11:04,495,986,74,193,190kg,0.18,3.9,Residencial,148.27,130.75,33.03,Amapá-Rota-03,74,87.5,GLP Comercial,Fogás,Amapá,Revenda,274,32.9,3,12.1,Boleto
+F9884,2025-01-31,08:37,207,646,60,176,190kg,0.2,1.6,Residencial,92.54,147.81,47.52,Rondônia-Rota-03,48,62.4,GLP Residencial,Fogás,Rondônia,Revenda,329,33.6,1,37.3,Boleto
