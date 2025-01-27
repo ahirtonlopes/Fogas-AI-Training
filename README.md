@@ -7,6 +7,7 @@ Este curso foi desenvolvido para capacitar gestores e profissionais da Fogás no
 
 ### 1️⃣ **Introduction to Prompt Design - Aula 1**  
 **Data**: 13/01/2025 
+
 **Descrição**:  
 Nesta aula, abordamos os fundamentos de **Prompt Engineering**, explorando como estruturar comandos e perguntas para obter respostas eficazes e contextualizadas de modelos de linguagem como o ChatGPT e similares.  
 
@@ -19,6 +20,7 @@ Nesta aula, abordamos os fundamentos de **Prompt Engineering**, explorando como 
 
 ### 2️⃣ **Introduction to Prompt Design - Aula 2**  
 **Data**: 15/01/2025
+
 **Descrição**:  
 Expandimos os conceitos abordados na primeira aula, com ênfase em personalização de prompts para tarefas específicas.  
 
@@ -31,6 +33,7 @@ Expandimos os conceitos abordados na primeira aula, com ênfase em personalizaç
 
 ### 3️⃣ **GitHub Copilot para Gestores** *(Aula Futura)*  
 **Data**: 27/01/2025
+
 **Descrição**:  
 Introdução ao uso do **GitHub Copilot**, destacando como gestores podem utilizar a ferramenta para aumentar a eficiência das equipes técnicas e facilitar processos de tomada de decisão.  
 
