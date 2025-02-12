@@ -1,4 +1,4 @@
-# 8. Uso do Copilot para Autocompletar Funções com Lógica de Negócio
+# 5. Uso do Copilot para Autocompletar Funções com Lógica de Negócio
 
 def calcular_frete(peso, distancia):
     """
